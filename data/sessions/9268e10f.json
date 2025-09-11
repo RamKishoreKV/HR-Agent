@@ -1,0 +1,133 @@
+{
+  "session_id": "9268e10f",
+  "last_input": "hire an ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "N Ai Engineer",
+        "summary": "Join our fast-paced startup as a Junior N AI Engineer and drive innovation in inference optimisation for Large Language Models. You'll work closely with our team to develop cutting-edge solutions that impact millions of users worldwide.",
+        "responsibilities": [
+          "Design, develop, and deploy highly efficient neural network architectures for inference optimisation",
+          "Collaborate with cross-functional teams (software engineers, researchers, product managers) to integrate N AI models into our products",
+          "Conduct thorough analysis of performance metrics (latency, accuracy, energy consumption) to inform model improvements",
+          "Develop and maintain high-quality documentation for N AI models and their applications",
+          "Stay up-to-date with the latest advancements in Large Language Models and inference optimisation techniques",
+          "Identify and prioritize opportunities for process improvements and automation",
+          "Contribute to the development of a knowledge-sharing culture within the team"
+        ],
+        "requirements": [
+          "Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field",
+          "Strong foundation in neural networks, deep learning, and Large Language Models",
+          "Proficiency in programming languages such as Python, C++, Java, or Julia",
+          "Experience with inference optimisation techniques (e.g., quantization, pruning, knowledge distillation)",
+          "Familiarity with popular N AI frameworks (PyTorch, TensorFlow, JAX)",
+          "Good understanding of cloud computing platforms (AWS, GCP, Azure) and containerisation (Docker, Kubernetes)",
+          "Excellent communication and collaboration skills",
+          "Ability to work in a fast-paced environment with multiple priorities"
+        ],
+        "compensation_note": "30k-40k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing and Candidate Pool Development - Utilize job boards, social media, and professional networks to attract potential candidates.",
+        "Week 1: Screening - Conduct initial phone or video screening to assess candidate fit, experience, and skills using asynchronous tools like Spark Hire or Calendly.",
+        "Week 1: Skills Assessment - Send relevant coding challenges or assessments through platforms like HackerRank or LeetCode to evaluate technical abilities.",
+        "Week 2: Interviews - Schedule in-person or virtual interviews with the Hiring Manager, Team Lead, and other relevant stakeholders.",
+        "Week 2: Reference Checks - Conduct thorough reference checks with previous employers or clients to validate candidate claims.",
+        "Week 2: Offer Extension and Negotiation (if necessary) - Present the offer to the selected candidate, negotiate terms if required, and finalize onboarding preparations."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Team Lead",
+        "Team Lead for AI Engineering",
+        "CEO/Founder",
+        "Hiring Manager",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **N Ai Engineer**. The target timeline is **2 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### N Ai Engineer\n**Summary**: Join our fast-paced startup as a Junior N AI Engineer and drive innovation in inference optimisation for Large Language Models. You'll work closely with our team to develop cutting-edge solutions that impact millions of users worldwide.\n**Key Responsibilities:**\n- Design, develop, and deploy highly efficient neural network architectures for inference optimisation\n- Collaborate with cross-functional teams (software engineers, researchers, product managers) to integrate N AI models into our products\n- Conduct thorough analysis of performance metrics (latency, accuracy, energy consumption) to inform model improvements\n- Develop and maintain high-quality documentation for N AI models and their applications\n- Stay up-to-date with the latest advancements in Large Language Models and inference optimisation techniques\n- Identify and prioritize opportunities for process improvements and automation\n- Contribute to the development of a knowledge-sharing culture within the team\n**Requirements:**\n- Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field\n- Strong foundation in neural networks, deep learning, and Large Language Models\n- Proficiency in programming languages such as Python, C++, Java, or Julia\n- Experience with inference optimisation techniques (e.g., quantization, pruning, knowledge distillation)\n- Familiarity with popular N AI frameworks (PyTorch, TensorFlow, JAX)\n- Good understanding of cloud computing platforms (AWS, GCP, Azure) and containerisation (Docker, Kubernetes)\n- Excellent communication and collaboration skills\n- Ability to work in a fast-paced environment with multiple priorities\n**Compensation:** 30k-40k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 2 weeks\n**Process Steps:**\n1. Week 1: Sourcing and Candidate Pool Development - Utilize job boards, social media, and professional networks to attract potential candidates.  \n   *Owner: Hiring Manager*\n2. Week 1: Screening - Conduct initial phone or video screening to assess candidate fit, experience, and skills using asynchronous tools like Spark Hire or Calendly.  \n   *Owner: HR Team Lead*\n3. Week 1: Skills Assessment - Send relevant coding challenges or assessments through platforms like HackerRank or LeetCode to evaluate technical abilities.  \n   *Owner: Team Lead for AI Engineering*\n4. Week 2: Interviews - Schedule in-person or virtual interviews with the Hiring Manager, Team Lead, and other relevant stakeholders.  \n   *Owner: CEO/Founder*\n5. Week 2: Reference Checks - Conduct thorough reference checks with previous employers or clients to validate candidate claims.  \n   *Owner: Hiring Manager*\n6. Week 2: Offer Extension and Negotiation (if necessary) - Present the offer to the selected candidate, negotiate terms if required, and finalize onboarding preparations.  \n   *Owner: Hiring Manager*\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "30k-40k",
+        "seniority": "junior",
+        "employment_type": "intern",
+        "location": "remote",
+        "key_skills": [
+          "inference optimisation",
+          "llm"
+        ],
+        "roles": [
+          "N Ai Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "N Ai Engineer",
+          "summary": "Join our fast-paced startup as a Junior N AI Engineer and drive innovation in inference optimisation for Large Language Models. You'll work closely with our team to develop cutting-edge solutions that impact millions of users worldwide.",
+          "responsibilities": [
+            "Design, develop, and deploy highly efficient neural network architectures for inference optimisation",
+            "Collaborate with cross-functional teams (software engineers, researchers, product managers) to integrate N AI models into our products",
+            "Conduct thorough analysis of performance metrics (latency, accuracy, energy consumption) to inform model improvements",
+            "Develop and maintain high-quality documentation for N AI models and their applications",
+            "Stay up-to-date with the latest advancements in Large Language Models and inference optimisation techniques",
+            "Identify and prioritize opportunities for process improvements and automation",
+            "Contribute to the development of a knowledge-sharing culture within the team"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field",
+            "Strong foundation in neural networks, deep learning, and Large Language Models",
+            "Proficiency in programming languages such as Python, C++, Java, or Julia",
+            "Experience with inference optimisation techniques (e.g., quantization, pruning, knowledge distillation)",
+            "Familiarity with popular N AI frameworks (PyTorch, TensorFlow, JAX)",
+            "Good understanding of cloud computing platforms (AWS, GCP, Azure) and containerisation (Docker, Kubernetes)",
+            "Excellent communication and collaboration skills",
+            "Ability to work in a fast-paced environment with multiple priorities"
+          ],
+          "compensation_note": "30k-40k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing and Candidate Pool Development - Utilize job boards, social media, and professional networks to attract potential candidates.",
+          "Week 1: Screening - Conduct initial phone or video screening to assess candidate fit, experience, and skills using asynchronous tools like Spark Hire or Calendly.",
+          "Week 1: Skills Assessment - Send relevant coding challenges or assessments through platforms like HackerRank or LeetCode to evaluate technical abilities.",
+          "Week 2: Interviews - Schedule in-person or virtual interviews with the Hiring Manager, Team Lead, and other relevant stakeholders.",
+          "Week 2: Reference Checks - Conduct thorough reference checks with previous employers or clients to validate candidate claims.",
+          "Week 2: Offer Extension and Negotiation (if necessary) - Present the offer to the selected candidate, negotiate terms if required, and finalize onboarding preparations."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Team Lead",
+          "Team Lead for AI Engineering",
+          "CEO/Founder",
+          "Hiring Manager",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 2
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "30k-40k",
+    "seniority": "junior",
+    "employment_type": "intern",
+    "location": "remote",
+    "key_skills": [
+      "inference optimisation",
+      "llm"
+    ],
+    "roles": [
+      "N Ai Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T17:04:07.748675"
+}

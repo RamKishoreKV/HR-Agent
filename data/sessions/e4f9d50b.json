@@ -1,0 +1,154 @@
+{
+  "session_id": "e4f9d50b",
+  "last_input": "help me hire a  business analyst and data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Business Analyst",
+        "summary": "Join our high-growth startup as a Business Analyst where you'll play a critical role in driving business outcomes through data-driven insights and process improvements. As a key member of our operations team, you'll collaborate with cross-functional stakeholders to develop and implement data-driven solutions that propel our company forward.",
+        "responsibilities": [
+          "Develop and maintain dashboards to track key performance indicators (KPIs) and provide actionable recommendations for business improvement",
+          "Collaborate with cross-functional teams to identify opportunities for process improvements and implement changes that drive business outcomes",
+          "Conduct thorough requirements gathering sessions with stakeholders to understand their needs and develop tailored solutions",
+          "Design and implement data visualization tools to facilitate stakeholder understanding of complex data insights",
+          "Develop and maintain SQL queries to extract and analyze large datasets, providing insights that inform business decisions",
+          "Work closely with the product team to identify areas for improvement in our existing processes and workflows",
+          "Identify and recommend opportunities for automation and efficiency gains within our operations",
+          "Develop and maintain documentation of processes and procedures to ensure consistency and knowledge sharing across teams"
+        ],
+        "requirements": [
+          "3+ years of experience in a business analysis or related role, with a strong track record of driving business outcomes through data-driven insights",
+          "Strong SQL skills, with the ability to write efficient queries and analyze large datasets",
+          "Excellent communication and stakeholder management skills, with the ability to distill complex data insights into actionable recommendations",
+          "Ability to navigate ambiguous requirements gathering sessions and develop tailored solutions that meet stakeholder needs",
+          "Experience with data visualization tools (e.g. Tableau, Power BI) and dashboards",
+          "Strong analytical skills, with a keen eye for detail and process improvement opportunities",
+          "Experience working in a remote environment, with strong self-motivation and discipline to meet deadlines"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing & Outreach - Utilize LinkedIn, Twitter, and other social media platforms to reach out to potential candidates, leveraging employee referrals and online job postings.",
+        "Weeks 2-3: Screening (Async Video Interview) - Conduct a brief async video interview with top applicants using a platform like Calendly or Zoom Webinar to assess communication skills and fit.",
+        "Weeks 4-5: Skills Assessment & Interviews - Invite selected candidates for in-depth skills assessments (e.g., coding challenges, case studies) followed by interviews with the Hiring Manager and Team Lead.",
+        "Weeks 6-7: Reference Checks & Final Screening - Conduct thorough reference checks with previous employers and clients to verify candidate claims and performance.",
+        "Week 8: Offer Extension & Onboarding Planning - Finalize offer details, prepare onboarding materials, and schedule a welcome session for the new hire."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Talent Acquisition Specialist)",
+        "Team Lead (Functional Expert)",
+        "CEO (Final Approval)",
+        "Onboarding Team"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Business Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Business Analyst\n**Summary**: Join our high-growth startup as a Business Analyst where you'll play a critical role in driving business outcomes through data-driven insights and process improvements. As a key member of our operations team, you'll collaborate with cross-functional stakeholders to develop and implement data-driven solutions that propel our company forward.\n**Key Responsibilities:**\n- Develop and maintain dashboards to track key performance indicators (KPIs) and provide actionable recommendations for business improvement\n- Collaborate with cross-functional teams to identify opportunities for process improvements and implement changes that drive business outcomes\n- Conduct thorough requirements gathering sessions with stakeholders to understand their needs and develop tailored solutions\n- Design and implement data visualization tools to facilitate stakeholder understanding of complex data insights\n- Develop and maintain SQL queries to extract and analyze large datasets, providing insights that inform business decisions\n- Work closely with the product team to identify areas for improvement in our existing processes and workflows\n- Identify and recommend opportunities for automation and efficiency gains within our operations\n- Develop and maintain documentation of processes and procedures to ensure consistency and knowledge sharing across teams\n**Requirements:**\n- 3+ years of experience in a business analysis or related role, with a strong track record of driving business outcomes through data-driven insights\n- Strong SQL skills, with the ability to write efficient queries and analyze large datasets\n- Excellent communication and stakeholder management skills, with the ability to distill complex data insights into actionable recommendations\n- Ability to navigate ambiguous requirements gathering sessions and develop tailored solutions that meet stakeholder needs\n- Experience with data visualization tools (e.g. Tableau, Power BI) and dashboards\n- Strong analytical skills, with a keen eye for detail and process improvement opportunities\n- Experience working in a remote environment, with strong self-motivation and discipline to meet deadlines\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Requirements Gathering, SQL, Dashboards? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Requirements Gathering. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing & Outreach - Utilize LinkedIn, Twitter, and other social media platforms to reach out to potential candidates, leveraging employee referrals and online job postings.  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Screening (Async Video Interview) - Conduct a brief async video interview with top applicants using a platform like Calendly or Zoom Webinar to assess communication skills and fit.  \n   *Owner: HR (Talent Acquisition Specialist)*\n3. Weeks 4-5: Skills Assessment & Interviews - Invite selected candidates for in-depth skills assessments (e.g., coding challenges, case studies) followed by interviews with the Hiring Manager and Team Lead.  \n   *Owner: Team Lead (Functional Expert)*\n4. Weeks 6-7: Reference Checks & Final Screening - Conduct thorough reference checks with previous employers and clients to verify candidate claims and performance.  \n   *Owner: CEO (Final Approval)*\n5. Week 8: Offer Extension & Onboarding Planning - Finalize offer details, prepare onboarding materials, and schedule a welcome session for the new hire.  \n   *Owner: Onboarding Team*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Requirements Gathering, SQL, Dashboards? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Requirements Gathering. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Requirements Gathering",
+          "SQL",
+          "Dashboards",
+          "Stakeholder Management",
+          "Process Mapping"
+        ],
+        "roles": [
+          "Business Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Business Analyst",
+          "summary": "Join our high-growth startup as a Business Analyst where you'll play a critical role in driving business outcomes through data-driven insights and process improvements. As a key member of our operations team, you'll collaborate with cross-functional stakeholders to develop and implement data-driven solutions that propel our company forward.",
+          "responsibilities": [
+            "Develop and maintain dashboards to track key performance indicators (KPIs) and provide actionable recommendations for business improvement",
+            "Collaborate with cross-functional teams to identify opportunities for process improvements and implement changes that drive business outcomes",
+            "Conduct thorough requirements gathering sessions with stakeholders to understand their needs and develop tailored solutions",
+            "Design and implement data visualization tools to facilitate stakeholder understanding of complex data insights",
+            "Develop and maintain SQL queries to extract and analyze large datasets, providing insights that inform business decisions",
+            "Work closely with the product team to identify areas for improvement in our existing processes and workflows",
+            "Identify and recommend opportunities for automation and efficiency gains within our operations",
+            "Develop and maintain documentation of processes and procedures to ensure consistency and knowledge sharing across teams"
+          ],
+          "requirements": [
+            "3+ years of experience in a business analysis or related role, with a strong track record of driving business outcomes through data-driven insights",
+            "Strong SQL skills, with the ability to write efficient queries and analyze large datasets",
+            "Excellent communication and stakeholder management skills, with the ability to distill complex data insights into actionable recommendations",
+            "Ability to navigate ambiguous requirements gathering sessions and develop tailored solutions that meet stakeholder needs",
+            "Experience with data visualization tools (e.g. Tableau, Power BI) and dashboards",
+            "Strong analytical skills, with a keen eye for detail and process improvement opportunities",
+            "Experience working in a remote environment, with strong self-motivation and discipline to meet deadlines"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing & Outreach - Utilize LinkedIn, Twitter, and other social media platforms to reach out to potential candidates, leveraging employee referrals and online job postings.",
+          "Weeks 2-3: Screening (Async Video Interview) - Conduct a brief async video interview with top applicants using a platform like Calendly or Zoom Webinar to assess communication skills and fit.",
+          "Weeks 4-5: Skills Assessment & Interviews - Invite selected candidates for in-depth skills assessments (e.g., coding challenges, case studies) followed by interviews with the Hiring Manager and Team Lead.",
+          "Weeks 6-7: Reference Checks & Final Screening - Conduct thorough reference checks with previous employers and clients to verify candidate claims and performance.",
+          "Week 8: Offer Extension & Onboarding Planning - Finalize offer details, prepare onboarding materials, and schedule a welcome session for the new hire."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Talent Acquisition Specialist)",
+          "Team Lead (Functional Expert)",
+          "CEO (Final Approval)",
+          "Onboarding Team"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Requirements Gathering, SQL, Dashboards? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Requirements Gathering. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T21:19:49.232192"
+}

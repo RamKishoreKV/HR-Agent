@@ -1,0 +1,16 @@
+{
+  "session_id": "653c1d00",
+  "last_input": "YES",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "We're excited to have you on board! How can I assist you in finding your perfect candidate today? Would you like me to help hire a specific role by starting our hiring wizard with \"help hire [role]\"?",
+    "raw_json": {
+      "message": "We're excited to have you on board! How can I assist you in finding your perfect candidate today? Would you like me to help hire a specific role by starting our hiring wizard with \"help hire [role]\"?",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T17:21:21.091251"
+}

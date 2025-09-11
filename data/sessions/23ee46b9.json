@@ -1,0 +1,89 @@
+{
+  "session_id": "23ee46b9",
+  "last_input": "finding new talent",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": {
+      "steps": [
+        "Post job descriptions on key job boards",
+        "Source candidates through LinkedIn and referrals",
+        "Conduct initial phone screenings",
+        "Technical assessment and skills evaluation",
+        "Team interviews and culture fit assessment",
+        "Reference checks and background verification",
+        "Finalize offer and begin onboarding"
+      ],
+      "owners": [
+        "HR Team",
+        "Recruiting Team",
+        "HR Team",
+        "Hiring Manager",
+        "Team Lead",
+        "HR Team",
+        "HR Team"
+      ],
+      "timeline_weeks": 1
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n**Roles:** No roles\n\n**Timeline:** 1 weeks",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 1,
+        "budget_range": "30k-50k",
+        "seniority": "intern",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "animation"
+        ],
+        "roles": [
+          "Data Analyst"
+        ],
+        "min_experience": 1,
+        "min_qualifications": [
+          "Bachelors in animation"
+        ]
+      },
+      "job_descriptions": [],
+      "hiring_plan": {
+        "steps": [
+          "Post job descriptions on key job boards",
+          "Source candidates through LinkedIn and referrals",
+          "Conduct initial phone screenings",
+          "Technical assessment and skills evaluation",
+          "Team interviews and culture fit assessment",
+          "Reference checks and background verification",
+          "Finalize offer and begin onboarding"
+        ],
+        "owners": [
+          "HR Team",
+          "Recruiting Team",
+          "HR Team",
+          "Hiring Manager",
+          "Team Lead",
+          "HR Team",
+          "HR Team"
+        ],
+        "timeline_weeks": 1
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 1,
+    "budget_range": "competitive",
+    "seniority": "intern",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "animation"
+    ],
+    "roles": [],
+    "min_experience": 1,
+    "min_qualifications": []
+  },
+  "timestamp": "2025-09-10T16:50:22.740853"
+}

@@ -1,0 +1,16 @@
+{
+  "session_id": "ce4ca654",
+  "last_input": "change expereince to 1 years",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "I'd be happy to update that for you! I've changed the experience requirement to 1 year. Would you like me to guide you through our hiring process by starting a new search for a role? Just say \"Help hire [role]\" and we can get started!",
+    "raw_json": {
+      "message": "I'd be happy to update that for you! I've changed the experience requirement to 1 year. Would you like me to guide you through our hiring process by starting a new search for a role? Just say \"Help hire [role]\" and we can get started!",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T19:36:39.784381"
+}

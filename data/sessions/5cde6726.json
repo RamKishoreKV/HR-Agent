@@ -1,0 +1,131 @@
+{
+  "session_id": "5cde6726",
+  "last_input": "help me to hire ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "I Engineer",
+        "summary": "Join our high-growth startup as a mid-level I Engineer, where you'll drive innovation with cutting-edge NLP and BERT technologies to shape the future of [industry/field]. As a key member of our team, you'll have the autonomy to take ownership of complex projects and collaborate closely with fellow engineers to push the boundaries of what's possible.",
+        "responsibilities": [
+          "Develop and deploy large-scale natural language processing models using BERT and other state-of-the-art techniques",
+          "Design and implement scalable data pipelines to fuel model training and deployment",
+          "Collaborate with cross-functional teams to integrate NLP capabilities into our product suite",
+          "Drive innovation through experimentation, prototyping, and proof-of-concept development",
+          "Contribute to the architecture and evolution of our machine learning infrastructure",
+          "Participate in code reviews and mentor junior engineers to foster a culture of excellence",
+          "Develop and maintain high-quality documentation for our NLP solutions and best practices",
+          "Stay up-to-date with industry trends, advances in NLP research, and emerging technologies"
+        ],
+        "requirements": [
+          "3+ years of experience in NLP engineering, with expertise in BERT and deep learning architectures",
+          "Strong background in software development, data structures, and algorithms",
+          "Excellent problem-solving skills, with a passion for tackling complex technical challenges",
+          "Experience with containerization (Docker), version control (Git), and continuous integration/continuous deployment (CI/CD)",
+          "Familiarity with cloud platforms (AWS, Google Cloud, Azure) and distributed computing frameworks (e.g., Spark, Flink)",
+          "Effective communication skills, with the ability to collaborate with both technical and non-technical stakeholders",
+          "Strong understanding of machine learning concepts, including model training, evaluation, and deployment",
+          "Experience with popular NLP libraries and frameworks (e.g., NLTK, spaCy, Hugging Face Transformers)"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing and Screening - Identify potential candidates through social media, job boards, referrals, and employee networks. Shortlist top 10 candidates and conduct initial phone or video screenings to assess their fit.",
+        "Week 1-2: Async Video Screening - Record a series of video questions for shortlisted candidates to showcase their skills and experience. Review responses and identify top 5 candidates.",
+        "Week 2: Skills Assessment - Design and send relevant coding challenges or technical assessments to top 5 candidates. Evaluate their problem-solving skills and adaptability.",
+        "Week 3: In-Person Interviews (if possible) or Virtual Interviews - Schedule in-person interviews with top 3-4 candidates, focusing on cultural fit, teamwork, and communication skills. Alternatively, conduct virtual interviews for remote teams.",
+        "Week 4: Reference Checks and Offer Extension - Verify the candidate's previous work experience through reference checks. Extend an offer to the chosen candidate and prepare for onboarding."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Team Lead",
+        "CEO (final approval)",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nThis hiring plan outlines the comprehensive process to recruit a highly skilled AI Engineer to join our high-growth startup. The candidate will drive innovation with cutting-edge NLP and BERT technologies, collaborating closely with fellow engineers to shape the future of [industry/field].\n\n## Job Descriptions\n\n### I Engineer\n\n**Summary:** Join our high-growth startup as a mid-level I Engineer, where you'll drive innovation with cutting-edge NLP and BERT technologies.\n\n**Key Responsibilities:**\n\n* Drive innovation with cutting-edge NLP and BERT technologies\n* Take ownership of complex projects\n* Collaborate closely with fellow engineers to push the boundaries of what's possible\n\n**Requirements:**\n\n* Strong technical skills in NLP and BERT\n* Experience with collaborative project management\n* Excellent problem-solving and adaptability skills\n\n**Compensation:** Competitive salary, equity options, and benefits package tailored to attract top talent.\n\n## Hiring Process Plan\n\n**Timeline:** 4 weeks\n\n**Process Steps:**\n1. **Week 1: Sourcing and Screening** - Identify potential candidates through social media, job boards, referrals, and employee networks. Shortlist top 10 candidates and conduct initial phone or video screenings to assess their fit.\n\t* Owner: Hiring Manager\n2. **Week 1-2: Async Video Screening** - Record a series of video questions for shortlisted candidates to showcase their skills and experience. Review responses and identify top 5 candidates.\n\t* Owner: HR Specialist\n3. **Week 2: Skills Assessment** - Design and send relevant coding challenges or technical assessments to top 5 candidates. Evaluate their problem-solving skills and adaptability.\n\t* Owner: Team Lead\n4. **Week 3: In-Person Interviews (if possible) or Virtual Interviews** - Schedule in-person interviews with top 3-4 candidates, focusing on cultural fit, teamwork, and communication skills. Alternatively, conduct virtual interviews for remote teams.\n\t* Owner: CEO (final approval)\n5. **Week 4: Reference Checks and Offer Extension** - Verify the candidate's previous work experience through reference checks. Extend an offer to the chosen candidate and prepare for onboarding.\n\t* Owner: Hiring Manager\n\n## Next Steps\nThe HR Specialist will lead the sourcing and screening process, while the Team Lead will design and send relevant coding challenges or technical assessments. The CEO will provide final approval for all candidates. Please ensure timely completion of each step to meet the 4-week timeline.\n\nActionable next steps:\n\n* Finalize job descriptions and posting content\n* Schedule social media posts and job board advertising\n* Coordinate with the Team Lead to design skills assessment challenges\n* Prepare reference check templates and verification procedures\n\nBy following this comprehensive hiring plan, we will attract top talent and successfully onboard a highly skilled AI Engineer to drive innovation at our startup.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "nlp",
+          "bert"
+        ],
+        "roles": [
+          "I Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "I Engineer",
+          "summary": "Join our high-growth startup as a mid-level I Engineer, where you'll drive innovation with cutting-edge NLP and BERT technologies to shape the future of [industry/field]. As a key member of our team, you'll have the autonomy to take ownership of complex projects and collaborate closely with fellow engineers to push the boundaries of what's possible.",
+          "responsibilities": [
+            "Develop and deploy large-scale natural language processing models using BERT and other state-of-the-art techniques",
+            "Design and implement scalable data pipelines to fuel model training and deployment",
+            "Collaborate with cross-functional teams to integrate NLP capabilities into our product suite",
+            "Drive innovation through experimentation, prototyping, and proof-of-concept development",
+            "Contribute to the architecture and evolution of our machine learning infrastructure",
+            "Participate in code reviews and mentor junior engineers to foster a culture of excellence",
+            "Develop and maintain high-quality documentation for our NLP solutions and best practices",
+            "Stay up-to-date with industry trends, advances in NLP research, and emerging technologies"
+          ],
+          "requirements": [
+            "3+ years of experience in NLP engineering, with expertise in BERT and deep learning architectures",
+            "Strong background in software development, data structures, and algorithms",
+            "Excellent problem-solving skills, with a passion for tackling complex technical challenges",
+            "Experience with containerization (Docker), version control (Git), and continuous integration/continuous deployment (CI/CD)",
+            "Familiarity with cloud platforms (AWS, Google Cloud, Azure) and distributed computing frameworks (e.g., Spark, Flink)",
+            "Effective communication skills, with the ability to collaborate with both technical and non-technical stakeholders",
+            "Strong understanding of machine learning concepts, including model training, evaluation, and deployment",
+            "Experience with popular NLP libraries and frameworks (e.g., NLTK, spaCy, Hugging Face Transformers)"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing and Screening - Identify potential candidates through social media, job boards, referrals, and employee networks. Shortlist top 10 candidates and conduct initial phone or video screenings to assess their fit.",
+          "Week 1-2: Async Video Screening - Record a series of video questions for shortlisted candidates to showcase their skills and experience. Review responses and identify top 5 candidates.",
+          "Week 2: Skills Assessment - Design and send relevant coding challenges or technical assessments to top 5 candidates. Evaluate their problem-solving skills and adaptability.",
+          "Week 3: In-Person Interviews (if possible) or Virtual Interviews - Schedule in-person interviews with top 3-4 candidates, focusing on cultural fit, teamwork, and communication skills. Alternatively, conduct virtual interviews for remote teams.",
+          "Week 4: Reference Checks and Offer Extension - Verify the candidate's previous work experience through reference checks. Extend an offer to the chosen candidate and prepare for onboarding."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Team Lead",
+          "CEO (final approval)",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 4
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 4,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "nlp",
+      "bert"
+    ],
+    "roles": [
+      "I Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T01:46:52.965797"
+}

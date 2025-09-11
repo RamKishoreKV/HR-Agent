@@ -1,0 +1,159 @@
+{
+  "session_id": "35cf830c",
+  "last_input": "help me hire Help Me Hire Generative Ai Intern",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Help Me Hire Generative Ai Intern",
+        "summary": "Join our high-growth startup and help us revolutionize the future of AI! As a key member of our team, you'll play a critical role in identifying and hiring top talent to drive our generative AI research forward. If you're passionate about AI and have a knack for recruitment, we want to hear from you!",
+        "responsibilities": [
+          "Develop and execute a comprehensive recruitment strategy to attract top-tier candidates for our generative AI intern position",
+          "Build relationships with leading universities and research institutions to identify and recruit top talent in the field of AI",
+          "Create and post engaging job descriptions, social media content, and other marketing materials to generate buzz around our internship opportunity",
+          "Source and filter resumes to ensure only the most qualified candidates are presented for interview",
+          "Collaborate with hiring managers to develop and conduct interviews, assess candidate fit, and make recommendations for hire",
+          "Provide exceptional customer service to candidates, responding promptly to inquiries and ensuring a smooth interview process",
+          "Stay up-to-date on industry trends and developments in AI research, making connections between our internship opportunity and the latest advancements",
+          "Work closely with our team to identify areas for growth and improvement in our recruitment process"
+        ],
+        "requirements": [
+          "2+ years of experience in recruitment or related field (agency or corporate)",
+          "Proven track record of successful candidate sourcing, interviewing, and hiring",
+          "Deep understanding of AI and machine learning concepts, with a passion for staying up-to-date on industry developments",
+          "Excellent communication, interpersonal, and project management skills",
+          "Ability to work in a fast-paced environment, prioritizing multiple tasks and deadlines",
+          "Experience with recruitment software (e.g., Workday, BambooHR) and tools (e.g., LinkedIn Recruiter)",
+          "Bachelor's degree in relevant field (e.g., computer science, business administration)"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Post job ad on relevant platforms, social media, and company website. Utilize employee referrals and leverage professional networks.",
+        "Weeks 3-4: Async Video Screening - Shortlist candidates through video interviews to assess communication skills, personality fit, and basic technical knowledge.",
+        "Weeks 5-6: Skills Assessment & Interviews - Invite top candidates for a live skills assessment (e.g., coding challenge) and subsequent in-depth interview with the team lead and hiring manager.",
+        "Weeks 7-8: Reference Checks & Offer Extension - Conduct reference checks to verify candidate's past experiences. Extend offer to selected candidate, negotiating salary and benefits as needed.",
+        "Onboarding Week 9 (beyond initial timeline): Coordinate onboarding process, including paperwork, equipment setup, and team introductions."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative",
+        "Team Lead",
+        "CEO/Founder",
+        "Administrative Assistant"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Help Me Hire Generative Ai Intern**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Help Me Hire Generative Ai Intern\n**Summary**: Join our high-growth startup and help us revolutionize the future of AI! As a key member of our team, you'll play a critical role in identifying and hiring top talent to drive our generative AI research forward. If you're passionate about AI and have a knack for recruitment, we want to hear from you!\n**Key Responsibilities:**\n- Develop and execute a comprehensive recruitment strategy to attract top-tier candidates for our generative AI intern position\n- Build relationships with leading universities and research institutions to identify and recruit top talent in the field of AI\n- Create and post engaging job descriptions, social media content, and other marketing materials to generate buzz around our internship opportunity\n- Source and filter resumes to ensure only the most qualified candidates are presented for interview\n- Collaborate with hiring managers to develop and conduct interviews, assess candidate fit, and make recommendations for hire\n- Provide exceptional customer service to candidates, responding promptly to inquiries and ensuring a smooth interview process\n- Stay up-to-date on industry trends and developments in AI research, making connections between our internship opportunity and the latest advancements\n- Work closely with our team to identify areas for growth and improvement in our recruitment process\n**Requirements:**\n- 2+ years of experience in recruitment or related field (agency or corporate)\n- Proven track record of successful candidate sourcing, interviewing, and hiring\n- Deep understanding of AI and machine learning concepts, with a passion for staying up-to-date on industry developments\n- Excellent communication, interpersonal, and project management skills\n- Ability to work in a fast-paced environment, prioritizing multiple tasks and deadlines\n- Experience with recruitment software (e.g., Workday, BambooHR) and tools (e.g., LinkedIn Recruiter)\n- Bachelor's degree in relevant field (e.g., computer science, business administration)\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Post job ad on relevant platforms, social media, and company website. Utilize employee referrals and leverage professional networks.  \n   *Owner: Hiring Manager*\n2. Weeks 3-4: Async Video Screening - Shortlist candidates through video interviews to assess communication skills, personality fit, and basic technical knowledge.  \n   *Owner: HR Representative*\n3. Weeks 5-6: Skills Assessment & Interviews - Invite top candidates for a live skills assessment (e.g., coding challenge) and subsequent in-depth interview with the team lead and hiring manager.  \n   *Owner: Team Lead*\n4. Weeks 7-8: Reference Checks & Offer Extension - Conduct reference checks to verify candidate's past experiences. Extend offer to selected candidate, negotiating salary and benefits as needed.  \n   *Owner: CEO/Founder*\n5. Onboarding Week 9 (beyond initial timeline): Coordinate onboarding process, including paperwork, equipment setup, and team introductions.  \n   *Owner: Administrative Assistant*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Help Me Hire Generative Ai Intern"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Help Me Hire Generative Ai Intern",
+          "summary": "Join our high-growth startup and help us revolutionize the future of AI! As a key member of our team, you'll play a critical role in identifying and hiring top talent to drive our generative AI research forward. If you're passionate about AI and have a knack for recruitment, we want to hear from you!",
+          "responsibilities": [
+            "Develop and execute a comprehensive recruitment strategy to attract top-tier candidates for our generative AI intern position",
+            "Build relationships with leading universities and research institutions to identify and recruit top talent in the field of AI",
+            "Create and post engaging job descriptions, social media content, and other marketing materials to generate buzz around our internship opportunity",
+            "Source and filter resumes to ensure only the most qualified candidates are presented for interview",
+            "Collaborate with hiring managers to develop and conduct interviews, assess candidate fit, and make recommendations for hire",
+            "Provide exceptional customer service to candidates, responding promptly to inquiries and ensuring a smooth interview process",
+            "Stay up-to-date on industry trends and developments in AI research, making connections between our internship opportunity and the latest advancements",
+            "Work closely with our team to identify areas for growth and improvement in our recruitment process"
+          ],
+          "requirements": [
+            "2+ years of experience in recruitment or related field (agency or corporate)",
+            "Proven track record of successful candidate sourcing, interviewing, and hiring",
+            "Deep understanding of AI and machine learning concepts, with a passion for staying up-to-date on industry developments",
+            "Excellent communication, interpersonal, and project management skills",
+            "Ability to work in a fast-paced environment, prioritizing multiple tasks and deadlines",
+            "Experience with recruitment software (e.g., Workday, BambooHR) and tools (e.g., LinkedIn Recruiter)",
+            "Bachelor's degree in relevant field (e.g., computer science, business administration)"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Post job ad on relevant platforms, social media, and company website. Utilize employee referrals and leverage professional networks.",
+          "Weeks 3-4: Async Video Screening - Shortlist candidates through video interviews to assess communication skills, personality fit, and basic technical knowledge.",
+          "Weeks 5-6: Skills Assessment & Interviews - Invite top candidates for a live skills assessment (e.g., coding challenge) and subsequent in-depth interview with the team lead and hiring manager.",
+          "Weeks 7-8: Reference Checks & Offer Extension - Conduct reference checks to verify candidate's past experiences. Extend offer to selected candidate, negotiating salary and benefits as needed.",
+          "Onboarding Week 9 (beyond initial timeline): Coordinate onboarding process, including paperwork, equipment setup, and team introductions."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative",
+          "Team Lead",
+          "CEO/Founder",
+          "Administrative Assistant"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Help Me Hire Generative Ai Intern"
+    ]
+  },
+  "timestamp": "2025-09-10T21:00:57.071983"
+}

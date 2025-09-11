@@ -1,0 +1,123 @@
+{
+  "session_id": "9fdf1d7e",
+  "last_input": "elp me hire a gen ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Engineer",
+        "summary": "Join our startup as a Engineer and make a direct impact on our growth.",
+        "responsibilities": [
+          "Lead engineer initiatives and projects",
+          "Collaborate with cross-functional teams",
+          "Drive key business metrics and outcomes",
+          "Contribute to company strategy and growth",
+          "Mentor team members and share knowledge"
+        ],
+        "requirements": [
+          "3+ years of experience in engineer role",
+          "Strong analytical and problem-solving skills",
+          "Excellent communication and collaboration abilities",
+          "Experience in startup or fast-paced environment",
+          "Passion for learning and growth"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing and initial outreach (Hiring Manager)",
+        "Week 2: Screening of resumes (HR)",
+        "Week 3: Async video screening and skills assessment (Team Lead)",
+        "Week 4: In-person interviews with Engineering Team (Team Lead & Hiring Manager)",
+        "Week 5-6: Reference checks and final evaluation (Hiring Manager & CEO)",
+        "Week 7: Offer extension and negotiation (HR & Hiring Manager)",
+        "Week 8: Onboarding preparation and new hire introduction (HR & Team Lead)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead",
+        "Team Lead",
+        "Hiring Manager & CEO",
+        "HR & Hiring Manager",
+        "HR & Team Lead"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nWe are seeking a talented Gen AI Engineer to join our growing startup team. This hire will make a direct impact on our growth, and we are committed to finding the right candidate through a thorough and efficient hiring process.\n\n## Job Descriptions\n\n### Engineer\n**Summary:** Join our startup as a Gen AI Engineer and contribute to our innovative projects.\n\n**Key Responsibilities:**\n- Design and develop cutting-edge AI models and algorithms\n- Collaborate with cross-functional teams to integrate AI solutions into our products\n- Stay up-to-date with the latest advancements in AI research and apply them to our projects\n\n**Requirements:**\n- 3+ years of experience in AI engineering or a related field\n- Strong background in deep learning, natural language processing, or computer vision\n- Proficiency in programming languages such as Python, TensorFlow, or PyTorch\n- Excellent problem-solving skills and attention to detail\n\n**Compensation:** Competitive salary and stock options package, commensurate with experience.\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n1. **Weeks 1-2: Sourcing and initial outreach (Hiring Manager)**\n\t* Identify top candidates through social media, professional networks, and job boards\n\t* Craft personalized emails or messages to initiate contact with potential candidates\n2. **Week 2: Screening of resumes (HR)**\n\t* Review applications, ensuring they meet the minimum qualifications\n\t* Shortlist candidates for further evaluation\n3. **Week 3: Async video screening and skills assessment (Team Lead)**\n\t* Conduct video interviews to assess communication skills and fit with our team culture\n\t* Evaluate technical skills through coding challenges or whiteboarding exercises\n4. **Week 4: In-person interviews with Engineering Team (Team Lead & Hiring Manager)**\n\t* Invite top candidates for in-person interviews with our engineering team\n\t* Assess teamwork, problem-solving, and creativity skills\n5. **Week 5-6: Reference checks and final evaluation (Hiring Manager & CEO)**\n\t* Verify candidate references to ensure accuracy\n\t* Conduct a final review of the candidate's qualifications and fit\n6. **Week 7: Offer extension and negotiation (HR & Hiring Manager)**\n\t* Extend an offer to the selected candidate, including compensation details\n\t* Negotiate terms as needed to secure the candidate's commitment\n7. **Week 8: Onboarding preparation and new hire introduction (HR & Team Lead)**\n\t* Prepare a comprehensive onboarding plan for the new employee\n\t* Introduce the team member to their colleagues and facilitate a smooth transition\n\n## Next Steps\nActionable next steps:\n\n* Finalize job descriptions and post them on relevant job boards.\n* Begin sourcing candidates through our professional networks, social media, and job boards.\n* Schedule async video screenings for top candidates in Week 3.\n* Prepare for in-person interviews with the engineering team in Week 4.\n\nBy following this hiring plan, we will find a talented Gen AI Engineer who can contribute significantly to our startup's growth.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "gen ai"
+        ],
+        "roles": [
+          "Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Engineer",
+          "summary": "Join our startup as a Engineer and make a direct impact on our growth.",
+          "responsibilities": [
+            "Lead engineer initiatives and projects",
+            "Collaborate with cross-functional teams",
+            "Drive key business metrics and outcomes",
+            "Contribute to company strategy and growth",
+            "Mentor team members and share knowledge"
+          ],
+          "requirements": [
+            "3+ years of experience in engineer role",
+            "Strong analytical and problem-solving skills",
+            "Excellent communication and collaboration abilities",
+            "Experience in startup or fast-paced environment",
+            "Passion for learning and growth"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing and initial outreach (Hiring Manager)",
+          "Week 2: Screening of resumes (HR)",
+          "Week 3: Async video screening and skills assessment (Team Lead)",
+          "Week 4: In-person interviews with Engineering Team (Team Lead & Hiring Manager)",
+          "Week 5-6: Reference checks and final evaluation (Hiring Manager & CEO)",
+          "Week 7: Offer extension and negotiation (HR & Hiring Manager)",
+          "Week 8: Onboarding preparation and new hire introduction (HR & Team Lead)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead",
+          "Team Lead",
+          "Hiring Manager & CEO",
+          "HR & Hiring Manager",
+          "HR & Team Lead"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Engineer"
+    ]
+  },
+  "timestamp": "2025-09-09T22:59:29.551510"
+}

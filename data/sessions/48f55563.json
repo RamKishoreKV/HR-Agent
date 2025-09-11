@@ -1,0 +1,223 @@
+{
+  "session_id": "48f55563",
+  "last_input": "help me hire  a data",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Data Analyst, where you'll play a key role in driving data-driven decisions and shaping our future success. As a core member of our analytics team, you'll dive into complex data sets, uncover insights, and help us stay ahead of the curve.",
+        "responsibilities": [
+          "Develop predictive models to inform business strategy and drive growth",
+          "Design and implement data visualizations that tell compelling stories and spark meaningful conversations",
+          "Conduct statistical analysis to identify trends, patterns, and areas for improvement",
+          "Collaborate with cross-functional teams to integrate data insights into product development and marketing efforts",
+          "Stay up-to-date on industry developments and emerging technologies to inform our approach to data science",
+          "Develop and maintain databases, data pipelines, and other infrastructure to support our analytics needs",
+          "Communicate complex data findings to non-technical stakeholders in a clear and actionable way"
+        ],
+        "requirements": [
+          "Proven experience with SQL, including proficiency in querying, indexing, and optimizing database performance",
+          "Advanced skills in data visualization tools such as Tableau, Power BI, or D3.js",
+          "Familiarity with predictive modeling techniques, including regression, decision trees, and clustering",
+          "Strong statistical analysis skills, including hypothesis testing and confidence intervals",
+          "Experience with data mining and machine learning libraries such as scikit-learn or TensorFlow",
+          "Comfortable working in a fast-paced environment with multiple priorities and deadlines",
+          "Excellent communication and collaboration skills, with the ability to work effectively across teams"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "summary": "Join our high-growth startup and revolutionize the way we make data-driven decisions! As a Machine Learning Engineer, you'll harness the power of machine learning to drive business outcomes and create new opportunities for growth. If you're passionate about using data to solve complex problems, this is your dream role.",
+        "responsibilities": [
+          "Design and develop predictive models that drive business impact",
+          "Collaborate with cross-functional teams to integrate ML solutions into our product and services",
+          "Develop and maintain high-quality, scalable, and maintainable codebases for ML models",
+          "Analyze complex data sets to identify trends, patterns, and insights that inform business decisions",
+          "Work closely with stakeholders to understand business needs and develop tailored ML solutions",
+          "Stay up-to-date on the latest advancements in machine learning and apply them to our products and services",
+          "Develop and implement robust testing and validation strategies for ML models",
+          "Collaborate with data engineers to integrate ML models into our data infrastructure"
+        ],
+        "requirements": [
+          "3+ years of experience as a Machine Learning Engineer or similar role",
+          "Strong foundation in statistical analysis, predictive modeling, and machine learning algorithms",
+          "Proficiency in SQL and experience working with large datasets",
+          "Excellent communication and collaboration skills to work effectively with cross-functional teams",
+          "Experience with data visualization tools such as Tableau, Power BI, or D3.js",
+          "Familiarity with containerization using Docker and orchestration using Kubernetes",
+          "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+          "Experience with cloud-based platforms such as AWS, GCP, or Azure"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Define Job Descriptions & Requirements",
+        "Week 2: Sourcing - Utilize LinkedIn Ads, Employee Referrals, & Niche Platforms",
+        "Week 3: Screening - Async Video Screening & Initial Skills Assessments (Data Analyst)",
+        "Week 4: Screening - Async Video Screening & Initial Skills Assessments (Machine Learning Engineer)",
+        "Week 5: Interview Loop - Technical Interviews with Team Leads & Engineers",
+        "Week 6-7: Final Interviews, Reference Checks, & Salary Negotiations",
+        "Week 8: Offer Extension, Onboarding Planning, & New Hire Preparation"
+      ],
+      "owners": [
+        "Hiring Manager (Job Descriptions)",
+        "Marketing Specialist (Sourcing)",
+        "HR Generalist (Screening - Async Video Screening)",
+        "Engineering Team Lead (Screening - Skills Assessments)",
+        "CEO/CTO (Interview Loop)",
+        "Hiring Manager & HR Generalist (Final Interviews, Reference Checks)",
+        "CEO/Hiring Manager (Offer Extension, Onboarding)"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst, Machine Learning Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n#### Summary\nJoin our high-growth startup as a Data Analyst, where you'll play a key role in driving data-driven decisions and shaping our future success. As a core member of our analytics team, you'll dive into complex data sets, uncover insights, and help us stay ahead of the curve.\n#### Key Responsibilities\n- Develop predictive models to inform business strategy and drive growth\n- Design and implement data visualizations that tell compelling stories and spark meaningful conversations\n- Conduct statistical analysis to identify trends, patterns, and areas for improvement\n- Collaborate with cross-functional teams to integrate data insights into product development and marketing efforts\n- Stay up-to-date on industry developments and emerging technologies to inform our approach to data science\n- Develop and maintain databases, data pipelines, and other infrastructure to support our analytics needs\n- Communicate complex data findings to non-technical stakeholders in a clear and actionable way\n#### Requirements\n- Proven experience with SQL, including proficiency in querying, indexing, and optimizing database performance\n- Advanced skills in data visualization tools such as Tableau, Power BI, or D3.js\n- Familiarity with predictive modeling techniques, including regression, decision trees, and clustering\n- Strong statistical analysis skills, including hypothesis testing and confidence intervals\n- Experience with data mining and machine learning libraries such as scikit-learn or TensorFlow\n- Comfortable working in a fast-paced environment with multiple priorities and deadlines\n- Excellent communication and collaboration skills, with the ability to work effectively across teams\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n### Machine Learning Engineer\n#### Summary\nJoin our high-growth startup and revolutionize the way we make data-driven decisions! As a Machine Learning Engineer, you'll harness the power of machine learning to drive business outcomes and create new opportunities for growth. If you're passionate about using data to solve complex problems, this is your dream role.\n#### Key Responsibilities\n- Design and develop predictive models that drive business impact\n- Collaborate with cross-functional teams to integrate ML solutions into our product and services\n- Develop and maintain high-quality, scalable, and maintainable codebases for ML models\n- Analyze complex data sets to identify trends, patterns, and insights that inform business decisions\n- Work closely with stakeholders to understand business needs and develop tailored ML solutions\n- Stay up-to-date on the latest advancements in machine learning and apply them to our products and services\n- Develop and implement robust testing and validation strategies for ML models\n- Collaborate with data engineers to integrate ML models into our data infrastructure\n#### Requirements\n- 3+ years of experience as a Machine Learning Engineer or similar role\n- Strong foundation in statistical analysis, predictive modeling, and machine learning algorithms\n- Proficiency in SQL and experience working with large datasets\n- Excellent communication and collaboration skills to work effectively with cross-functional teams\n- Experience with data visualization tools such as Tableau, Power BI, or D3.js\n- Familiarity with containerization using Docker and orchestration using Kubernetes\n- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field\n- Experience with cloud-based platforms such as AWS, GCP, or Azure\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1: Define Job Descriptions & Requirements  \n   *Owner: Hiring Manager (Job Descriptions)*\n2. Week 2: Sourcing - Utilize LinkedIn Ads, Employee Referrals, & Niche Platforms  \n   *Owner: Marketing Specialist (Sourcing)*\n3. Week 3: Screening - Async Video Screening & Initial Skills Assessments (Data Analyst)  \n   *Owner: HR Generalist (Screening - Async Video Screening)*\n4. Week 4: Screening - Async Video Screening & Initial Skills Assessments (Machine Learning Engineer)  \n   *Owner: Engineering Team Lead (Screening - Skills Assessments)*\n5. Week 5: Interview Loop - Technical Interviews with Team Leads & Engineers  \n   *Owner: CEO/CTO (Interview Loop)*\n6. Week 6-7: Final Interviews, Reference Checks, & Salary Negotiations  \n   *Owner: Hiring Manager & HR Generalist (Final Interviews, Reference Checks)*\n7. Week 8: Offer Extension, Onboarding Planning, & New Hire Preparation  \n   *Owner: CEO/Hiring Manager (Offer Extension, Onboarding)*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied SQL, Data Visualization, Predictive Modeling? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using SQL. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "SQL",
+          "Data Visualization",
+          "Predictive Modeling",
+          "Statistical Analysis",
+          "Data Mining"
+        ],
+        "roles": [
+          "Data Analyst",
+          "Machine Learning Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Data Analyst, where you'll play a key role in driving data-driven decisions and shaping our future success. As a core member of our analytics team, you'll dive into complex data sets, uncover insights, and help us stay ahead of the curve.",
+          "responsibilities": [
+            "Develop predictive models to inform business strategy and drive growth",
+            "Design and implement data visualizations that tell compelling stories and spark meaningful conversations",
+            "Conduct statistical analysis to identify trends, patterns, and areas for improvement",
+            "Collaborate with cross-functional teams to integrate data insights into product development and marketing efforts",
+            "Stay up-to-date on industry developments and emerging technologies to inform our approach to data science",
+            "Develop and maintain databases, data pipelines, and other infrastructure to support our analytics needs",
+            "Communicate complex data findings to non-technical stakeholders in a clear and actionable way"
+          ],
+          "requirements": [
+            "Proven experience with SQL, including proficiency in querying, indexing, and optimizing database performance",
+            "Advanced skills in data visualization tools such as Tableau, Power BI, or D3.js",
+            "Familiarity with predictive modeling techniques, including regression, decision trees, and clustering",
+            "Strong statistical analysis skills, including hypothesis testing and confidence intervals",
+            "Experience with data mining and machine learning libraries such as scikit-learn or TensorFlow",
+            "Comfortable working in a fast-paced environment with multiple priorities and deadlines",
+            "Excellent communication and collaboration skills, with the ability to work effectively across teams"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        },
+        {
+          "title": "Machine Learning Engineer",
+          "summary": "Join our high-growth startup and revolutionize the way we make data-driven decisions! As a Machine Learning Engineer, you'll harness the power of machine learning to drive business outcomes and create new opportunities for growth. If you're passionate about using data to solve complex problems, this is your dream role.",
+          "responsibilities": [
+            "Design and develop predictive models that drive business impact",
+            "Collaborate with cross-functional teams to integrate ML solutions into our product and services",
+            "Develop and maintain high-quality, scalable, and maintainable codebases for ML models",
+            "Analyze complex data sets to identify trends, patterns, and insights that inform business decisions",
+            "Work closely with stakeholders to understand business needs and develop tailored ML solutions",
+            "Stay up-to-date on the latest advancements in machine learning and apply them to our products and services",
+            "Develop and implement robust testing and validation strategies for ML models",
+            "Collaborate with data engineers to integrate ML models into our data infrastructure"
+          ],
+          "requirements": [
+            "3+ years of experience as a Machine Learning Engineer or similar role",
+            "Strong foundation in statistical analysis, predictive modeling, and machine learning algorithms",
+            "Proficiency in SQL and experience working with large datasets",
+            "Excellent communication and collaboration skills to work effectively with cross-functional teams",
+            "Experience with data visualization tools such as Tableau, Power BI, or D3.js",
+            "Familiarity with containerization using Docker and orchestration using Kubernetes",
+            "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+            "Experience with cloud-based platforms such as AWS, GCP, or Azure"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Define Job Descriptions & Requirements",
+          "Week 2: Sourcing - Utilize LinkedIn Ads, Employee Referrals, & Niche Platforms",
+          "Week 3: Screening - Async Video Screening & Initial Skills Assessments (Data Analyst)",
+          "Week 4: Screening - Async Video Screening & Initial Skills Assessments (Machine Learning Engineer)",
+          "Week 5: Interview Loop - Technical Interviews with Team Leads & Engineers",
+          "Week 6-7: Final Interviews, Reference Checks, & Salary Negotiations",
+          "Week 8: Offer Extension, Onboarding Planning, & New Hire Preparation"
+        ],
+        "owners": [
+          "Hiring Manager (Job Descriptions)",
+          "Marketing Specialist (Sourcing)",
+          "HR Generalist (Screening - Async Video Screening)",
+          "Engineering Team Lead (Screening - Skills Assessments)",
+          "CEO/CTO (Interview Loop)",
+          "Hiring Manager & HR Generalist (Final Interviews, Reference Checks)",
+          "CEO/Hiring Manager (Offer Extension, Onboarding)"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied SQL, Data Visualization, Predictive Modeling? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using SQL. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Analyst",
+      "Machine Learning Engineer"
+    ]
+  },
+  "timestamp": "2025-09-11T15:34:17.426261"
+}

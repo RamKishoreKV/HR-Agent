@@ -1,0 +1,156 @@
+{
+  "session_id": "aaed5b26",
+  "last_input": "help me hire a gen ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Gen Ai Engineer Engineer",
+        "summary": "Join our team of innovators and revolutionize the future of AI! As a key member of our engineering squad, you'll drive business growth through cutting-edge technology. We're on a mission to harness the power of gen ai for real-world impact.",
+        "responsibilities": [
+          "Design and develop highly scalable and efficient gen ai models that meet business requirements",
+          "Collaborate with cross-functional teams to integrate gen ai solutions into our products",
+          "Contribute to the development of our AI platform, ensuring it's secure, reliable, and performant",
+          "Stay up-to-date with industry trends and advancements in gen ai research, applying insights to drive innovation",
+          "Develop and maintain high-quality documentation for gen ai models and workflows",
+          "Partner with data scientists to develop and implement robust testing methodologies for gen ai models",
+          "Identify opportunities for process improvements and optimize existing workflows to maximize efficiency"
+        ],
+        "requirements": [
+          "3+ years of experience in gen ai engineering, preferably in a startup environment",
+          "Master's or Ph.D. in Computer Science, Machine Learning, or related field",
+          "Strong background in deep learning frameworks (e.g., TensorFlow, PyTorch)",
+          "Experience with large-scale data storage and processing technologies (e.g., Hadoop, Spark)",
+          "Proficiency in programming languages such as Python, Java, or C++",
+          "Familiarity with cloud-based services (e.g., AWS, Google Cloud) for model deployment",
+          "Strong communication and collaboration skills for working with cross-functional teams"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize LinkedIn Ads, job boards, and professional networks to attract top Gen AI Engineer candidates.",
+        "Week 2: Screening - Implement an async video screening process using tools like Lombo or Vidcruiter to quickly assess candidate fit and enthusiasm.",
+        "Week 3: Skills Assessments - Use platforms like HackerRank or CodeWars to conduct coding challenges that simulate real-world tasks, evaluating technical skills and problem-solving abilities.",
+        "Week 4: Interviews - Schedule in-person interviews with the Team Lead and Hiring Manager, focusing on behavioral questions and cultural fit.",
+        "Week 5: Reference Checks - Conduct thorough reference checks via phone or video calls, verifying candidate claims and work ethic.",
+        "Week 6-7: Offer Negotiation and Finalization - Present a competitive offer to the top candidate(s), including salary, equity, and benefits.",
+        "Week 8: Onboarding - Plan an immersive onboarding experience with the CEO, Team Lead, and other team members, ensuring a smooth transition into the role."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Talent Acquisition Specialist)",
+        "Team Lead",
+        "CEO",
+        "Hiring Manager and HR (Talent Acquisition Specialist)",
+        "HR (Talent Acquisition Specialist)",
+        "Hiring Manager, CEO, and Team Lead"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Gen Ai Engineer Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Gen Ai Engineer Engineer\n**Summary**: Join our team of innovators and revolutionize the future of AI! As a key member of our engineering squad, you'll drive business growth through cutting-edge technology. We're on a mission to harness the power of gen ai for real-world impact.\n**Key Responsibilities:**\n- Design and develop highly scalable and efficient gen ai models that meet business requirements\n- Collaborate with cross-functional teams to integrate gen ai solutions into our products\n- Contribute to the development of our AI platform, ensuring it's secure, reliable, and performant\n- Stay up-to-date with industry trends and advancements in gen ai research, applying insights to drive innovation\n- Develop and maintain high-quality documentation for gen ai models and workflows\n- Partner with data scientists to develop and implement robust testing methodologies for gen ai models\n- Identify opportunities for process improvements and optimize existing workflows to maximize efficiency\n**Requirements:**\n- 3+ years of experience in gen ai engineering, preferably in a startup environment\n- Master's or Ph.D. in Computer Science, Machine Learning, or related field\n- Strong background in deep learning frameworks (e.g., TensorFlow, PyTorch)\n- Experience with large-scale data storage and processing technologies (e.g., Hadoop, Spark)\n- Proficiency in programming languages such as Python, Java, or C++\n- Familiarity with cloud-based services (e.g., AWS, Google Cloud) for model deployment\n- Strong communication and collaboration skills for working with cross-functional teams\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize LinkedIn Ads, job boards, and professional networks to attract top Gen AI Engineer candidates.  \n   *Owner: Hiring Manager*\n2. Week 2: Screening - Implement an async video screening process using tools like Lombo or Vidcruiter to quickly assess candidate fit and enthusiasm.  \n   *Owner: HR (Talent Acquisition Specialist)*\n3. Week 3: Skills Assessments - Use platforms like HackerRank or CodeWars to conduct coding challenges that simulate real-world tasks, evaluating technical skills and problem-solving abilities.  \n   *Owner: Team Lead*\n4. Week 4: Interviews - Schedule in-person interviews with the Team Lead and Hiring Manager, focusing on behavioral questions and cultural fit.  \n   *Owner: CEO*\n5. Week 5: Reference Checks - Conduct thorough reference checks via phone or video calls, verifying candidate claims and work ethic.  \n   *Owner: Hiring Manager and HR (Talent Acquisition Specialist)*\n6. Week 6-7: Offer Negotiation and Finalization - Present a competitive offer to the top candidate(s), including salary, equity, and benefits.  \n   *Owner: HR (Talent Acquisition Specialist)*\n7. Week 8: Onboarding - Plan an immersive onboarding experience with the CEO, Team Lead, and other team members, ensuring a smooth transition into the role.  \n   *Owner: Hiring Manager, CEO, and Team Lead*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a project where you built and deployed a large-scale AI model? How did you handle data preprocessing and feature engineering?\n- How do you approach explaining complex technical concepts to non-technical stakeholders in your organization?\n- Describe a time when you had to debug an issue with an AI algorithm. What steps did you take, and how did you resolve it?\n- Can you give me an example of a problem where a traditional machine learning model failed? How would you address this using more advanced techniques like transfer learning or reinforcement learning?\n- How do you balance the need for experimentation and innovation with the constraints of working in a startup environment?\n- Can you tell me about a project where you collaborated with a cross-functional team to develop an AI solution. What was your role, and how did you contribute to its success?\n**Evaluation Rubric:**\n- Technical Depth (1-5): How well does the candidate demonstrate expertise in AI/ML concepts, tools, and techniques?\n- Problem Solving (1-5): Can the candidate effectively analyze complex problems, identify key issues, and develop creative solutions?\n- Communication (1-5): Does the candidate articulate technical ideas clearly and concisely to both technical and non-technical stakeholders?\n- Ownership (1-5): How well does the candidate demonstrate initiative, self-motivation, and accountability in their work?\n- Culture Add (1-5): Would the candidate fit in with our startup culture, values, and team dynamics?\n- Adaptability (1-5): Can the candidate adapt to changing project requirements, priorities, or technologies?\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation (Pass/Fail/Recommend for Next Round)\n**Outreach Template:**\nSubject: Exploring Opportunities as a Gen AI Engineer at [Company Name]\n\nHi [Candidate Name],\n\nWe're building an innovative AI-powered product at [Company Name] and are looking for talented engineers to join our team. Your experience with large-scale AI model development aligns perfectly with our needs.\n\nWould you be open to a call next week to discuss the role in more detail? I'd love to share more about our project, company culture, and what it's like working here.\n\nBest regards,\n[Your Name]\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Gen Ai Engineer Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Gen Ai Engineer Engineer",
+          "summary": "Join our team of innovators and revolutionize the future of AI! As a key member of our engineering squad, you'll drive business growth through cutting-edge technology. We're on a mission to harness the power of gen ai for real-world impact.",
+          "responsibilities": [
+            "Design and develop highly scalable and efficient gen ai models that meet business requirements",
+            "Collaborate with cross-functional teams to integrate gen ai solutions into our products",
+            "Contribute to the development of our AI platform, ensuring it's secure, reliable, and performant",
+            "Stay up-to-date with industry trends and advancements in gen ai research, applying insights to drive innovation",
+            "Develop and maintain high-quality documentation for gen ai models and workflows",
+            "Partner with data scientists to develop and implement robust testing methodologies for gen ai models",
+            "Identify opportunities for process improvements and optimize existing workflows to maximize efficiency"
+          ],
+          "requirements": [
+            "3+ years of experience in gen ai engineering, preferably in a startup environment",
+            "Master's or Ph.D. in Computer Science, Machine Learning, or related field",
+            "Strong background in deep learning frameworks (e.g., TensorFlow, PyTorch)",
+            "Experience with large-scale data storage and processing technologies (e.g., Hadoop, Spark)",
+            "Proficiency in programming languages such as Python, Java, or C++",
+            "Familiarity with cloud-based services (e.g., AWS, Google Cloud) for model deployment",
+            "Strong communication and collaboration skills for working with cross-functional teams"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize LinkedIn Ads, job boards, and professional networks to attract top Gen AI Engineer candidates.",
+          "Week 2: Screening - Implement an async video screening process using tools like Lombo or Vidcruiter to quickly assess candidate fit and enthusiasm.",
+          "Week 3: Skills Assessments - Use platforms like HackerRank or CodeWars to conduct coding challenges that simulate real-world tasks, evaluating technical skills and problem-solving abilities.",
+          "Week 4: Interviews - Schedule in-person interviews with the Team Lead and Hiring Manager, focusing on behavioral questions and cultural fit.",
+          "Week 5: Reference Checks - Conduct thorough reference checks via phone or video calls, verifying candidate claims and work ethic.",
+          "Week 6-7: Offer Negotiation and Finalization - Present a competitive offer to the top candidate(s), including salary, equity, and benefits.",
+          "Week 8: Onboarding - Plan an immersive onboarding experience with the CEO, Team Lead, and other team members, ensuring a smooth transition into the role."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Talent Acquisition Specialist)",
+          "Team Lead",
+          "CEO",
+          "Hiring Manager and HR (Talent Acquisition Specialist)",
+          "HR (Talent Acquisition Specialist)",
+          "Hiring Manager, CEO, and Team Lead"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a project where you built and deployed a large-scale AI model? How did you handle data preprocessing and feature engineering?",
+          "How do you approach explaining complex technical concepts to non-technical stakeholders in your organization?",
+          "Describe a time when you had to debug an issue with an AI algorithm. What steps did you take, and how did you resolve it?",
+          "Can you give me an example of a problem where a traditional machine learning model failed? How would you address this using more advanced techniques like transfer learning or reinforcement learning?",
+          "How do you balance the need for experimentation and innovation with the constraints of working in a startup environment?",
+          "Can you tell me about a project where you collaborated with a cross-functional team to develop an AI solution. What was your role, and how did you contribute to its success?"
+        ],
+        "evaluation_rubric": [
+          "Technical Depth (1-5): How well does the candidate demonstrate expertise in AI/ML concepts, tools, and techniques?",
+          "Problem Solving (1-5): Can the candidate effectively analyze complex problems, identify key issues, and develop creative solutions?",
+          "Communication (1-5): Does the candidate articulate technical ideas clearly and concisely to both technical and non-technical stakeholders?",
+          "Ownership (1-5): How well does the candidate demonstrate initiative, self-motivation, and accountability in their work?",
+          "Culture Add (1-5): Would the candidate fit in with our startup culture, values, and team dynamics?",
+          "Adaptability (1-5): Can the candidate adapt to changing project requirements, priorities, or technologies?"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation (Pass/Fail/Recommend for Next Round)"
+        ],
+        "outreach_subject": "Exploring Opportunities as a Gen AI Engineer at [Company Name]",
+        "outreach_body": "Hi [Candidate Name],\n\nWe're building an innovative AI-powered product at [Company Name] and are looking for talented engineers to join our team. Your experience with large-scale AI model development aligns perfectly with our needs.\n\nWould you be open to a call next week to discuss the role in more detail? I'd love to share more about our project, company culture, and what it's like working here.\n\nBest regards,\n[Your Name]"
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Gen Ai Engineer Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T18:04:23.029850"
+}

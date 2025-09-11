@@ -1,0 +1,218 @@
+{
+  "session_id": "093acdc9",
+  "last_input": "help me hire ai engineer intern",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "AI Engineer",
+        "summary": "Join our cutting-edge startup as an AI Engineer, where you'll shape the future of machine learning and drive business impact with your code. As part of our team, you'll work on scalable, real-world applications that transform industries and revolutionize customer experiences.",
+        "responsibilities": [
+          "Design and develop robust, production-ready AI models using PyTorch and TensorFlow",
+          "Collaborate with cross-functional teams to integrate ML Ops into our product roadmap",
+          "Build, test, and deploy containerized AI services on Kubernetes clusters",
+          "Develop and maintain efficient data pipelines using Docker and Python",
+          "Contribute to the development of a scalable MLOps framework for continuous integration and deployment",
+          "Identify and prioritize areas for AI-driven innovation and growth within our product offerings",
+          "Drive experimentation, A/B testing, and model evaluation to maximize ROI on AI initiatives"
+        ],
+        "requirements": [
+          "1+ years of relevant experience",
+          "2+ years of experience in software engineering with a focus on AI/ML development",
+          "Proficiency in Python (including NumPy, Pandas, and scikit-learn) and at least one major deep learning framework (PyTorch or TensorFlow)",
+          "Experience with Docker and Kubernetes for containerization and orchestration",
+          "Strong understanding of ML Ops principles and practices for scalable model deployment",
+          "Familiarity with cloud-based platforms (AWS or GCP) for data storage, processing, and serving",
+          "Excellent problem-solving skills and a passion for experimentation and learning",
+          "Experience working in an agile development environment with continuous integration/continuous deployment (CI/CD)",
+          "Ability to communicate complex technical ideas effectively to both technical and non-technical stakeholders"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      },
+      {
+        "title": "Data Scientist",
+        "summary": "Join our high-growth startup as a Junior Data Scientist and help us drive innovation through machine learning! As a key member of our data team, you'll design and develop scalable ML models that impact business decisions. If you're passionate about pushing the boundaries of what's possible with AI, we'd love to hear from you!",
+        "responsibilities": [
+          "Design and implement end-to-end ML pipelines using Python, PyTorch, or TensorFlow",
+          "Collaborate with cross-functional teams to develop data-driven solutions that drive business growth",
+          "Develop and maintain high-quality, production-ready code in a Dockerized environment",
+          "Work closely with our engineering team to integrate ML models into our Kubernetes-based infrastructure",
+          "Stay up-to-date on the latest advancements in deep learning and contribute your expertise to our research roadmap",
+          "Communicate complex technical concepts to non-technical stakeholders and drive data-driven decision-making across the organization"
+        ],
+        "requirements": [
+          "1+ years of relevant experience",
+          "Bachelor's or Master's degree in Computer Science, Statistics, or a related field",
+          "1+ years of experience with Python programming (PyTorch or TensorFlow experience preferred)",
+          "Strong understanding of machine learning fundamentals (supervised/unsupervised learning, neural networks, etc.)",
+          "Familiarity with Docker and Kubernetes for containerized deployment",
+          "Experience with ML Ops tools (e.g., TensorFlow Serving, AWS SageMaker) a plus",
+          "Excellent communication and collaboration skills to work effectively in a remote team"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize LinkedIn, AngelList, and relevant online communities to post job ads and reach potential candidates (Hiring Manager)",
+        "Week 1: Initial Screening - Use async video screening tools like Loom or Calendly to filter out unqualified applicants (HR)",
+        "Week 2: Technical Assessment - Send skills assessments for AI Engineer and Data Scientist roles, focusing on coding challenges and technical questions (Team Lead)",
+        "Week 2: Interviews - Conduct a series of video interviews with top candidates, including behavioral and technical questions (Hiring Manager & Team Lead)",
+        "Week 2: Reference Checks - Verify candidate references, either via phone or email (CEO)",
+        "Week 2: Offer Extension - Send personalized offers to selected candidates, including details on salary, equity, and benefits (HR)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead",
+        "Hiring Manager & Team Lead",
+        "CEO",
+        "HR"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **AI Engineer, Data Scientist**. The target timeline is **2 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### AI Engineer\n**Summary**: Join our cutting-edge startup as an AI Engineer, where you'll shape the future of machine learning and drive business impact with your code. As part of our team, you'll work on scalable, real-world applications that transform industries and revolutionize customer experiences.\n**Key Responsibilities:**\n- Design and develop robust, production-ready AI models using PyTorch and TensorFlow\n- Collaborate with cross-functional teams to integrate ML Ops into our product roadmap\n- Build, test, and deploy containerized AI services on Kubernetes clusters\n- Develop and maintain efficient data pipelines using Docker and Python\n- Contribute to the development of a scalable MLOps framework for continuous integration and deployment\n- Identify and prioritize areas for AI-driven innovation and growth within our product offerings\n- Drive experimentation, A/B testing, and model evaluation to maximize ROI on AI initiatives\n**Requirements:**\n- 1+ years of relevant experience\n- 2+ years of experience in software engineering with a focus on AI/ML development\n- Proficiency in Python (including NumPy, Pandas, and scikit-learn) and at least one major deep learning framework (PyTorch or TensorFlow)\n- Experience with Docker and Kubernetes for containerization and orchestration\n- Strong understanding of ML Ops principles and practices for scalable model deployment\n- Familiarity with cloud-based platforms (AWS or GCP) for data storage, processing, and serving\n- Excellent problem-solving skills and a passion for experimentation and learning\n- Experience working in an agile development environment with continuous integration/continuous deployment (CI/CD)\n- Ability to communicate complex technical ideas effectively to both technical and non-technical stakeholders\n**Compensation:** $60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n### Data Scientist\n**Summary**: Join our high-growth startup as a Junior Data Scientist and help us drive innovation through machine learning! As a key member of our data team, you'll design and develop scalable ML models that impact business decisions. If you're passionate about pushing the boundaries of what's possible with AI, we'd love to hear from you!\n**Key Responsibilities:**\n- Design and implement end-to-end ML pipelines using Python, PyTorch, or TensorFlow\n- Collaborate with cross-functional teams to develop data-driven solutions that drive business growth\n- Develop and maintain high-quality, production-ready code in a Dockerized environment\n- Work closely with our engineering team to integrate ML models into our Kubernetes-based infrastructure\n- Stay up-to-date on the latest advancements in deep learning and contribute your expertise to our research roadmap\n- Communicate complex technical concepts to non-technical stakeholders and drive data-driven decision-making across the organization\n**Requirements:**\n- 1+ years of relevant experience\n- Bachelor's or Master's degree in Computer Science, Statistics, or a related field\n- 1+ years of experience with Python programming (PyTorch or TensorFlow experience preferred)\n- Strong understanding of machine learning fundamentals (supervised/unsupervised learning, neural networks, etc.)\n- Familiarity with Docker and Kubernetes for containerized deployment\n- Experience with ML Ops tools (e.g., TensorFlow Serving, AWS SageMaker) a plus\n- Excellent communication and collaboration skills to work effectively in a remote team\n**Compensation:** $60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 2 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize LinkedIn, AngelList, and relevant online communities to post job ads and reach potential candidates (Hiring Manager)  \n   *Owner: Hiring Manager*\n2. Week 1: Initial Screening - Use async video screening tools like Loom or Calendly to filter out unqualified applicants (HR)  \n   *Owner: HR*\n3. Week 2: Technical Assessment - Send skills assessments for AI Engineer and Data Scientist roles, focusing on coding challenges and technical questions (Team Lead)  \n   *Owner: Team Lead*\n4. Week 2: Interviews - Conduct a series of video interviews with top candidates, including behavioral and technical questions (Hiring Manager & Team Lead)  \n   *Owner: Hiring Manager & Team Lead*\n5. Week 2: Reference Checks - Verify candidate references, either via phone or email (CEO)  \n   *Owner: CEO*\n6. Week 2: Offer Extension - Send personalized offers to selected candidates, including details on salary, equity, and benefits (HR)  \n   *Owner: HR*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "$60k-$85k",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "ML Ops",
+          "Docker",
+          "Kubernetes"
+        ],
+        "roles": [
+          "AI Engineer",
+          "Data Scientist"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "AI Engineer",
+          "summary": "Join our cutting-edge startup as an AI Engineer, where you'll shape the future of machine learning and drive business impact with your code. As part of our team, you'll work on scalable, real-world applications that transform industries and revolutionize customer experiences.",
+          "responsibilities": [
+            "Design and develop robust, production-ready AI models using PyTorch and TensorFlow",
+            "Collaborate with cross-functional teams to integrate ML Ops into our product roadmap",
+            "Build, test, and deploy containerized AI services on Kubernetes clusters",
+            "Develop and maintain efficient data pipelines using Docker and Python",
+            "Contribute to the development of a scalable MLOps framework for continuous integration and deployment",
+            "Identify and prioritize areas for AI-driven innovation and growth within our product offerings",
+            "Drive experimentation, A/B testing, and model evaluation to maximize ROI on AI initiatives"
+          ],
+          "requirements": [
+            "1+ years of relevant experience",
+            "2+ years of experience in software engineering with a focus on AI/ML development",
+            "Proficiency in Python (including NumPy, Pandas, and scikit-learn) and at least one major deep learning framework (PyTorch or TensorFlow)",
+            "Experience with Docker and Kubernetes for containerization and orchestration",
+            "Strong understanding of ML Ops principles and practices for scalable model deployment",
+            "Familiarity with cloud-based platforms (AWS or GCP) for data storage, processing, and serving",
+            "Excellent problem-solving skills and a passion for experimentation and learning",
+            "Experience working in an agile development environment with continuous integration/continuous deployment (CI/CD)",
+            "Ability to communicate complex technical ideas effectively to both technical and non-technical stakeholders"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        },
+        {
+          "title": "Data Scientist",
+          "summary": "Join our high-growth startup as a Junior Data Scientist and help us drive innovation through machine learning! As a key member of our data team, you'll design and develop scalable ML models that impact business decisions. If you're passionate about pushing the boundaries of what's possible with AI, we'd love to hear from you!",
+          "responsibilities": [
+            "Design and implement end-to-end ML pipelines using Python, PyTorch, or TensorFlow",
+            "Collaborate with cross-functional teams to develop data-driven solutions that drive business growth",
+            "Develop and maintain high-quality, production-ready code in a Dockerized environment",
+            "Work closely with our engineering team to integrate ML models into our Kubernetes-based infrastructure",
+            "Stay up-to-date on the latest advancements in deep learning and contribute your expertise to our research roadmap",
+            "Communicate complex technical concepts to non-technical stakeholders and drive data-driven decision-making across the organization"
+          ],
+          "requirements": [
+            "1+ years of relevant experience",
+            "Bachelor's or Master's degree in Computer Science, Statistics, or a related field",
+            "1+ years of experience with Python programming (PyTorch or TensorFlow experience preferred)",
+            "Strong understanding of machine learning fundamentals (supervised/unsupervised learning, neural networks, etc.)",
+            "Familiarity with Docker and Kubernetes for containerized deployment",
+            "Experience with ML Ops tools (e.g., TensorFlow Serving, AWS SageMaker) a plus",
+            "Excellent communication and collaboration skills to work effectively in a remote team"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize LinkedIn, AngelList, and relevant online communities to post job ads and reach potential candidates (Hiring Manager)",
+          "Week 1: Initial Screening - Use async video screening tools like Loom or Calendly to filter out unqualified applicants (HR)",
+          "Week 2: Technical Assessment - Send skills assessments for AI Engineer and Data Scientist roles, focusing on coding challenges and technical questions (Team Lead)",
+          "Week 2: Interviews - Conduct a series of video interviews with top candidates, including behavioral and technical questions (Hiring Manager & Team Lead)",
+          "Week 2: Reference Checks - Verify candidate references, either via phone or email (CEO)",
+          "Week 2: Offer Extension - Send personalized offers to selected candidates, including details on salary, equity, and benefits (HR)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead",
+          "Hiring Manager & Team Lead",
+          "CEO",
+          "HR"
+        ],
+        "timeline_weeks": 2
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Python. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "$60k-$85k",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "AI Engineer",
+      "Data Scientist"
+    ]
+  },
+  "timestamp": "2025-09-10T19:16:21.670208"
+}

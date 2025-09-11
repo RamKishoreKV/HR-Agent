@@ -1,0 +1,16 @@
+{
+  "session_id": "e7b07a7b",
+  "last_input": "give screening questions",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "I'd be happy to assist you with creating some screening questions tailored to your specific needs! To get started, would you like me to guide you through our hiring wizard by saying \"help hire [role]\"?",
+    "raw_json": {
+      "message": "I'd be happy to assist you with creating some screening questions tailored to your specific needs! To get started, would you like me to guide you through our hiring wizard by saying \"help hire [role]\"?",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T18:18:22.176515"
+}

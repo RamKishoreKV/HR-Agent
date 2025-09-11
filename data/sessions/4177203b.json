@@ -1,0 +1,140 @@
+{
+  "session_id": "4177203b",
+  "last_input": "help me hire a founding engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Founding Engineer",
+        "summary": "Join our high-growth startup as a Founding Engineer, where you'll be at the forefront of shaping our technology and driving innovation. As a key member of our founding team, you'll have the opportunity to make a significant impact on our product roadmap, architecture, and engineering culture.",
+        "responsibilities": [
+          "Design and implement scalable, efficient, and reliable software systems that meet the needs of our users",
+          "Collaborate with cross-functional teams to define product requirements, develop technical specifications, and drive project execution",
+          "Develop and maintain high-quality code, ensuring adherence to coding standards and best practices",
+          "Contribute to the development of our engineering culture, including mentoring junior engineers, participating in code reviews, and promoting knowledge sharing",
+          "Identify and prioritize technical initiatives that align with our company goals and vision",
+          "Work closely with our leadership team to inform product decisions, estimate project timelines, and provide technical guidance on complex problems",
+          "Develop and maintain relationships with key stakeholders, including customers, partners, and vendors",
+          "Participate in the development of our technology roadmap, identifying opportunities for innovation and growth"
+        ],
+        "requirements": [
+          "4+ years of experience as a software engineer, with a strong track record of designing and implementing scalable systems",
+          "Bachelor's degree in Computer Science or related field; Master's degree preferred",
+          "Strong proficiency in programming languages such as Java, Python, or C++; ability to learn new languages quickly",
+          "Familiarity with cloud-based technologies, including AWS or Azure",
+          "Experience with agile development methodologies and version control systems (e.g. Git)",
+          "Excellent communication and collaboration skills, with the ability to work effectively in a remote team environment",
+          "Strong problem-solving skills, with the ability to analyze complex technical issues and develop effective solutions",
+          "Passion for innovation and commitment to staying up-to-date with industry trends and best practices"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Define role requirements and create job description",
+        "Weeks 2-3: Sourcing - Utilize LinkedIn Recruiter, Employee Referrals, and Online Job Boards",
+        "Weeks 4-5: Async Video Screening to filter candidates (10-15 minutes)",
+        "Weeks 5-6: In-depth interviews with Founding Engineer team members",
+        "Weeks 6-7: Skills Assessments (e.g., coding challenges) for top candidates",
+        "Weeks 7-8: Reference Checks and Final Interview with CEO/Founder",
+        "Week 8: Offer extension and Onboarding planning"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "Recruiter (HR)",
+        "Team Lead (Founding Engineer)",
+        "CEO/Founder",
+        "Engineering Team Lead",
+        "Talent Acquisition Specialist (HR)",
+        "CEO/Founder"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Founding Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Founding Engineer\n**Summary**: Join our high-growth startup as a Founding Engineer, where you'll be at the forefront of shaping our technology and driving innovation. As a key member of our founding team, you'll have the opportunity to make a significant impact on our product roadmap, architecture, and engineering culture.\n**Key Responsibilities:**\n- Design and implement scalable, efficient, and reliable software systems that meet the needs of our users\n- Collaborate with cross-functional teams to define product requirements, develop technical specifications, and drive project execution\n- Develop and maintain high-quality code, ensuring adherence to coding standards and best practices\n- Contribute to the development of our engineering culture, including mentoring junior engineers, participating in code reviews, and promoting knowledge sharing\n- Identify and prioritize technical initiatives that align with our company goals and vision\n- Work closely with our leadership team to inform product decisions, estimate project timelines, and provide technical guidance on complex problems\n- Develop and maintain relationships with key stakeholders, including customers, partners, and vendors\n- Participate in the development of our technology roadmap, identifying opportunities for innovation and growth\n**Requirements:**\n- 4+ years of experience as a software engineer, with a strong track record of designing and implementing scalable systems\n- Bachelor's degree in Computer Science or related field; Master's degree preferred\n- Strong proficiency in programming languages such as Java, Python, or C++; ability to learn new languages quickly\n- Familiarity with cloud-based technologies, including AWS or Azure\n- Experience with agile development methodologies and version control systems (e.g. Git)\n- Excellent communication and collaboration skills, with the ability to work effectively in a remote team environment\n- Strong problem-solving skills, with the ability to analyze complex technical issues and develop effective solutions\n- Passion for innovation and commitment to staying up-to-date with industry trends and best practices\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Define role requirements and create job description  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Sourcing - Utilize LinkedIn Recruiter, Employee Referrals, and Online Job Boards  \n   *Owner: Recruiter (HR)*\n3. Weeks 4-5: Async Video Screening to filter candidates (10-15 minutes)  \n   *Owner: Team Lead (Founding Engineer)*\n4. Weeks 5-6: In-depth interviews with Founding Engineer team members  \n   *Owner: CEO/Founder*\n5. Weeks 6-7: Skills Assessments (e.g., coding challenges) for top candidates  \n   *Owner: Engineering Team Lead*\n6. Weeks 7-8: Reference Checks and Final Interview with CEO/Founder  \n   *Owner: Talent Acquisition Specialist (HR)*\n7. Week 8: Offer extension and Onboarding planning  \n   *Owner: CEO/Founder*\n\n## Interview Kit\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Founding Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Founding Engineer",
+          "summary": "Join our high-growth startup as a Founding Engineer, where you'll be at the forefront of shaping our technology and driving innovation. As a key member of our founding team, you'll have the opportunity to make a significant impact on our product roadmap, architecture, and engineering culture.",
+          "responsibilities": [
+            "Design and implement scalable, efficient, and reliable software systems that meet the needs of our users",
+            "Collaborate with cross-functional teams to define product requirements, develop technical specifications, and drive project execution",
+            "Develop and maintain high-quality code, ensuring adherence to coding standards and best practices",
+            "Contribute to the development of our engineering culture, including mentoring junior engineers, participating in code reviews, and promoting knowledge sharing",
+            "Identify and prioritize technical initiatives that align with our company goals and vision",
+            "Work closely with our leadership team to inform product decisions, estimate project timelines, and provide technical guidance on complex problems",
+            "Develop and maintain relationships with key stakeholders, including customers, partners, and vendors",
+            "Participate in the development of our technology roadmap, identifying opportunities for innovation and growth"
+          ],
+          "requirements": [
+            "4+ years of experience as a software engineer, with a strong track record of designing and implementing scalable systems",
+            "Bachelor's degree in Computer Science or related field; Master's degree preferred",
+            "Strong proficiency in programming languages such as Java, Python, or C++; ability to learn new languages quickly",
+            "Familiarity with cloud-based technologies, including AWS or Azure",
+            "Experience with agile development methodologies and version control systems (e.g. Git)",
+            "Excellent communication and collaboration skills, with the ability to work effectively in a remote team environment",
+            "Strong problem-solving skills, with the ability to analyze complex technical issues and develop effective solutions",
+            "Passion for innovation and commitment to staying up-to-date with industry trends and best practices"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Define role requirements and create job description",
+          "Weeks 2-3: Sourcing - Utilize LinkedIn Recruiter, Employee Referrals, and Online Job Boards",
+          "Weeks 4-5: Async Video Screening to filter candidates (10-15 minutes)",
+          "Weeks 5-6: In-depth interviews with Founding Engineer team members",
+          "Weeks 6-7: Skills Assessments (e.g., coding challenges) for top candidates",
+          "Weeks 7-8: Reference Checks and Final Interview with CEO/Founder",
+          "Week 8: Offer extension and Onboarding planning"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "Recruiter (HR)",
+          "Team Lead (Founding Engineer)",
+          "CEO/Founder",
+          "Engineering Team Lead",
+          "Talent Acquisition Specialist (HR)",
+          "CEO/Founder"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [],
+        "evaluation_rubric": [],
+        "scorecard": [],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Founding Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T17:48:29.396333"
+}

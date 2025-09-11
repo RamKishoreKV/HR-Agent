@@ -1,0 +1,16 @@
+{
+  "session_id": "f39ef9de",
+  "last_input": "what happened",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "I'd be happy to help clarify what happened! If you have any questions or concerns related to hiring or recruitment, feel free to let me know and I can guide you through our process - would you like to start the hiring wizard by saying \"help hire [role]\"?",
+    "raw_json": {
+      "message": "I'd be happy to help clarify what happened! If you have any questions or concerns related to hiring or recruitment, feel free to let me know and I can guide you through our process - would you like to start the hiring wizard by saying \"help hire [role]\"?",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T21:00:16.606460"
+}

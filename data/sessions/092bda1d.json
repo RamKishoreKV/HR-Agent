@@ -1,0 +1,16 @@
+{
+  "session_id": "092bda1d",
+  "last_input": "inital screening questions to ask for this interview",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "I'd be happy to assist you with initial screening questions for your interview! To get started, I can guide you through some common screening questions that help us gauge a candidate's fit for the role, but if you're looking to move forward with the hiring process, feel free to ask me to \"help hire [role]\" and we'll go through our standard hiring wizard together.",
+    "raw_json": {
+      "message": "I'd be happy to assist you with initial screening questions for your interview! To get started, I can guide you through some common screening questions that help us gauge a candidate's fit for the role, but if you're looking to move forward with the hiring process, feel free to ask me to \"help hire [role]\" and we'll go through our standard hiring wizard together.",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T18:10:03.531667"
+}

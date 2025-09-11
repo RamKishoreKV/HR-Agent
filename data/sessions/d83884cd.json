@@ -1,0 +1,129 @@
+{
+  "session_id": "d83884cd",
+  "last_input": "help me hire gen ai intern",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Gen Ai Engineer Intern",
+        "summary": "Join our high-growth startup as a Gen AI Engineer Intern, where you'll drive innovation and impact in the field of artificial intelligence. As part of our cutting-edge team, you'll have the opportunity to develop and implement next-generation AI solutions using state-of-the-art technologies like RAG, LLM, and PyTorch.",
+        "responsibilities": [
+          "Design and develop novel deep learning architectures for large-scale applications",
+          "Collaborate with cross-functional teams to integrate AI models into our products",
+          "Contribute to the development of cutting-edge research in natural language processing and computer vision",
+          "Develop and maintain high-quality code using PyTorch, ensuring scalability and efficiency",
+          "Participate in peer review process to ensure consistency and accuracy across all projects",
+          "Stay up-to-date with industry trends and advancements in AI and machine learning",
+          "Identify areas for improvement and propose innovative solutions to optimize our products and services"
+        ],
+        "requirements": [
+          "Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field",
+          "Proven experience with PyTorch and deep learning frameworks (RAG, LLM)",
+          "Strong understanding of computer vision, natural language processing, and machine learning concepts",
+          "Excellent problem-solving skills, with the ability to break down complex problems into manageable tasks",
+          "Experience working in a fast-paced environment and meeting deadlines",
+          "Strong communication skills, with the ability to collaborate effectively with cross-functional teams",
+          "Familiarity with Agile development methodologies and version control systems (e.g., Git)"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing & Initial Screening - Utilize social media, professional networks, and job boards to identify potential candidates. Perform initial phone or video screening to gauge interest and basic qualifications.",
+        "Week 1-2: Async Video Screening & Skills Assessments - Send pre-recorded video questions and skills assessments to shortlisted candidates to evaluate their technical abilities and fit for the role.",
+        "Week 2: In-Person Interviews (if feasible) / Online Panel Interview - Conduct in-person interviews with top candidates, or use online panel interview tools if remote work is dominant. This step assesses cultural fit, communication skills, and problem-solving abilities.",
+        "Week 3-4: Reference Checks & Offer Extension - Verify the candidate's previous experience and performance through reference checks. Finalize the offer package and extend it to the selected candidate.",
+        "Week 4: Onboarding Preparation & Planning - Coordinate with the team lead and HR to ensure a smooth onboarding process, including necessary equipment, software, and training materials."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Team Lead (Gen Ai Engineer)",
+        "CEO/Founder",
+        "HR Specialist"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nOur comprehensive hiring plan aims to identify and hire a top-tier Gen AI Engineer Intern to drive innovation and impact in our high-growth startup. This report outlines the detailed steps, responsibilities, and requirements for the role.\n\n## Job Descriptions\n\n### Gen AI Engineer Intern\n\n**Summary:**\nJoin our cutting-edge team as a Gen AI Engineer Intern, where you'll develop and implement next-generation AI solutions using state-of-the-art technologies like RAG, LLM, and PyTorch.\n\n**Key Responsibilities:**\n\n* Develop and implement next-generation AI solutions\n* Collaborate with the team to drive innovation and impact in AI research\n* Utilize state-of-the-art technologies like RAG, LLM, and PyTorch\n\n**Requirements:**\n- Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field\n- Strong understanding of machine learning algorithms and techniques\n- Experience with Python programming language\n- Familiarity with AI frameworks such as PyTorch\n\n**Compensation:** Salary range to be determined based on experience and qualifications.\n\n## Hiring Process Plan\n\n**Timeline:** 4 weeks\n\n**Process Steps:**\n1. **Week 1: Sourcing & Initial Screening** - *Owner: Hiring Manager, HR Specialist*\n\t* Utilize social media, professional networks, and job boards to identify potential candidates\n\t* Perform initial phone or video screening to gauge interest and basic qualifications\n2. **Week 1-2: Async Video Screening & Skills Assessments** - *Owner: Hiring Manager, Team Lead (Gen AI Engineer)*\n\t* Send pre-recorded video questions and skills assessments to shortlisted candidates\n\t* Evaluate their technical abilities and fit for the role\n3. **Week 2: In-Person Interviews (if feasible) / Online Panel Interview** - *Owner: CEO/Founder, HR Specialist*\n\t* Conduct in-person interviews with top candidates, or use online panel interview tools if remote work is dominant\n\t* Assess cultural fit, communication skills, and problem-solving abilities\n4. **Week 3-4: Reference Checks & Offer Extension** - *Owner: Hiring Manager, HR Specialist*\n\t* Verify the candidate's previous experience and performance through reference checks\n\t* Finalize the offer package and extend it to the selected candidate\n5. **Week 4: Onboarding Preparation & Planning** - *Owner: Team Lead (Gen AI Engineer), HR Specialist*\n\t* Coordinate with the team lead and HR to ensure a smooth onboarding process\n\t* Provide necessary equipment, software, and training materials\n\n## Next Steps\n\nActionable next steps for the HR professional:\n\n1. Finalize job description and requirements documentation.\n2. Begin sourcing candidates through social media, professional networks, and job boards.\n3. Coordinate with the hiring manager to schedule initial screening calls.\n4. Prepare async video screening and skills assessments for shortlisted candidates.\n\nBy following this comprehensive plan, we aim to identify a top-tier Gen AI Engineer Intern who will drive innovation and impact in our high-growth startup.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "rag",
+          "llm",
+          "pytorch"
+        ],
+        "roles": [
+          "Gen Ai Engineer Intern"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Gen Ai Engineer Intern",
+          "summary": "Join our high-growth startup as a Gen AI Engineer Intern, where you'll drive innovation and impact in the field of artificial intelligence. As part of our cutting-edge team, you'll have the opportunity to develop and implement next-generation AI solutions using state-of-the-art technologies like RAG, LLM, and PyTorch.",
+          "responsibilities": [
+            "Design and develop novel deep learning architectures for large-scale applications",
+            "Collaborate with cross-functional teams to integrate AI models into our products",
+            "Contribute to the development of cutting-edge research in natural language processing and computer vision",
+            "Develop and maintain high-quality code using PyTorch, ensuring scalability and efficiency",
+            "Participate in peer review process to ensure consistency and accuracy across all projects",
+            "Stay up-to-date with industry trends and advancements in AI and machine learning",
+            "Identify areas for improvement and propose innovative solutions to optimize our products and services"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field",
+            "Proven experience with PyTorch and deep learning frameworks (RAG, LLM)",
+            "Strong understanding of computer vision, natural language processing, and machine learning concepts",
+            "Excellent problem-solving skills, with the ability to break down complex problems into manageable tasks",
+            "Experience working in a fast-paced environment and meeting deadlines",
+            "Strong communication skills, with the ability to collaborate effectively with cross-functional teams",
+            "Familiarity with Agile development methodologies and version control systems (e.g., Git)"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing & Initial Screening - Utilize social media, professional networks, and job boards to identify potential candidates. Perform initial phone or video screening to gauge interest and basic qualifications.",
+          "Week 1-2: Async Video Screening & Skills Assessments - Send pre-recorded video questions and skills assessments to shortlisted candidates to evaluate their technical abilities and fit for the role.",
+          "Week 2: In-Person Interviews (if feasible) / Online Panel Interview - Conduct in-person interviews with top candidates, or use online panel interview tools if remote work is dominant. This step assesses cultural fit, communication skills, and problem-solving abilities.",
+          "Week 3-4: Reference Checks & Offer Extension - Verify the candidate's previous experience and performance through reference checks. Finalize the offer package and extend it to the selected candidate.",
+          "Week 4: Onboarding Preparation & Planning - Coordinate with the team lead and HR to ensure a smooth onboarding process, including necessary equipment, software, and training materials."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Team Lead (Gen Ai Engineer)",
+          "CEO/Founder",
+          "HR Specialist"
+        ],
+        "timeline_weeks": 4
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 4,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "rag",
+      "llm",
+      "pytorch"
+    ],
+    "roles": [
+      "Gen Ai Engineer Intern"
+    ]
+  },
+  "timestamp": "2025-09-10T01:20:58.828698"
+}

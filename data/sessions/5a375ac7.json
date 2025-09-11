@@ -1,0 +1,131 @@
+{
+  "session_id": "5a375ac7",
+  "last_input": "i need to hire founding engineer and gen ai intenr",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Founding Engineer And Gen Ai Engineer Intenr",
+        "summary": "Join our fast-paced startup as a Founding Engineer and Gen AI Engineer, where you'll play a critical role in shaping the future of [industry/field]. You'll collaborate with our founding team to design and develop cutting-edge AI solutions that drive business growth and customer delight. If you're passionate about AI, engineering, and entrepreneurship, this is your chance to make a meaningful impact from day one.",
+        "responsibilities": [
+          "Design and develop advanced AI models and algorithms that solve real-world problems",
+          "Collaborate with the founding team to define product vision and strategy",
+          "Develop and maintain high-quality codebase that scales with our growing user base",
+          "Contribute to research and development of new AI technologies and applications",
+          "Mentor junior engineers and help build a strong engineering culture",
+          "Work closely with cross-functional teams to drive business growth through AI-powered solutions",
+          "Stay up-to-date with industry trends and advancements in AI, machine learning, and deep learning"
+        ],
+        "requirements": [
+          "3+ years of experience in AI engineering, software development, or a related field",
+          "Strong foundation in computer science, mathematics, and statistics",
+          "Proficiency in programming languages such as Python, Java, C++, or Julia",
+          "Experience with popular AI frameworks like TensorFlow, PyTorch, or Keras",
+          "Familiarity with cloud platforms like AWS, GCP, or Azure",
+          "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)",
+          "Excellent communication and collaboration skills",
+          "Ability to work independently and as part of a fast-paced startup team"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Define Job Descriptions & Requirements",
+        "Week 2: Sourcing - Social Media Ads, LinkedIn Campaigns, Employee Referrals",
+        "Week 3: Screening - Async Video Interviews for Founding Engineer, Skills Assessments for Gen AI Engineer",
+        "Week 4: Interview Loop - In-Person/Video Interviews with Team Leads & Hiring Manager",
+        "Week 5: Reference Checks - Background & Professional Verifications",
+        "Week 6-7: Offer Extension & Negotiation - CEO/Hiring Manager",
+        "Week 8: Onboarding - HR, Team Lead"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead (Founding Engineer)",
+        "Team Lead (Gen AI Engineer)",
+        "CEO/Hiring Manager",
+        "Hiring Manager/CEO",
+        "HR/Team Lead"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nThis hiring plan aims to recruit a Founding Engineer and Gen AI Engineer to join our fast-paced startup, playing a critical role in shaping the future of [industry/field]. The successful candidates will collaborate with our founding team to design and develop cutting-edge AI solutions that drive business growth and customer delight.\n\n## Job Descriptions\n\n### Founding Engineer And Gen Ai Engineer Intenr\n**Summary:** Join our fast-paced startup as a Founding Engineer and Gen AI Engineer, where you'll play a critical role in shaping the future of [industry/field]. You'll collaborate with our founding team to design and develop cutting-edge AI solutions that drive business growth and customer delight.\n\n**Key Responsibilities:**\n\n* Collaborate with the founding team to design and develop cutting-edge AI solutions\n* Contribute to the development of business growth and customer satisfaction strategies\n* Stay up-to-date with industry trends and advancements in AI\n\n**Requirements:**\n\n* 3+ years of experience as a software engineer or equivalent\n* Strong knowledge of AI fundamentals, including machine learning and deep learning\n* Excellent communication and collaboration skills\n* Experience with startup environments is a plus\n\n**Compensation:** Competitive salary and equity package offered.\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n\n1. Week 1: Define Job Descriptions & Requirements - *Owner: Hiring Manager*\n2. Week 2: Sourcing - Social Media Ads, LinkedIn Campaigns, Employee Referrals - *Owner: HR*\n3. Week 3: Screening - Async Video Interviews for Founding Engineer, Skills Assessments for Gen AI Engineer - *Owner: Team Lead (Founding Engineer), Team Lead (Gen AI Engineer)*\n4. Week 4: Interview Loop - In-Person/Video Interviews with Team Leads & Hiring Manager - *Owner: CEO/Hiring Manager*\n5. Week 5: Reference Checks - Background & Professional Verifications - *Owner: Hiring Manager/CEO*\n6. Week 6-7: Offer Extension & Negotiation - *Owner: HR/Team Lead*\n7. Week 8: Onboarding - *Owner: HR*\n\n## Next Steps\nTo proceed with the hiring plan, I recommend:\n\n* Finalizing the job descriptions and requirements for both roles\n* Creating a sourcing strategy to attract top talent\n* Setting up interview loops with team leads and the hiring manager\n* Preparing for reference checks and offer extension negotiations\n\nThis report provides a comprehensive overview of our hiring initiative. Please let me know if you need any further assistance or have questions about the plan.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Founding Engineer And Gen Ai Engineer Intenr"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Founding Engineer And Gen Ai Engineer Intenr",
+          "summary": "Join our fast-paced startup as a Founding Engineer and Gen AI Engineer, where you'll play a critical role in shaping the future of [industry/field]. You'll collaborate with our founding team to design and develop cutting-edge AI solutions that drive business growth and customer delight. If you're passionate about AI, engineering, and entrepreneurship, this is your chance to make a meaningful impact from day one.",
+          "responsibilities": [
+            "Design and develop advanced AI models and algorithms that solve real-world problems",
+            "Collaborate with the founding team to define product vision and strategy",
+            "Develop and maintain high-quality codebase that scales with our growing user base",
+            "Contribute to research and development of new AI technologies and applications",
+            "Mentor junior engineers and help build a strong engineering culture",
+            "Work closely with cross-functional teams to drive business growth through AI-powered solutions",
+            "Stay up-to-date with industry trends and advancements in AI, machine learning, and deep learning"
+          ],
+          "requirements": [
+            "3+ years of experience in AI engineering, software development, or a related field",
+            "Strong foundation in computer science, mathematics, and statistics",
+            "Proficiency in programming languages such as Python, Java, C++, or Julia",
+            "Experience with popular AI frameworks like TensorFlow, PyTorch, or Keras",
+            "Familiarity with cloud platforms like AWS, GCP, or Azure",
+            "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)",
+            "Excellent communication and collaboration skills",
+            "Ability to work independently and as part of a fast-paced startup team"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Define Job Descriptions & Requirements",
+          "Week 2: Sourcing - Social Media Ads, LinkedIn Campaigns, Employee Referrals",
+          "Week 3: Screening - Async Video Interviews for Founding Engineer, Skills Assessments for Gen AI Engineer",
+          "Week 4: Interview Loop - In-Person/Video Interviews with Team Leads & Hiring Manager",
+          "Week 5: Reference Checks - Background & Professional Verifications",
+          "Week 6-7: Offer Extension & Negotiation - CEO/Hiring Manager",
+          "Week 8: Onboarding - HR, Team Lead"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead (Founding Engineer)",
+          "Team Lead (Gen AI Engineer)",
+          "CEO/Hiring Manager",
+          "Hiring Manager/CEO",
+          "HR/Team Lead"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Founding Engineer And Gen Ai Engineer Intenr"
+    ]
+  },
+  "timestamp": "2025-09-10T01:56:39.915783"
+}

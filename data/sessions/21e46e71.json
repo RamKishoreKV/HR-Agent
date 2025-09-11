@@ -1,0 +1,139 @@
+{
+  "session_id": "21e46e71",
+  "last_input": "help me hire a business analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Business Analyst",
+        "summary": "Join our high-growth startup as a Business Analyst and drive business impact through data-driven decision making! You'll play a critical role in shaping our product roadmap, identifying process improvements, and developing strategies to drive growth. If you're passionate about working with stakeholders, analyzing complex data sets, and delivering actionable insights, we'd love to hear from you!",
+        "responsibilities": [
+          "Conduct thorough business requirements gathering through stakeholder interviews, workshops, and surveys",
+          "Develop and maintain accurate and up-to-date process maps to inform product development and improve operational efficiency",
+          "Design and implement data visualizations (dashboards) using SQL and visualization tools to drive business decisions",
+          "Collaborate with cross-functional teams to identify opportunities for growth and develop strategic recommendations",
+          "Develop and present insights to senior stakeholders, including C-level executives and functional leaders",
+          "Work closely with product managers to prioritize features and ensure alignment with business objectives",
+          "Identify and implement process improvements to increase efficiency, reduce costs, and enhance customer experience"
+        ],
+        "requirements": [
+          "3+ years of experience in Business Analysis or a related field (consulting, operations, etc.)",
+          "Advanced SQL skills, including proficiency in querying databases and data visualization tools",
+          "Proven ability to collect and analyze complex business requirements through stakeholder interviews and workshops",
+          "Experience with dashboard design and development using tools like Tableau, Power BI, or D3.js",
+          "Strong communication and presentation skills, with the ability to distill complex technical information into actionable insights",
+          "Experience working in a fast-paced startup environment (bonus points if you've worked remotely)",
+          "Ability to travel occasionally (not frequently) for meetings and workshops"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize LinkedIn, job boards, and professional networks to attract top talent",
+        "Weeks 2-3: Screening - Conduct asynchronous video screening using tools like HireVue or Video Interview Pro",
+        "Week 4: Skills Assessment - Develop a skills test to evaluate the candidate's Business Analyst skills using platforms like HackerRank or Pluralsight",
+        "Week 5: Interviews - Schedule in-person or virtual interviews with the Hiring Manager, Team Lead, and CEO to assess cultural fit and technical expertise",
+        "Weeks 6-7: Reference Checks - Conduct thorough reference checks with previous employers to verify candidate's work experience and performance",
+        "Week 8: Offer and Onboarding - Extend a job offer and initiate onboarding process with the new hire"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Recruiter)",
+        "Team Lead",
+        "CEO",
+        "Hiring Manager & Team Lead",
+        "HR"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Business Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Business Analyst\n**Summary**: Join our high-growth startup as a Business Analyst and drive business impact through data-driven decision making! You'll play a critical role in shaping our product roadmap, identifying process improvements, and developing strategies to drive growth. If you're passionate about working with stakeholders, analyzing complex data sets, and delivering actionable insights, we'd love to hear from you!\n**Key Responsibilities:**\n- Conduct thorough business requirements gathering through stakeholder interviews, workshops, and surveys\n- Develop and maintain accurate and up-to-date process maps to inform product development and improve operational efficiency\n- Design and implement data visualizations (dashboards) using SQL and visualization tools to drive business decisions\n- Collaborate with cross-functional teams to identify opportunities for growth and develop strategic recommendations\n- Develop and present insights to senior stakeholders, including C-level executives and functional leaders\n- Work closely with product managers to prioritize features and ensure alignment with business objectives\n- Identify and implement process improvements to increase efficiency, reduce costs, and enhance customer experience\n**Requirements:**\n- 3+ years of experience in Business Analysis or a related field (consulting, operations, etc.)\n- Advanced SQL skills, including proficiency in querying databases and data visualization tools\n- Proven ability to collect and analyze complex business requirements through stakeholder interviews and workshops\n- Experience with dashboard design and development using tools like Tableau, Power BI, or D3.js\n- Strong communication and presentation skills, with the ability to distill complex technical information into actionable insights\n- Experience working in a fast-paced startup environment (bonus points if you've worked remotely)\n- Ability to travel occasionally (not frequently) for meetings and workshops\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize LinkedIn, job boards, and professional networks to attract top talent  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Screening - Conduct asynchronous video screening using tools like HireVue or Video Interview Pro  \n   *Owner: HR (Recruiter)*\n3. Week 4: Skills Assessment - Develop a skills test to evaluate the candidate's Business Analyst skills using platforms like HackerRank or Pluralsight  \n   *Owner: Team Lead*\n4. Week 5: Interviews - Schedule in-person or virtual interviews with the Hiring Manager, Team Lead, and CEO to assess cultural fit and technical expertise  \n   *Owner: CEO*\n5. Weeks 6-7: Reference Checks - Conduct thorough reference checks with previous employers to verify candidate's work experience and performance  \n   *Owner: Hiring Manager & Team Lead*\n6. Week 8: Offer and Onboarding - Extend a job offer and initiate onboarding process with the new hire  \n   *Owner: HR*\n\n## Interview Kit\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Requirements Gathering",
+          "SQL",
+          "Dashboards",
+          "Stakeholder Management",
+          "Process Mapping"
+        ],
+        "roles": [
+          "Business Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Business Analyst",
+          "summary": "Join our high-growth startup as a Business Analyst and drive business impact through data-driven decision making! You'll play a critical role in shaping our product roadmap, identifying process improvements, and developing strategies to drive growth. If you're passionate about working with stakeholders, analyzing complex data sets, and delivering actionable insights, we'd love to hear from you!",
+          "responsibilities": [
+            "Conduct thorough business requirements gathering through stakeholder interviews, workshops, and surveys",
+            "Develop and maintain accurate and up-to-date process maps to inform product development and improve operational efficiency",
+            "Design and implement data visualizations (dashboards) using SQL and visualization tools to drive business decisions",
+            "Collaborate with cross-functional teams to identify opportunities for growth and develop strategic recommendations",
+            "Develop and present insights to senior stakeholders, including C-level executives and functional leaders",
+            "Work closely with product managers to prioritize features and ensure alignment with business objectives",
+            "Identify and implement process improvements to increase efficiency, reduce costs, and enhance customer experience"
+          ],
+          "requirements": [
+            "3+ years of experience in Business Analysis or a related field (consulting, operations, etc.)",
+            "Advanced SQL skills, including proficiency in querying databases and data visualization tools",
+            "Proven ability to collect and analyze complex business requirements through stakeholder interviews and workshops",
+            "Experience with dashboard design and development using tools like Tableau, Power BI, or D3.js",
+            "Strong communication and presentation skills, with the ability to distill complex technical information into actionable insights",
+            "Experience working in a fast-paced startup environment (bonus points if you've worked remotely)",
+            "Ability to travel occasionally (not frequently) for meetings and workshops"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize LinkedIn, job boards, and professional networks to attract top talent",
+          "Weeks 2-3: Screening - Conduct asynchronous video screening using tools like HireVue or Video Interview Pro",
+          "Week 4: Skills Assessment - Develop a skills test to evaluate the candidate's Business Analyst skills using platforms like HackerRank or Pluralsight",
+          "Week 5: Interviews - Schedule in-person or virtual interviews with the Hiring Manager, Team Lead, and CEO to assess cultural fit and technical expertise",
+          "Weeks 6-7: Reference Checks - Conduct thorough reference checks with previous employers to verify candidate's work experience and performance",
+          "Week 8: Offer and Onboarding - Extend a job offer and initiate onboarding process with the new hire"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Recruiter)",
+          "Team Lead",
+          "CEO",
+          "Hiring Manager & Team Lead",
+          "HR"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [],
+        "screening_guide": [],
+        "evaluation_rubric": [],
+        "scorecard": [],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Business Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T18:13:26.459686"
+}

@@ -1,0 +1,156 @@
+{
+  "session_id": "b9e94f1b",
+  "last_input": "help me hire A Generative AI Intern",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "A Generative Ai Intern",
+        "summary": "Join our cutting-edge startup as we revolutionize the world of AI! As a mid-level intern on our generative AI team, you'll have the opportunity to drive impactful projects from concept to launch. You'll work closely with our cross-functional teams to develop and deploy innovative solutions that push the boundaries of what's possible.",
+        "responsibilities": [
+          "Design and implement novel generative models to solve real-world problems",
+          "Collaborate with data scientists, engineers, and product managers to integrate AI capabilities into our products",
+          "Develop and maintain high-quality code, ensuring scalability and efficiency",
+          "Contribute to research and development of new AI techniques and technologies",
+          "Work closely with the team to identify areas for improvement and develop strategies for growth",
+          "Design and deliver high-impact projects that drive business results",
+          "Stay up-to-date on industry trends and advancements in AI, sharing knowledge and insights with the team"
+        ],
+        "requirements": [
+          "Bachelor's or Master's degree in Computer Science, Data Science, or related field",
+          "2+ years of experience in AI development, research, or a related field",
+          "Strong programming skills in Python, TensorFlow, PyTorch, or other relevant frameworks",
+          "Experience with large-scale data processing and machine learning algorithms",
+          "Excellent communication and collaboration skills, with ability to work effectively in a remote team",
+          "Familiarity with cloud-based technologies such as AWS, Google Cloud, or Azure",
+          "Strong problem-solving and analytical skills, with ability to think creatively",
+          "Experience with Agile development methodologies and version control systems"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1-2: Sourcing - Utilize social media, online communities, and professional networks to attract top talent.",
+        "Week 2-3: Async Video Screening - Use platforms like Loom or Google Meet for initial video interviews to assess communication skills and personality fit.",
+        "Week 3-4: Skills Assessments - Develop a technical challenge or coding exercise to evaluate the candidate's problem-solving abilities and AI knowledge.",
+        "Week 4-5: Interviews - Conduct in-person or virtual interviews with the Hiring Manager, Team Lead, and other relevant stakeholders.",
+        "Week 5-6: Reference Checks - Verify the candidate's previous work experience and skills through reference calls or online background checks.",
+        "Week 6-7: Offer Extension - Extend an offer to the top candidate(s) after finalizing all steps.",
+        "Week 8: Onboarding - Coordinate with the new hire, IT, and other teams to ensure a smooth transition into the company."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative",
+        "Team Lead (Technical)",
+        "CEO (Final Interviewer)",
+        "Hiring Manager",
+        "Hiring Manager & HR",
+        "HR Representative"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **A Generative Ai Intern**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### A Generative Ai Intern\n**Summary**: Join our cutting-edge startup as we revolutionize the world of AI! As a mid-level intern on our generative AI team, you'll have the opportunity to drive impactful projects from concept to launch. You'll work closely with our cross-functional teams to develop and deploy innovative solutions that push the boundaries of what's possible.\n**Key Responsibilities:**\n- Design and implement novel generative models to solve real-world problems\n- Collaborate with data scientists, engineers, and product managers to integrate AI capabilities into our products\n- Develop and maintain high-quality code, ensuring scalability and efficiency\n- Contribute to research and development of new AI techniques and technologies\n- Work closely with the team to identify areas for improvement and develop strategies for growth\n- Design and deliver high-impact projects that drive business results\n- Stay up-to-date on industry trends and advancements in AI, sharing knowledge and insights with the team\n**Requirements:**\n- Bachelor's or Master's degree in Computer Science, Data Science, or related field\n- 2+ years of experience in AI development, research, or a related field\n- Strong programming skills in Python, TensorFlow, PyTorch, or other relevant frameworks\n- Experience with large-scale data processing and machine learning algorithms\n- Excellent communication and collaboration skills, with ability to work effectively in a remote team\n- Familiarity with cloud-based technologies such as AWS, Google Cloud, or Azure\n- Strong problem-solving and analytical skills, with ability to think creatively\n- Experience with Agile development methodologies and version control systems\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1-2: Sourcing - Utilize social media, online communities, and professional networks to attract top talent.  \n   *Owner: Hiring Manager*\n2. Week 2-3: Async Video Screening - Use platforms like Loom or Google Meet for initial video interviews to assess communication skills and personality fit.  \n   *Owner: HR Representative*\n3. Week 3-4: Skills Assessments - Develop a technical challenge or coding exercise to evaluate the candidate's problem-solving abilities and AI knowledge.  \n   *Owner: Team Lead (Technical)*\n4. Week 4-5: Interviews - Conduct in-person or virtual interviews with the Hiring Manager, Team Lead, and other relevant stakeholders.  \n   *Owner: CEO (Final Interviewer)*\n5. Week 5-6: Reference Checks - Verify the candidate's previous work experience and skills through reference calls or online background checks.  \n   *Owner: Hiring Manager*\n6. Week 6-7: Offer Extension - Extend an offer to the top candidate(s) after finalizing all steps.  \n   *Owner: Hiring Manager & HR*\n7. Week 8: Onboarding - Coordinate with the new hire, IT, and other teams to ensure a smooth transition into the company.  \n   *Owner: HR Representative*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "A Generative Ai Intern"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "A Generative Ai Intern",
+          "summary": "Join our cutting-edge startup as we revolutionize the world of AI! As a mid-level intern on our generative AI team, you'll have the opportunity to drive impactful projects from concept to launch. You'll work closely with our cross-functional teams to develop and deploy innovative solutions that push the boundaries of what's possible.",
+          "responsibilities": [
+            "Design and implement novel generative models to solve real-world problems",
+            "Collaborate with data scientists, engineers, and product managers to integrate AI capabilities into our products",
+            "Develop and maintain high-quality code, ensuring scalability and efficiency",
+            "Contribute to research and development of new AI techniques and technologies",
+            "Work closely with the team to identify areas for improvement and develop strategies for growth",
+            "Design and deliver high-impact projects that drive business results",
+            "Stay up-to-date on industry trends and advancements in AI, sharing knowledge and insights with the team"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Computer Science, Data Science, or related field",
+            "2+ years of experience in AI development, research, or a related field",
+            "Strong programming skills in Python, TensorFlow, PyTorch, or other relevant frameworks",
+            "Experience with large-scale data processing and machine learning algorithms",
+            "Excellent communication and collaboration skills, with ability to work effectively in a remote team",
+            "Familiarity with cloud-based technologies such as AWS, Google Cloud, or Azure",
+            "Strong problem-solving and analytical skills, with ability to think creatively",
+            "Experience with Agile development methodologies and version control systems"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1-2: Sourcing - Utilize social media, online communities, and professional networks to attract top talent.",
+          "Week 2-3: Async Video Screening - Use platforms like Loom or Google Meet for initial video interviews to assess communication skills and personality fit.",
+          "Week 3-4: Skills Assessments - Develop a technical challenge or coding exercise to evaluate the candidate's problem-solving abilities and AI knowledge.",
+          "Week 4-5: Interviews - Conduct in-person or virtual interviews with the Hiring Manager, Team Lead, and other relevant stakeholders.",
+          "Week 5-6: Reference Checks - Verify the candidate's previous work experience and skills through reference calls or online background checks.",
+          "Week 6-7: Offer Extension - Extend an offer to the top candidate(s) after finalizing all steps.",
+          "Week 8: Onboarding - Coordinate with the new hire, IT, and other teams to ensure a smooth transition into the company."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative",
+          "Team Lead (Technical)",
+          "CEO (Final Interviewer)",
+          "Hiring Manager",
+          "Hiring Manager & HR",
+          "HR Representative"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T21:13:52.878843"
+}

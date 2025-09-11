@@ -1,0 +1,135 @@
+{
+  "session_id": "dd79131c",
+  "last_input": "help me hire gen ai intern",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Gen Ai Engineer Intern",
+        "summary": "Join our team of innovators and shape the future of AI! As a Gen Ai Engineer Intern, you'll work on cutting-edge projects that impact real-world problems, leveraging the latest advancements in Rag, LLM, and PyTorch. If you're passionate about driving growth and pushing boundaries, we want to hear from you!",
+        "responsibilities": [
+          "Develop and implement novel AI models using Rag and LLM frameworks",
+          "Collaborate with our cross-functional team to integrate AI solutions into product offerings",
+          "Design and execute experiments to improve model performance and accuracy",
+          "Contribute to the development of PyTorch-based AI pipelines for efficient deployment",
+          "Work closely with our data science team to validate and refine AI models",
+          "Stay up-to-date on industry trends and advancements in AI research",
+          "Document and maintain project knowledge through written reports and internal documentation"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Bachelor's degree in Computer Science, Mathematics, or related field (or equivalent experience)",
+          "Strong foundation in machine learning, deep learning, and neural networks",
+          "Proficiency in PyTorch and experience with Rag and LLM frameworks a plus",
+          "Familiarity with containerization using Docker and/or Kubernetes",
+          "Experience with version control systems like Git",
+          "Excellent problem-solving skills and ability to work independently",
+          "Strong communication and collaboration skills for cross-functional team interactions"
+        ],
+        "compensation_note": "30k-50k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize social media, online platforms, and professional networks to find top Gen AI Engineer Intern candidates",
+        "Week 1-2: Screening - Conduct asynchronous video screening using a platform like HireVue to assess candidate fit and skills",
+        "Week 2: Skills Assessment - Send relevant coding challenges or tasks to shortlisted candidates to evaluate technical abilities",
+        "Week 3: Interviews - Schedule in-person or virtual interviews with the hiring manager, team lead, and CEO to discuss project experience and cultural fit",
+        "Week 4: Reference Checks & Offer Extension - Conduct reference checks and extend an offer to the selected candidate",
+        "Week 4: Onboarding Preparation - Prepare for onboarding process, including setting up necessary tools and equipment"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Team",
+        "Team Lead",
+        "CEO",
+        "Hiring Manager & CEO",
+        "HR Team"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nWe are seeking a top Gen AI Engineer Intern to join our team of innovators and shape the future of AI. This comprehensive hiring plan outlines the steps to find, assess, and select the ideal candidate for this critical role.\n\n## Job Descriptions\n\n### Gen Ai Engineer Intern\n**Summary:** Join our team of innovators and shape the future of AI! As a Gen Ai Engineer Intern, you'll work on cutting-edge projects that impact real-world problems, leveraging the latest advancements in Rag, LLM, and PyTorch. If you're passionate about driving growth and pushing boundaries, we want to hear from you!\n\n**Key Responsibilities:**\n- Work on cutting-edge AI projects\n- Leverage latest advancements in Rag, LLM, and PyTorch\n- Drive growth and push boundaries\n\n**Requirements:**\n- Passion for AI and innovation\n- Strong technical skills in Rag, LLM, and PyTorch\n- Ability to work collaboratively with the team\n\n**Compensation:** Competitive internship compensation package.\n\n## Hiring Process Plan\n\n**Timeline:** 4 weeks\n\n**Process Steps:**\n\n1. **Week 1: Sourcing** - *Owner: Hiring Manager & HR Team* \n Utilize social media, online platforms, and professional networks to find top Gen AI Engineer Intern candidates.\n2. **Week 1-2: Screening** - *Owner: Hiring Manager & Team Lead*\n Conduct asynchronous video screening using a platform like HireVue to assess candidate fit and skills.\n3. **Week 2: Skills Assessment** - *Owner: HR Team*\n Send relevant coding challenges or tasks to shortlisted candidates to evaluate technical abilities.\n4. **Week 3: Interviews** - *Owner: Hiring Manager, Team Lead, & CEO*\n Schedule in-person or virtual interviews with the hiring manager, team lead, and CEO to discuss project experience and cultural fit.\n5. **Week 4: Reference Checks & Offer Extension** - *Owner: HR Team & Hiring Manager*\n Conduct reference checks and extend an offer to the selected candidate.\n6. **Week 4: Onboarding Preparation** - *Owner: HR Team*\n Prepare for onboarding process, including setting up necessary tools and equipment.\n\n## Next Steps\nPlease review the hiring plan and ensure all stakeholders are aware of their roles and responsibilities. Begin sourcing candidates in Week 1, and schedule screening interviews accordingly. Once shortlisted candidates have been selected, proceed with skills assessment, interviews, reference checks, and offer extension as outlined in the process steps. Prepare for onboarding in advance to ensure a seamless transition for the new hire.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "intern",
+        "location": "remote",
+        "key_skills": [
+          "rag",
+          "llm",
+          "pytorch"
+        ],
+        "roles": [
+          "Gen Ai Engineer Intern"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Gen Ai Engineer Intern",
+          "summary": "Join our team of innovators and shape the future of AI! As a Gen Ai Engineer Intern, you'll work on cutting-edge projects that impact real-world problems, leveraging the latest advancements in Rag, LLM, and PyTorch. If you're passionate about driving growth and pushing boundaries, we want to hear from you!",
+          "responsibilities": [
+            "Develop and implement novel AI models using Rag and LLM frameworks",
+            "Collaborate with our cross-functional team to integrate AI solutions into product offerings",
+            "Design and execute experiments to improve model performance and accuracy",
+            "Contribute to the development of PyTorch-based AI pipelines for efficient deployment",
+            "Work closely with our data science team to validate and refine AI models",
+            "Stay up-to-date on industry trends and advancements in AI research",
+            "Document and maintain project knowledge through written reports and internal documentation"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "Bachelor's degree in Computer Science, Mathematics, or related field (or equivalent experience)",
+            "Strong foundation in machine learning, deep learning, and neural networks",
+            "Proficiency in PyTorch and experience with Rag and LLM frameworks a plus",
+            "Familiarity with containerization using Docker and/or Kubernetes",
+            "Experience with version control systems like Git",
+            "Excellent problem-solving skills and ability to work independently",
+            "Strong communication and collaboration skills for cross-functional team interactions"
+          ],
+          "compensation_note": "30k-50k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize social media, online platforms, and professional networks to find top Gen AI Engineer Intern candidates",
+          "Week 1-2: Screening - Conduct asynchronous video screening using a platform like HireVue to assess candidate fit and skills",
+          "Week 2: Skills Assessment - Send relevant coding challenges or tasks to shortlisted candidates to evaluate technical abilities",
+          "Week 3: Interviews - Schedule in-person or virtual interviews with the hiring manager, team lead, and CEO to discuss project experience and cultural fit",
+          "Week 4: Reference Checks & Offer Extension - Conduct reference checks and extend an offer to the selected candidate",
+          "Week 4: Onboarding Preparation - Prepare for onboarding process, including setting up necessary tools and equipment"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Team",
+          "Team Lead",
+          "CEO",
+          "Hiring Manager & CEO",
+          "HR Team"
+        ],
+        "timeline_weeks": 4
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 4,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "intern",
+    "location": "remote",
+    "key_skills": [
+      "rag",
+      "llm",
+      "pytorch"
+    ],
+    "roles": [
+      "Gen Ai Engineer Intern"
+    ]
+  },
+  "timestamp": "2025-09-10T16:27:46.744512"
+}

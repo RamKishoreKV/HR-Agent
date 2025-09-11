@@ -1,0 +1,16 @@
+{
+  "session_id": "754de888",
+  "last_input": "hey how are u",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "Hello! I'm doing great, thanks for reaching out. How can I assist you today? Would you like to help hire a specific role or discuss your overall hiring needs?",
+    "raw_json": {
+      "message": "Hello! I'm doing great, thanks for reaching out. How can I assist you today? Would you like to help hire a specific role or discuss your overall hiring needs?",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T16:25:55.489722"
+}

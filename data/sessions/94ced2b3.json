@@ -1,0 +1,165 @@
+{
+  "session_id": "94ced2b3",
+  "last_input": "help me hire Full Stack Developer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Full Stack Developer",
+        "summary": "Join our high-growth startup as a Full Stack Developer and help shape the future of our product. You'll collaborate with our talented team to design, develop, and deploy scalable software solutions that drive real impact. If you're a growth-minded developer who thrives in fast-paced environments, we want to hear from you!",
+        "responsibilities": [
+          "Design and implement robust, scalable backend systems using our tech stack (Node.js, Express, MongoDB)",
+          "Develop high-quality front-end code with a focus on user experience and performance",
+          "Collaborate with cross-functional teams to identify opportunities for improvement and drive innovation",
+          "Contribute to the development of technical documentation and knowledge sharing within the team",
+          "Participate in code reviews and provide constructive feedback to ensure high standards are met",
+          "Troubleshoot and resolve production issues in a timely manner, minimizing downtime and impact on users",
+          "Stay up-to-date with industry trends and emerging technologies, applying this knowledge to drive growth and improvement",
+          "Help shape the technical direction of our product and contribute to roadmap planning"
+        ],
+        "requirements": [
+          "3+ years of experience as a Full Stack Developer in a similar tech stack",
+          "Strong proficiency in JavaScript (ES6+) and Node.js",
+          "Experience with MongoDB and relational databases (e.g. MySQL)",
+          "Familiarity with front-end frameworks (e.g. React, Angular) and libraries (e.g. Redux, Vue)",
+          "Understanding of cloud platforms (e.g. AWS, Google Cloud) and containerization (e.g. Docker)",
+          "Excellent problem-solving skills, with the ability to debug complex issues",
+          "Strong communication and collaboration skills, with experience working in agile teams",
+          "Bachelors or Master's degree in Computer Science or related field"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize social media, online communities, and job boards to reach potential candidates",
+        "Week 2-3: Async Video Screening - Conduct initial video interviews with top applicants to assess fit and skills",
+        "Week 4: Skills Assessment - Send coding challenges or technical tests to evaluate developer's abilities",
+        "Week 5: In-Person Interviews (Team Lead, Hiring Manager) - Meet candidates in person to discuss projects and team dynamics",
+        "Week 6-7: Reference Checks (HR) - Verify candidate's previous work experience and check references",
+        "Week 8: Offer and Onboarding (Hiring Manager, HR, CEO) - Extend offer, negotiate terms, and onboard new hire"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "Hiring Manager, Team Lead",
+        "Team Lead",
+        "Hiring Manager, Team Lead",
+        "HR",
+        "CEO, Hiring Manager, HR"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Full Stack Developer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Full Stack Developer\n**Summary**: Join our high-growth startup as a Full Stack Developer and help shape the future of our product. You'll collaborate with our talented team to design, develop, and deploy scalable software solutions that drive real impact. If you're a growth-minded developer who thrives in fast-paced environments, we want to hear from you!\n**Key Responsibilities:**\n- Design and implement robust, scalable backend systems using our tech stack (Node.js, Express, MongoDB)\n- Develop high-quality front-end code with a focus on user experience and performance\n- Collaborate with cross-functional teams to identify opportunities for improvement and drive innovation\n- Contribute to the development of technical documentation and knowledge sharing within the team\n- Participate in code reviews and provide constructive feedback to ensure high standards are met\n- Troubleshoot and resolve production issues in a timely manner, minimizing downtime and impact on users\n- Stay up-to-date with industry trends and emerging technologies, applying this knowledge to drive growth and improvement\n- Help shape the technical direction of our product and contribute to roadmap planning\n**Requirements:**\n- 3+ years of experience as a Full Stack Developer in a similar tech stack\n- Strong proficiency in JavaScript (ES6+) and Node.js\n- Experience with MongoDB and relational databases (e.g. MySQL)\n- Familiarity with front-end frameworks (e.g. React, Angular) and libraries (e.g. Redux, Vue)\n- Understanding of cloud platforms (e.g. AWS, Google Cloud) and containerization (e.g. Docker)\n- Excellent problem-solving skills, with the ability to debug complex issues\n- Strong communication and collaboration skills, with experience working in agile teams\n- Bachelors or Master's degree in Computer Science or related field\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize social media, online communities, and job boards to reach potential candidates  \n   *Owner: Hiring Manager*\n2. Week 2-3: Async Video Screening - Conduct initial video interviews with top applicants to assess fit and skills  \n   *Owner: Hiring Manager, Team Lead*\n3. Week 4: Skills Assessment - Send coding challenges or technical tests to evaluate developer's abilities  \n   *Owner: Team Lead*\n4. Week 5: In-Person Interviews (Team Lead, Hiring Manager) - Meet candidates in person to discuss projects and team dynamics  \n   *Owner: Hiring Manager, Team Lead*\n5. Week 6-7: Reference Checks (HR) - Verify candidate's previous work experience and check references  \n   *Owner: HR*\n6. Week 8: Offer and Onboarding (Hiring Manager, HR, CEO) - Extend offer, negotiate terms, and onboard new hire  \n   *Owner: CEO, Hiring Manager, HR*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Full Stack Developer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Full Stack Developer",
+          "summary": "Join our high-growth startup as a Full Stack Developer and help shape the future of our product. You'll collaborate with our talented team to design, develop, and deploy scalable software solutions that drive real impact. If you're a growth-minded developer who thrives in fast-paced environments, we want to hear from you!",
+          "responsibilities": [
+            "Design and implement robust, scalable backend systems using our tech stack (Node.js, Express, MongoDB)",
+            "Develop high-quality front-end code with a focus on user experience and performance",
+            "Collaborate with cross-functional teams to identify opportunities for improvement and drive innovation",
+            "Contribute to the development of technical documentation and knowledge sharing within the team",
+            "Participate in code reviews and provide constructive feedback to ensure high standards are met",
+            "Troubleshoot and resolve production issues in a timely manner, minimizing downtime and impact on users",
+            "Stay up-to-date with industry trends and emerging technologies, applying this knowledge to drive growth and improvement",
+            "Help shape the technical direction of our product and contribute to roadmap planning"
+          ],
+          "requirements": [
+            "3+ years of experience as a Full Stack Developer in a similar tech stack",
+            "Strong proficiency in JavaScript (ES6+) and Node.js",
+            "Experience with MongoDB and relational databases (e.g. MySQL)",
+            "Familiarity with front-end frameworks (e.g. React, Angular) and libraries (e.g. Redux, Vue)",
+            "Understanding of cloud platforms (e.g. AWS, Google Cloud) and containerization (e.g. Docker)",
+            "Excellent problem-solving skills, with the ability to debug complex issues",
+            "Strong communication and collaboration skills, with experience working in agile teams",
+            "Bachelors or Master's degree in Computer Science or related field"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize social media, online communities, and job boards to reach potential candidates",
+          "Week 2-3: Async Video Screening - Conduct initial video interviews with top applicants to assess fit and skills",
+          "Week 4: Skills Assessment - Send coding challenges or technical tests to evaluate developer's abilities",
+          "Week 5: In-Person Interviews (Team Lead, Hiring Manager) - Meet candidates in person to discuss projects and team dynamics",
+          "Week 6-7: Reference Checks (HR) - Verify candidate's previous work experience and check references",
+          "Week 8: Offer and Onboarding (Hiring Manager, HR, CEO) - Extend offer, negotiate terms, and onboard new hire"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "Hiring Manager, Team Lead",
+          "Team Lead",
+          "Hiring Manager, Team Lead",
+          "HR",
+          "CEO, Hiring Manager, HR"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Full Stack Developer"
+    ]
+  },
+  "timestamp": "2025-09-10T20:12:21.320598"
+}

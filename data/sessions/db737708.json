@@ -1,0 +1,169 @@
+{
+  "session_id": "db737708",
+  "last_input": "hire a data engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our high-growth startup as a mid-level Data Engineer to shape the future of data-driven decision-making. You'll work on building scalable, reliable, and efficient data pipelines that drive business outcomes. If you're passionate about data, love solving complex problems, and thrive in a fast-paced environment, we want to hear from you!",
+        "responsibilities": [
+          "Design and implement large-scale ETL pipelines using Python, SQL, and Airflow",
+          "Collaborate with cross-functional teams to develop data-driven solutions that drive business growth",
+          "Develop and maintain high-performance Spark applications on AWS, leveraging Docker for containerization",
+          "Contribute to the development of a cloud-agnostic data warehousing strategy using AWS services",
+          "Troubleshoot complex data issues and provide expert-level support to internal stakeholders",
+          "Participate in code reviews, ensuring high-quality and maintainable code that adheres to industry standards",
+          "Stay up-to-date with emerging technologies and trends in data engineering, identifying opportunities for innovation and improvement"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Engineer or related role",
+          "Mastery of Python (with experience using popular libraries like Pandas, NumPy, and Scikit-learn)",
+          "Strong understanding of SQL and ability to optimize database queries for performance",
+          "Experience with ETL tools such as Airflow, Apache Beam, or AWS Glue",
+          "Familiarity with Spark and ability to develop high-performance applications using RDDs and DataFrames",
+          "Knowledge of AWS services (S3, Redshift, EMR) and containerization using Docker",
+          "Excellent problem-solving skills and ability to work in a fast-paced environment"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1-2: Sourcing - Utilize social media, LinkedIn, and industry-specific platforms to source top Data Engineer candidates.",
+        "Week 3: Async Video Screening - Conduct initial screenings via video calls to assess communication skills and culture fit (Hiring Manager & Team Lead).",
+        "Week 4: Skills Assessment - Send relevant coding challenges or assessments to selected candidates to evaluate technical skills (Team Lead).",
+        "Week 5-6: Interviews - Conduct in-person interviews with top performers from the previous step, focusing on behavioral questions and team fit (Hiring Manager & Team Lead).",
+        "Week 7: Reference Checks - Verify candidate references to ensure a smooth transition into the role (HR).",
+        "Week 8: Offer & Onboarding - Extend offer, negotiate terms, and finalize onboarding process (CEO & HR)."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "Team Lead",
+        "Team Lead",
+        "Hiring Manager & Team Lead",
+        "HR",
+        "CEO & HR"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Engineer\n**Summary**: Join our high-growth startup as a mid-level Data Engineer to shape the future of data-driven decision-making. You'll work on building scalable, reliable, and efficient data pipelines that drive business outcomes. If you're passionate about data, love solving complex problems, and thrive in a fast-paced environment, we want to hear from you!\n**Key Responsibilities:**\n- Design and implement large-scale ETL pipelines using Python, SQL, and Airflow\n- Collaborate with cross-functional teams to develop data-driven solutions that drive business growth\n- Develop and maintain high-performance Spark applications on AWS, leveraging Docker for containerization\n- Contribute to the development of a cloud-agnostic data warehousing strategy using AWS services\n- Troubleshoot complex data issues and provide expert-level support to internal stakeholders\n- Participate in code reviews, ensuring high-quality and maintainable code that adheres to industry standards\n- Stay up-to-date with emerging technologies and trends in data engineering, identifying opportunities for innovation and improvement\n**Requirements:**\n- 3+ years of experience as a Data Engineer or related role\n- Mastery of Python (with experience using popular libraries like Pandas, NumPy, and Scikit-learn)\n- Strong understanding of SQL and ability to optimize database queries for performance\n- Experience with ETL tools such as Airflow, Apache Beam, or AWS Glue\n- Familiarity with Spark and ability to develop high-performance applications using RDDs and DataFrames\n- Knowledge of AWS services (S3, Redshift, EMR) and containerization using Docker\n- Excellent problem-solving skills and ability to work in a fast-paced environment\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Python, SQL, ETL? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1-2: Sourcing - Utilize social media, LinkedIn, and industry-specific platforms to source top Data Engineer candidates.  \n   *Owner: Hiring Manager*\n2. Week 3: Async Video Screening - Conduct initial screenings via video calls to assess communication skills and culture fit (Hiring Manager & Team Lead).  \n   *Owner: Team Lead*\n3. Week 4: Skills Assessment - Send relevant coding challenges or assessments to selected candidates to evaluate technical skills (Team Lead).  \n   *Owner: Team Lead*\n4. Week 5-6: Interviews - Conduct in-person interviews with top performers from the previous step, focusing on behavioral questions and team fit (Hiring Manager & Team Lead).  \n   *Owner: Hiring Manager & Team Lead*\n5. Week 7: Reference Checks - Verify candidate references to ensure a smooth transition into the role (HR).  \n   *Owner: HR*\n6. Week 8: Offer & Onboarding - Extend offer, negotiate terms, and finalize onboarding process (CEO & HR).  \n   *Owner: CEO & HR*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Python, SQL, ETL? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Python",
+          "SQL",
+          "ETL",
+          "Airflow",
+          "Spark",
+          "AWS",
+          "Docker"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our high-growth startup as a mid-level Data Engineer to shape the future of data-driven decision-making. You'll work on building scalable, reliable, and efficient data pipelines that drive business outcomes. If you're passionate about data, love solving complex problems, and thrive in a fast-paced environment, we want to hear from you!",
+          "responsibilities": [
+            "Design and implement large-scale ETL pipelines using Python, SQL, and Airflow",
+            "Collaborate with cross-functional teams to develop data-driven solutions that drive business growth",
+            "Develop and maintain high-performance Spark applications on AWS, leveraging Docker for containerization",
+            "Contribute to the development of a cloud-agnostic data warehousing strategy using AWS services",
+            "Troubleshoot complex data issues and provide expert-level support to internal stakeholders",
+            "Participate in code reviews, ensuring high-quality and maintainable code that adheres to industry standards",
+            "Stay up-to-date with emerging technologies and trends in data engineering, identifying opportunities for innovation and improvement"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Engineer or related role",
+            "Mastery of Python (with experience using popular libraries like Pandas, NumPy, and Scikit-learn)",
+            "Strong understanding of SQL and ability to optimize database queries for performance",
+            "Experience with ETL tools such as Airflow, Apache Beam, or AWS Glue",
+            "Familiarity with Spark and ability to develop high-performance applications using RDDs and DataFrames",
+            "Knowledge of AWS services (S3, Redshift, EMR) and containerization using Docker",
+            "Excellent problem-solving skills and ability to work in a fast-paced environment"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1-2: Sourcing - Utilize social media, LinkedIn, and industry-specific platforms to source top Data Engineer candidates.",
+          "Week 3: Async Video Screening - Conduct initial screenings via video calls to assess communication skills and culture fit (Hiring Manager & Team Lead).",
+          "Week 4: Skills Assessment - Send relevant coding challenges or assessments to selected candidates to evaluate technical skills (Team Lead).",
+          "Week 5-6: Interviews - Conduct in-person interviews with top performers from the previous step, focusing on behavioral questions and team fit (Hiring Manager & Team Lead).",
+          "Week 7: Reference Checks - Verify candidate references to ensure a smooth transition into the role (HR).",
+          "Week 8: Offer & Onboarding - Extend offer, negotiate terms, and finalize onboarding process (CEO & HR)."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "Team Lead",
+          "Team Lead",
+          "Hiring Manager & Team Lead",
+          "HR",
+          "CEO & HR"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Python, SQL, ETL? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Python. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T19:19:16.758597"
+}

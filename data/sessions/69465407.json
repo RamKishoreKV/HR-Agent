@@ -1,0 +1,83 @@
+{
+  "session_id": "69465407",
+  "last_input": "help me hire a gen ai intern\\",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": {
+      "steps": [
+        "Post job descriptions on key job boards",
+        "Source candidates through LinkedIn and referrals",
+        "Conduct initial phone screenings",
+        "Technical assessment and skills evaluation",
+        "Team interviews and culture fit assessment",
+        "Reference checks and background verification",
+        "Finalize offer and begin onboarding"
+      ],
+      "owners": [
+        "HR Team",
+        "Recruiting Team",
+        "HR Team",
+        "Hiring Manager",
+        "Team Lead",
+        "HR Team",
+        "HR Team"
+      ],
+      "timeline_weeks": 3
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n**Roles:** No roles\n\n**Timeline:** 3 weeks",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 3,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Gen Ai Engineer Intern"
+        ],
+        "min_experience": 1,
+        "min_qualifications": []
+      },
+      "job_descriptions": [],
+      "hiring_plan": {
+        "steps": [
+          "Post job descriptions on key job boards",
+          "Source candidates through LinkedIn and referrals",
+          "Conduct initial phone screenings",
+          "Technical assessment and skills evaluation",
+          "Team interviews and culture fit assessment",
+          "Reference checks and background verification",
+          "Finalize offer and begin onboarding"
+        ],
+        "owners": [
+          "HR Team",
+          "Recruiting Team",
+          "HR Team",
+          "Hiring Manager",
+          "Team Lead",
+          "HR Team",
+          "HR Team"
+        ],
+        "timeline_weeks": 3
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 3,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [],
+    "min_experience": 1,
+    "min_qualifications": []
+  },
+  "timestamp": "2025-09-10T16:50:51.586489"
+}

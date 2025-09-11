@@ -1,0 +1,169 @@
+{
+  "session_id": "02d5d0c1",
+  "last_input": "help me hire ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "I Engineer",
+        "summary": "Join our high-growth startup as an I Engineer, driving innovation and impact in a fast-paced environment. As a key member of our engineering team, you'll design and develop cutting-edge infrastructure solutions that scale with our business. If you're passionate about technology and eager to make a meaningful contribution, we want to hear from you.",
+        "responsibilities": [
+          "Design and implement scalable infrastructure solutions on Google Cloud Platform (GCP) to support rapid growth",
+          "Collaborate with cross-functional teams to identify and prioritize technical requirements for new features and products",
+          "Develop and maintain high-quality code, adhering to industry best practices and standards",
+          "Troubleshoot complex infrastructure issues and provide expert-level guidance to internal stakeholders",
+          "Contribute to the development of our cloud architecture roadmap, driving innovation and improvement",
+          "Provide technical expertise and mentorship to junior engineers, promoting knowledge sharing and growth",
+          "Stay up-to-date with industry trends and advancements in cloud computing, applying new skills and knowledge to enhance our infrastructure"
+        ],
+        "requirements": [
+          "3+ years of experience designing and implementing scalable infrastructure solutions on GCP or similar cloud platforms",
+          "Proficiency in languages such as Python, Java, or C++ and expertise in containerization (e.g., Docker)",
+          "Strong understanding of cloud security, compliance, and regulatory requirements (e.g., GDPR, HIPAA)",
+          "Experience with automation tools like Terraform, Ansible, or CloudFormation",
+          "Excellent problem-solving skills, with the ability to analyze complex technical issues and provide clear solutions",
+          "Strong communication and collaboration skills, with a proven track record of working effectively with cross-functional teams",
+          "gcp as well for cloud technology"
+        ],
+        "compensation_note": "$60k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Define role requirements and job description",
+        "Source candidates through social media, employee referrals, and job boards",
+        "Screen resumes using applicant tracking system (ATS) and initial phone screening",
+        "Async video screening to assess communication skills and personality fit",
+        "Skills assessment using online tools such as HackerRank or CodeWars for I Engineers",
+        "On-site interview with team lead and CEO to assess technical skills and cultural fit",
+        "Reference checks with previous employers or mentors",
+        "Offer extension with negotiation of salary and benefits"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative",
+        "Hiring Manager",
+        "Team Lead",
+        "CEO",
+        "Team Lead & CEO",
+        "Hiring Manager & HR",
+        "CEO"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **I Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### I Engineer\n**Summary**: Join our high-growth startup as an I Engineer, driving innovation and impact in a fast-paced environment. As a key member of our engineering team, you'll design and develop cutting-edge infrastructure solutions that scale with our business. If you're passionate about technology and eager to make a meaningful contribution, we want to hear from you.\n**Key Responsibilities:**\n- Design and implement scalable infrastructure solutions on Google Cloud Platform (GCP) to support rapid growth\n- Collaborate with cross-functional teams to identify and prioritize technical requirements for new features and products\n- Develop and maintain high-quality code, adhering to industry best practices and standards\n- Troubleshoot complex infrastructure issues and provide expert-level guidance to internal stakeholders\n- Contribute to the development of our cloud architecture roadmap, driving innovation and improvement\n- Provide technical expertise and mentorship to junior engineers, promoting knowledge sharing and growth\n- Stay up-to-date with industry trends and advancements in cloud computing, applying new skills and knowledge to enhance our infrastructure\n**Requirements:**\n- 3+ years of experience designing and implementing scalable infrastructure solutions on GCP or similar cloud platforms\n- Proficiency in languages such as Python, Java, or C++ and expertise in containerization (e.g., Docker)\n- Strong understanding of cloud security, compliance, and regulatory requirements (e.g., GDPR, HIPAA)\n- Experience with automation tools like Terraform, Ansible, or CloudFormation\n- Excellent problem-solving skills, with the ability to analyze complex technical issues and provide clear solutions\n- Strong communication and collaboration skills, with a proven track record of working effectively with cross-functional teams\n**Compensation:** $60k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Define role requirements and job description  \n   *Owner: Hiring Manager*\n2. Source candidates through social media, employee referrals, and job boards  \n   *Owner: HR Representative*\n3. Screen resumes using applicant tracking system (ATS) and initial phone screening  \n   *Owner: Hiring Manager*\n4. Async video screening to assess communication skills and personality fit  \n   *Owner: Team Lead*\n5. Skills assessment using online tools such as HackerRank or CodeWars for I Engineers  \n   *Owner: CEO*\n6. On-site interview with team lead and CEO to assess technical skills and cultural fit  \n   *Owner: Team Lead & CEO*\n7. Reference checks with previous employers or mentors  \n   *Owner: Hiring Manager & HR*\n8. Offer extension with negotiation of salary and benefits  \n   *Owner: CEO*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "$60k",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "I Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "I Engineer",
+          "summary": "Join our high-growth startup as an I Engineer, driving innovation and impact in a fast-paced environment. As a key member of our engineering team, you'll design and develop cutting-edge infrastructure solutions that scale with our business. If you're passionate about technology and eager to make a meaningful contribution, we want to hear from you.",
+          "responsibilities": [
+            "Design and implement scalable infrastructure solutions on Google Cloud Platform (GCP) to support rapid growth",
+            "Collaborate with cross-functional teams to identify and prioritize technical requirements for new features and products",
+            "Develop and maintain high-quality code, adhering to industry best practices and standards",
+            "Troubleshoot complex infrastructure issues and provide expert-level guidance to internal stakeholders",
+            "Contribute to the development of our cloud architecture roadmap, driving innovation and improvement",
+            "Provide technical expertise and mentorship to junior engineers, promoting knowledge sharing and growth",
+            "Stay up-to-date with industry trends and advancements in cloud computing, applying new skills and knowledge to enhance our infrastructure"
+          ],
+          "requirements": [
+            "3+ years of experience designing and implementing scalable infrastructure solutions on GCP or similar cloud platforms",
+            "Proficiency in languages such as Python, Java, or C++ and expertise in containerization (e.g., Docker)",
+            "Strong understanding of cloud security, compliance, and regulatory requirements (e.g., GDPR, HIPAA)",
+            "Experience with automation tools like Terraform, Ansible, or CloudFormation",
+            "Excellent problem-solving skills, with the ability to analyze complex technical issues and provide clear solutions",
+            "Strong communication and collaboration skills, with a proven track record of working effectively with cross-functional teams",
+            "gcp as well for cloud technology"
+          ],
+          "compensation_note": "$60k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Define role requirements and job description",
+          "Source candidates through social media, employee referrals, and job boards",
+          "Screen resumes using applicant tracking system (ATS) and initial phone screening",
+          "Async video screening to assess communication skills and personality fit",
+          "Skills assessment using online tools such as HackerRank or CodeWars for I Engineers",
+          "On-site interview with team lead and CEO to assess technical skills and cultural fit",
+          "Reference checks with previous employers or mentors",
+          "Offer extension with negotiation of salary and benefits"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative",
+          "Hiring Manager",
+          "Team Lead",
+          "CEO",
+          "Team Lead & CEO",
+          "Hiring Manager & HR",
+          "CEO"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "$60k",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "I Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T20:19:27.865457"
+}

@@ -1,0 +1,151 @@
+{
+  "session_id": "c041c3a3",
+  "last_input": "change experience to fresh grads and interns",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our fast-paced startup team as a junior Data Analyst and play a key role in driving business growth through data-driven insights. As a critical member of our analytics team, you'll have the opportunity to make a real impact on our product development and strategy. If you're passionate about using data to tell stories and drive decision-making, we'd love to hear from you!",
+        "responsibilities": [
+          "Develop and maintain complex data models to inform business decisions",
+          "Analyze large datasets to identify trends and areas for improvement",
+          "Collaborate with cross-functional teams to design and implement A/B testing experiments",
+          "Create data visualizations and reports to communicate insights to stakeholders",
+          "Stay up-to-date on industry trends and emerging technologies in data analysis",
+          "Help drive the development of our analytics capabilities through process improvements",
+          "Work closely with our product team to inform feature development",
+          "Identify and prioritize opportunities for data-driven growth"
+        ],
+        "requirements": [
+          "1 year of experience in a data analyst role (junior level)",
+          "Proficiency in SAS programming language",
+          "Experience working with large datasets and data visualization tools",
+          "Strong analytical and problem-solving skills",
+          "Excellent communication and collaboration skills",
+          "Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud)",
+          "Ability to work in a fast-paced environment with multiple priorities"
+        ],
+        "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize social media, LinkedIn, and employee referrals to find top Data Analyst candidates",
+        "Week 1: Screening - Implement asynchronous video screening using platforms like HireVue or Loxo to pre-filter applicants",
+        "Week 2: Skills Assessment - Conduct a skills test on platforms like HackerRank or Pluralsight to evaluate technical abilities",
+        "Week 3: Interviews (Hiring Manager & Team Lead) - Schedule in-person or virtual interviews to assess cultural fit and experience",
+        "Week 4: Reference Checks & Offer Extension - Verify professional references, extend offer, and finalize onboarding details"
+      ],
+      "owners": [
+        "CEO",
+        "HR",
+        "Team Lead (Data)",
+        "Hiring Manager",
+        "CEO"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst**. The target timeline is **4 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n#### Summary\nJoin our fast-paced startup team as a junior Data Analyst and play a key role in driving business growth through data-driven insights. As a critical member of our analytics team, you'll have the opportunity to make a real impact on our product development and strategy. If you're passionate about using data to tell stories and drive decision-making, we'd love to hear from you!\n#### Key Responsibilities\n- Develop and maintain complex data models to inform business decisions\n- Analyze large datasets to identify trends and areas for improvement\n- Collaborate with cross-functional teams to design and implement A/B testing experiments\n- Create data visualizations and reports to communicate insights to stakeholders\n- Stay up-to-date on industry trends and emerging technologies in data analysis\n- Help drive the development of our analytics capabilities through process improvements\n- Work closely with our product team to inform feature development\n- Identify and prioritize opportunities for data-driven growth\n#### Requirements\n- 2+ years of experience in a data analyst role (junior level)\n- Proficiency in SAS programming language\n- Experience working with large datasets and data visualization tools\n- Strong analytical and problem-solving skills\n- Excellent communication and collaboration skills\n- Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud)\n- Ability to work in a fast-paced environment with multiple priorities\n- Bachelor's degree in Computer Science, Statistics, or related field\n**Compensation:** $120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 4 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize social media, LinkedIn, and employee referrals to find top Data Analyst candidates  \n   *Owner: CEO*\n2. Week 1: Screening - Implement asynchronous video screening using platforms like HireVue or Loxo to pre-filter applicants  \n   *Owner: HR*\n3. Week 2: Skills Assessment - Conduct a skills test on platforms like HackerRank or Pluralsight to evaluate technical abilities  \n   *Owner: Team Lead (Data)*\n4. Week 3: Interviews (Hiring Manager & Team Lead) - Schedule in-person or virtual interviews to assess cultural fit and experience  \n   *Owner: Hiring Manager*\n5. Week 4: Reference Checks & Offer Extension - Verify professional references, extend offer, and finalize onboarding details  \n   *Owner: CEO*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied data analysis, SAS programming? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using data analysis. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "$120k",
+        "seniority": "junior",
+        "employment_type": "intern",
+        "location": "remote",
+        "key_skills": [
+          "data analysis",
+          "SAS programming"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our fast-paced startup team as a junior Data Analyst and play a key role in driving business growth through data-driven insights. As a critical member of our analytics team, you'll have the opportunity to make a real impact on our product development and strategy. If you're passionate about using data to tell stories and drive decision-making, we'd love to hear from you!",
+          "responsibilities": [
+            "Develop and maintain complex data models to inform business decisions",
+            "Analyze large datasets to identify trends and areas for improvement",
+            "Collaborate with cross-functional teams to design and implement A/B testing experiments",
+            "Create data visualizations and reports to communicate insights to stakeholders",
+            "Stay up-to-date on industry trends and emerging technologies in data analysis",
+            "Help drive the development of our analytics capabilities through process improvements",
+            "Work closely with our product team to inform feature development",
+            "Identify and prioritize opportunities for data-driven growth"
+          ],
+          "requirements": [
+            "1 year of experience in a data analyst role (junior level)",
+            "Proficiency in SAS programming language",
+            "Experience working with large datasets and data visualization tools",
+            "Strong analytical and problem-solving skills",
+            "Excellent communication and collaboration skills",
+            "Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud)",
+            "Ability to work in a fast-paced environment with multiple priorities"
+          ],
+          "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize social media, LinkedIn, and employee referrals to find top Data Analyst candidates",
+          "Week 1: Screening - Implement asynchronous video screening using platforms like HireVue or Loxo to pre-filter applicants",
+          "Week 2: Skills Assessment - Conduct a skills test on platforms like HackerRank or Pluralsight to evaluate technical abilities",
+          "Week 3: Interviews (Hiring Manager & Team Lead) - Schedule in-person or virtual interviews to assess cultural fit and experience",
+          "Week 4: Reference Checks & Offer Extension - Verify professional references, extend offer, and finalize onboarding details"
+        ],
+        "owners": [
+          "CEO",
+          "HR",
+          "Team Lead (Data)",
+          "Hiring Manager",
+          "CEO"
+        ],
+        "timeline_weeks": 4
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied data analysis, SAS programming? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using data analysis. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-11T17:36:26.194250"
+}

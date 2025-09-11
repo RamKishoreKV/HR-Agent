@@ -1,0 +1,169 @@
+{
+  "session_id": "72a203e8",
+  "last_input": "HELP ME HIRE A GIS ANALYST",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Gis Analyst",
+        "summary": "Join our fast-paced startup as a GIS Analyst and help us revolutionize the way we understand and interact with geospatial data. As a key member of our team, you'll play a critical role in driving business growth through data-driven insights and spatial analysis. If you're passionate about using technology to make a real-world impact, let's connect!",
+        "responsibilities": [
+          "Design and implement spatial databases and analytics systems to support business decision-making",
+          "Develop and maintain geospatial datasets, including map development and visualization tools",
+          "Collaborate with cross-functional teams to integrate GIS insights into product features and workflows",
+          "Conduct complex spatial analysis and data modeling to inform business strategy and drive growth",
+          "Stay up-to-date on industry trends and emerging technologies in GIS and apply knowledge to improve our solutions",
+          "Communicate technical findings and recommendations to non-technical stakeholders through clear, concise reporting",
+          "Develop and maintain relationships with external partners and vendors to source geospatial data and services",
+          "Identify opportunities for process improvements and implement changes to increase efficiency and effectiveness"
+        ],
+        "requirements": [
+          "Bachelor's degree in GIS, Computer Science, or related field (Master's preferred)",
+          "3+ years of experience in a similar role with a strong focus on spatial analysis and data visualization",
+          "Advanced knowledge of GIS software and tools, including ArcGIS, QGIS, and PostGIS",
+          "Experience with programming languages such as Python, R, or SQL",
+          "Strong understanding of database design principles and data modeling techniques",
+          "Ability to communicate complex technical concepts to non-technical stakeholders",
+          "Familiarity with cloud-based platforms and services (AWS, Google Cloud, etc.) a plus",
+          "Certifications in GIS or related fields (e.g. ESRI Certified Associate) a plus"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Step 1: Define Job Requirements & Sourcing Strategy (Weeks 1-2)",
+        "Step 2: Post Job Adverts & Leverage Social Media (Weeks 2-3)",
+        "Step 3: Async Video Screening & Initial Skills Assessment (Weeks 3-4)",
+        "Step 4: Phone or Video Interviews with Hiring Manager & Team Lead (Weeks 4-5)",
+        "Step 5: Reference Checks & Final Validation (Weeks 5-6)",
+        "Step 6: Offer Extension & Salary Negotiation (Weeks 6-7)",
+        "Step 7: Onboarding Planning & Preparation (Weeks 7-8)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Team Lead",
+        "Talent Acquisition Specialist",
+        "Team Lead & Hiring Manager",
+        "Hiring Manager & CEO",
+        "CEO & HR Team Lead",
+        "Onboarding Coordinator"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Gis Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Gis Analyst\n**Summary**: Join our fast-paced startup as a GIS Analyst and help us revolutionize the way we understand and interact with geospatial data. As a key member of our team, you'll play a critical role in driving business growth through data-driven insights and spatial analysis. If you're passionate about using technology to make a real-world impact, let's connect!\n**Key Responsibilities:**\n- Design and implement spatial databases and analytics systems to support business decision-making\n- Develop and maintain geospatial datasets, including map development and visualization tools\n- Collaborate with cross-functional teams to integrate GIS insights into product features and workflows\n- Conduct complex spatial analysis and data modeling to inform business strategy and drive growth\n- Stay up-to-date on industry trends and emerging technologies in GIS and apply knowledge to improve our solutions\n- Communicate technical findings and recommendations to non-technical stakeholders through clear, concise reporting\n- Develop and maintain relationships with external partners and vendors to source geospatial data and services\n- Identify opportunities for process improvements and implement changes to increase efficiency and effectiveness\n**Requirements:**\n- Bachelor's degree in GIS, Computer Science, or related field (Master's preferred)\n- 3+ years of experience in a similar role with a strong focus on spatial analysis and data visualization\n- Advanced knowledge of GIS software and tools, including ArcGIS, QGIS, and PostGIS\n- Experience with programming languages such as Python, R, or SQL\n- Strong understanding of database design principles and data modeling techniques\n- Ability to communicate complex technical concepts to non-technical stakeholders\n- Familiarity with cloud-based platforms and services (AWS, Google Cloud, etc.) a plus\n- Certifications in GIS or related fields (e.g. ESRI Certified Associate) a plus\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Step 1: Define Job Requirements & Sourcing Strategy (Weeks 1-2)  \n   *Owner: Hiring Manager*\n2. Step 2: Post Job Adverts & Leverage Social Media (Weeks 2-3)  \n   *Owner: HR Team Lead*\n3. Step 3: Async Video Screening & Initial Skills Assessment (Weeks 3-4)  \n   *Owner: Talent Acquisition Specialist*\n4. Step 4: Phone or Video Interviews with Hiring Manager & Team Lead (Weeks 4-5)  \n   *Owner: Team Lead & Hiring Manager*\n5. Step 5: Reference Checks & Final Validation (Weeks 5-6)  \n   *Owner: Hiring Manager & CEO*\n6. Step 6: Offer Extension & Salary Negotiation (Weeks 6-7)  \n   *Owner: CEO & HR Team Lead*\n7. Step 7: Onboarding Planning & Preparation (Weeks 7-8)  \n   *Owner: Onboarding Coordinator*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Gis Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Gis Analyst",
+          "summary": "Join our fast-paced startup as a GIS Analyst and help us revolutionize the way we understand and interact with geospatial data. As a key member of our team, you'll play a critical role in driving business growth through data-driven insights and spatial analysis. If you're passionate about using technology to make a real-world impact, let's connect!",
+          "responsibilities": [
+            "Design and implement spatial databases and analytics systems to support business decision-making",
+            "Develop and maintain geospatial datasets, including map development and visualization tools",
+            "Collaborate with cross-functional teams to integrate GIS insights into product features and workflows",
+            "Conduct complex spatial analysis and data modeling to inform business strategy and drive growth",
+            "Stay up-to-date on industry trends and emerging technologies in GIS and apply knowledge to improve our solutions",
+            "Communicate technical findings and recommendations to non-technical stakeholders through clear, concise reporting",
+            "Develop and maintain relationships with external partners and vendors to source geospatial data and services",
+            "Identify opportunities for process improvements and implement changes to increase efficiency and effectiveness"
+          ],
+          "requirements": [
+            "Bachelor's degree in GIS, Computer Science, or related field (Master's preferred)",
+            "3+ years of experience in a similar role with a strong focus on spatial analysis and data visualization",
+            "Advanced knowledge of GIS software and tools, including ArcGIS, QGIS, and PostGIS",
+            "Experience with programming languages such as Python, R, or SQL",
+            "Strong understanding of database design principles and data modeling techniques",
+            "Ability to communicate complex technical concepts to non-technical stakeholders",
+            "Familiarity with cloud-based platforms and services (AWS, Google Cloud, etc.) a plus",
+            "Certifications in GIS or related fields (e.g. ESRI Certified Associate) a plus"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Step 1: Define Job Requirements & Sourcing Strategy (Weeks 1-2)",
+          "Step 2: Post Job Adverts & Leverage Social Media (Weeks 2-3)",
+          "Step 3: Async Video Screening & Initial Skills Assessment (Weeks 3-4)",
+          "Step 4: Phone or Video Interviews with Hiring Manager & Team Lead (Weeks 4-5)",
+          "Step 5: Reference Checks & Final Validation (Weeks 5-6)",
+          "Step 6: Offer Extension & Salary Negotiation (Weeks 6-7)",
+          "Step 7: Onboarding Planning & Preparation (Weeks 7-8)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Team Lead",
+          "Talent Acquisition Specialist",
+          "Team Lead & Hiring Manager",
+          "Hiring Manager & CEO",
+          "CEO & HR Team Lead",
+          "Onboarding Coordinator"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Gis Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T19:42:13.449323"
+}

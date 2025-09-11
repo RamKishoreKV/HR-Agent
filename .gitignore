@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Tools & IDEs
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs & misc
+*.log
+.env
+**/__pycache__/
+.cache/

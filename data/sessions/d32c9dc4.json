@@ -1,0 +1,133 @@
+{
+  "session_id": "d32c9dc4",
+  "last_input": "help me hire a data engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our Boston-based startup as a Data Engineer, where you'll play a key role in transforming data into actionable insights that drive business growth. As a growth-minded team member, you'll collaborate with our cross-functional teams to develop innovative solutions that make an impact.",
+        "responsibilities": [
+          "Design and implement scalable data pipelines to fuel our analytics platform",
+          "Develop and maintain complex data models using Tableau and SAS",
+          "Collaborate with stakeholders to understand business requirements and translate them into actionable data visualizations",
+          "Work closely with our GIS team to integrate location-based data into our analytics workflow",
+          "Develop automated reporting and dashboard solutions to drive data-driven decision making",
+          "Troubleshoot and optimize data workflows to ensure timely delivery of insights",
+          "Stay up-to-date on industry trends and emerging technologies in data engineering"
+        ],
+        "requirements": [
+          "2+ years of experience in data engineering with a focus on analytics and reporting",
+          "Proficiency in Tableau, SAS, and GIS technologies (ArcGIS or similar)",
+          "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field",
+          "Strong understanding of data modeling, visualization, and analytics concepts",
+          "Excellent communication and collaboration skills to work with cross-functional teams",
+          "Experience with cloud-based platforms (AWS, Azure, Google Cloud) a plus",
+          "Familiarity with containerization technologies (Docker, Kubernetes) a bonus"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize LinkedIn Recruiter, job boards, and professional networks to find suitable candidates",
+        "Week 1: Posting Job Ad & Social Media Campaign - Create an engaging job ad and social media campaign to attract passive candidates",
+        "Week 2: Async Video Screening (15-20 minutes) - Use a platform like HireVue or VidCruiter for initial screening of technical skills",
+        "Week 2: Skills Assessments (1-2 hours) - Utilize platforms like HackerRank, LeetCode, or CodeWars to assess coding skills and problem-solving abilities",
+        "Week 3: In-Person Interviews (60 minutes) - Conduct a panel interview with the Hiring Manager, Team Lead, and Data Engineer Lead to evaluate cultural fit and technical expertise",
+        "Week 4: Reference Checks & Final Offer - Verify candidate references and extend a job offer to the top candidate"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Data Engineer Lead",
+        "Hiring Manager",
+        "Team Lead",
+        "CEO"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nThe hiring plan is designed to attract a top-tier Data Engineer to join our Boston-based startup. The goal is to find a growth-minded team member who can transform data into actionable insights that drive business growth.\n\n## Job Descriptions\n\n### Data Engineer\n\n**Summary:** Join our Boston-based startup as a Data Engineer, where you'll play a key role in transforming data into actionable insights that drive business growth.\n\n**Key Responsibilities:**\n\n* Collaborate with cross-functional teams to develop innovative solutions\n* Develop and maintain large-scale data pipelines and systems\n* Work closely with stakeholders to understand business requirements and deliver high-quality solutions\n\n**Requirements:**\n\n* 3+ years of experience in a Data Engineer role\n* Strong proficiency in programming languages such as Python, Java, or Scala\n* Experience with cloud-based technologies like AWS or GCP\n* Excellent problem-solving skills and attention to detail\n\n**Compensation:** Competitive salary and benefits package, including equity options.\n\n## Hiring Process Plan\n\n**Timeline:** 4 weeks\n\n**Process Steps:**\n1. Week 1: Sourcing - Utilize LinkedIn Recruiter, job boards, and professional networks to find suitable candidates - *Owner: Hiring Manager*\n2. Week 1: Posting Job Ad & Social Media Campaign - Create an engaging job ad and social media campaign to attract passive candidates - *Owner: HR*\n3. Week 2: Async Video Screening (15-20 minutes) - Use a platform like HireVue or VidCruiter for initial screening of technical skills - *Owner: Data Engineer Lead*\n4. Week 2: Skills Assessments (1-2 hours) - Utilize platforms like HackerRank, LeetCode, or CodeWars to assess coding skills and problem-solving abilities - *Owner: Team Lead*\n5. Week 3: In-Person Interviews (60 minutes) - Conduct a panel interview with the Hiring Manager, Team Lead, and Data Engineer Lead to evaluate cultural fit and technical expertise - *Owner: CEO*\n6. Week 4: Reference Checks & Final Offer - Verify candidate references and extend a job offer to the top candidate - *Owner: Hiring Manager*\n\n## Next Steps\n\n* Post the job ad on relevant job boards and social media platforms\n* Utilize professional networks, such as LinkedIn Recruiter, to find suitable candidates\n* Schedule Async Video Screenings for Week 2 to begin evaluating technical skills\n* Prepare for In-Person Interviews in Week 3 by finalizing interview questions and panel members",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "50k",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "boston",
+        "key_skills": [
+          "tableau",
+          "sas",
+          "gis"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our Boston-based startup as a Data Engineer, where you'll play a key role in transforming data into actionable insights that drive business growth. As a growth-minded team member, you'll collaborate with our cross-functional teams to develop innovative solutions that make an impact.",
+          "responsibilities": [
+            "Design and implement scalable data pipelines to fuel our analytics platform",
+            "Develop and maintain complex data models using Tableau and SAS",
+            "Collaborate with stakeholders to understand business requirements and translate them into actionable data visualizations",
+            "Work closely with our GIS team to integrate location-based data into our analytics workflow",
+            "Develop automated reporting and dashboard solutions to drive data-driven decision making",
+            "Troubleshoot and optimize data workflows to ensure timely delivery of insights",
+            "Stay up-to-date on industry trends and emerging technologies in data engineering"
+          ],
+          "requirements": [
+            "2+ years of experience in data engineering with a focus on analytics and reporting",
+            "Proficiency in Tableau, SAS, and GIS technologies (ArcGIS or similar)",
+            "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field",
+            "Strong understanding of data modeling, visualization, and analytics concepts",
+            "Excellent communication and collaboration skills to work with cross-functional teams",
+            "Experience with cloud-based platforms (AWS, Azure, Google Cloud) a plus",
+            "Familiarity with containerization technologies (Docker, Kubernetes) a bonus"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize LinkedIn Recruiter, job boards, and professional networks to find suitable candidates",
+          "Week 1: Posting Job Ad & Social Media Campaign - Create an engaging job ad and social media campaign to attract passive candidates",
+          "Week 2: Async Video Screening (15-20 minutes) - Use a platform like HireVue or VidCruiter for initial screening of technical skills",
+          "Week 2: Skills Assessments (1-2 hours) - Utilize platforms like HackerRank, LeetCode, or CodeWars to assess coding skills and problem-solving abilities",
+          "Week 3: In-Person Interviews (60 minutes) - Conduct a panel interview with the Hiring Manager, Team Lead, and Data Engineer Lead to evaluate cultural fit and technical expertise",
+          "Week 4: Reference Checks & Final Offer - Verify candidate references and extend a job offer to the top candidate"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Data Engineer Lead",
+          "Hiring Manager",
+          "Team Lead",
+          "CEO"
+        ],
+        "timeline_weeks": 4
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 4,
+    "budget_range": "50k",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "boston",
+    "key_skills": [
+      "tableau",
+      "sas",
+      "gis"
+    ],
+    "roles": [
+      "Data Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T15:58:48.006280"
+}

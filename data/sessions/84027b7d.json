@@ -1,0 +1,133 @@
+{
+  "session_id": "84027b7d",
+  "last_input": "hire me a financial analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Me A Financial Analyst",
+        "summary": "Join our fast-paced startup as a Me A Financial Analyst, where you'll drive business growth through data-driven insights and analysis. As a key member of our team, you'll have the opportunity to make a significant impact on our financial decisions and strategy. If you're passionate about economics, analysis, and making a difference, we want to hear from you!",
+        "responsibilities": [
+          "Develop and maintain complex financial models using SAS and other tools to drive business growth and optimization",
+          "Analyze large datasets to identify trends, opportunities, and areas for improvement",
+          "Provide data-driven insights and recommendations to inform key business decisions",
+          "Collaborate with cross-functional teams to develop and implement financial strategies",
+          "Stay up-to-date on industry trends and regulatory changes that impact our business",
+          "Develop and track key performance indicators (KPIs) to measure progress towards company goals",
+          "Identify areas for process improvement and implement changes to increase efficiency and productivity"
+        ],
+        "requirements": [
+          "Bachelor's in Finance",
+          "1+ years of relevant experience",
+          "Bachelor's degree in Economics, Finance, or related field",
+          "1-2 years of experience as a financial analyst or in a related role",
+          "Proficiency in SAS programming language and ability to learn new tools quickly",
+          "Strong analytical and problem-solving skills with attention to detail",
+          "Excellent communication and interpersonal skills with ability to work cross-functionally",
+          "Ability to work independently and as part of a remote team",
+          "Experience with data visualization tools (e.g. Tableau, Power BI) is a plus"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize social media, professional networks and job boards to create a pool of potential candidates.",
+        "Week 2: Initial Screening - Conduct async video screening using platforms like Calendly or Loom for an initial assessment of candidate fit.",
+        "Week 3: Skills Assessments - Send skills-based assessments tailored to the Financial Analyst role to further narrow down candidates.",
+        "Week 4: Interviews - Schedule in-person interviews with top candidates, including a panel discussion with relevant team members.",
+        "Week 5: Offer and Onboarding - Extend job offer to selected candidate and initiate onboarding process, covering necessary paperwork, benefits and company policies."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Team Lead (Financial Department)",
+        "CEO/Founder",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 5
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nThis hiring plan is designed to bring on a Financial Analyst to drive business growth through data-driven insights and analysis at our fast-paced startup.\n\n## Job Descriptions\n\n### Me A Financial Analyst\n\n**Summary:** Join our team as a Financial Analyst, where you'll drive business growth through data-driven insights and analysis. You'll have the opportunity to make a significant impact on our financial decisions and strategy.\n\n**Key Responsibilities:**\n\n- Analyze financial data to inform business decisions\n- Develop and maintain financial models to forecast revenue and expenses\n- Collaborate with cross-functional teams to identify areas for cost savings and process improvements\n\n**Requirements:**\n\n- 2+ years of experience in a financial analysis role\n- Strong understanding of economics, finance, and accounting principles\n- Excellent analytical and problem-solving skills\n\n**Compensation:** Competitive salary and benefits package, including equity options and professional development opportunities.\n\n## Hiring Process Plan\n\n**Timeline:** 5 weeks\n\n**Process Steps:**\n\n1. **Week 1: Sourcing** - Utilize social media, professional networks, and job boards to create a pool of potential candidates.\n\t* Owner: [Hiring Manager]\n2. **Week 2: Initial Screening** - Conduct async video screening using platforms like Calendly or Loom for an initial assessment of candidate fit.\n\t* Owner: [HR Specialist]\n3. **Week 3: Skills Assessments** - Send skills-based assessments tailored to the Financial Analyst role to further narrow down candidates.\n\t* Owner: [Team Lead (Financial Department)]\n4. **Week 4: Interviews** - Schedule in-person interviews with top candidates, including a panel discussion with relevant team members.\n\t* Owner: [CEO/Founder]\n5. **Week 5: Offer and Onboarding** - Extend job offer to selected candidate and initiate onboarding process, covering necessary paperwork, benefits, and company policies.\n\t* Owner: [Hiring Manager]\n\n## Next Steps\nAs the HR professional responsible for implementing this hiring plan, please take the following next steps:\n\n- Launch social media and job board advertising campaigns to attract potential candidates (Week 1)\n- Prepare async video screening questions and scheduling templates using Calendly or Loom (Week 2)\n- Develop skills-based assessments tailored to the Financial Analyst role (Week 3)\n- Coordinate in-person interviews with top candidates, including a panel discussion with relevant team members (Week 4)\n\nNote: This hiring plan is designed to be flexible and adaptable. Please feel free to reach out to the owners listed above for any questions or concerns during the hiring process.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 5,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "analysis",
+          "sas",
+          "economics"
+        ],
+        "roles": [
+          "Me A Financial Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Me A Financial Analyst",
+          "summary": "Join our fast-paced startup as a Me A Financial Analyst, where you'll drive business growth through data-driven insights and analysis. As a key member of our team, you'll have the opportunity to make a significant impact on our financial decisions and strategy. If you're passionate about economics, analysis, and making a difference, we want to hear from you!",
+          "responsibilities": [
+            "Develop and maintain complex financial models using SAS and other tools to drive business growth and optimization",
+            "Analyze large datasets to identify trends, opportunities, and areas for improvement",
+            "Provide data-driven insights and recommendations to inform key business decisions",
+            "Collaborate with cross-functional teams to develop and implement financial strategies",
+            "Stay up-to-date on industry trends and regulatory changes that impact our business",
+            "Develop and track key performance indicators (KPIs) to measure progress towards company goals",
+            "Identify areas for process improvement and implement changes to increase efficiency and productivity"
+          ],
+          "requirements": [
+            "Bachelor's in Finance",
+            "1+ years of relevant experience",
+            "Bachelor's degree in Economics, Finance, or related field",
+            "1-2 years of experience as a financial analyst or in a related role",
+            "Proficiency in SAS programming language and ability to learn new tools quickly",
+            "Strong analytical and problem-solving skills with attention to detail",
+            "Excellent communication and interpersonal skills with ability to work cross-functionally",
+            "Ability to work independently and as part of a remote team",
+            "Experience with data visualization tools (e.g. Tableau, Power BI) is a plus"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize social media, professional networks and job boards to create a pool of potential candidates.",
+          "Week 2: Initial Screening - Conduct async video screening using platforms like Calendly or Loom for an initial assessment of candidate fit.",
+          "Week 3: Skills Assessments - Send skills-based assessments tailored to the Financial Analyst role to further narrow down candidates.",
+          "Week 4: Interviews - Schedule in-person interviews with top candidates, including a panel discussion with relevant team members.",
+          "Week 5: Offer and Onboarding - Extend job offer to selected candidate and initiate onboarding process, covering necessary paperwork, benefits and company policies."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Team Lead (Financial Department)",
+          "CEO/Founder",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 5
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 5,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "analysis",
+      "sas",
+      "economics"
+    ],
+    "roles": [
+      "Me A Financial Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T16:05:29.971822"
+}

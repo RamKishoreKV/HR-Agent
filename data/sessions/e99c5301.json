@@ -1,0 +1,163 @@
+{
+  "session_id": "e99c5301",
+  "last_input": "help me hire Software Engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Software Engineer",
+        "summary": "Join our high-growth startup as a mid-level Software Engineer, where you'll play a key role in building scalable and efficient software solutions. As a growth-minded individual, you'll thrive in our fast-paced environment and have the opportunity to make a significant impact from day one.",
+        "responsibilities": [
+          "Design, develop, and deploy high-quality software applications using Python/Java/JS",
+          "Collaborate with cross-functional teams to identify and prioritize product features and technical requirements",
+          "Develop and maintain APIs, databases, and other backend systems to support our web application",
+          "Ensure seamless integration of new features with existing codebases through rigorous testing and debugging",
+          "Implement CI/CD pipelines using Docker and Kubernetes for automated deployment and monitoring",
+          "Contribute to the development of our tech stack by suggesting improvements and best practices",
+          "Participate in code reviews to maintain high standards of coding quality and security"
+        ],
+        "requirements": [
+          "5+ years of experience as a software engineer, with expertise in Python/Java/JS",
+          "Strong understanding of APIs, databases (e.g. MySQL, PostgreSQL), and cloud-based infrastructure",
+          "Experience with Docker, Kubernetes, and CI/CD pipelines is highly desirable",
+          "Excellent problem-solving skills, with the ability to debug complex issues quickly",
+          "Strong communication and collaboration skills, with experience working in agile teams",
+          "Familiarity with DevOps practices and tools (e.g. Jenkins, GitLab) is a plus",
+          "BSc or MSc in Computer Science or related field; equivalent experience will be considered"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing & Outreach - Utilize social media, online communities, and professional networks to identify top talent.",
+        "Weeks 2-3: Async Video Screening - Conduct initial video screening using platforms like HireVue or Luma to assess candidates' fit and skills.",
+        "Weeks 4-5: Skills Assessments & Coding Challenges - Engage with candidates through coding challenges on platforms like HackerRank or Codewars, followed by a brief discussion with the Team Lead.",
+        "Weeks 6-7: Interviews (On-site or Virtual) - Invite top performers for in-depth interviews with the Hiring Manager and other relevant team members. Discuss company culture, vision, and technical skills.",
+        "Week 8: Reference Checks & Offer Extension - Conduct reference checks to validate candidates' past experiences and extend an offer to the selected candidate."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Team (Recruiter)",
+        "Team Lead (Software Engineering)",
+        "CEO/Founder (Final Interview)",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Software Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Software Engineer\n**Summary**: Join our high-growth startup as a mid-level Software Engineer, where you'll play a key role in building scalable and efficient software solutions. As a growth-minded individual, you'll thrive in our fast-paced environment and have the opportunity to make a significant impact from day one.\n**Key Responsibilities:**\n- Design, develop, and deploy high-quality software applications using Python/Java/JS\n- Collaborate with cross-functional teams to identify and prioritize product features and technical requirements\n- Develop and maintain APIs, databases, and other backend systems to support our web application\n- Ensure seamless integration of new features with existing codebases through rigorous testing and debugging\n- Implement CI/CD pipelines using Docker and Kubernetes for automated deployment and monitoring\n- Contribute to the development of our tech stack by suggesting improvements and best practices\n- Participate in code reviews to maintain high standards of coding quality and security\n**Requirements:**\n- 5+ years of experience as a software engineer, with expertise in Python/Java/JS\n- Strong understanding of APIs, databases (e.g. MySQL, PostgreSQL), and cloud-based infrastructure\n- Experience with Docker, Kubernetes, and CI/CD pipelines is highly desirable\n- Excellent problem-solving skills, with the ability to debug complex issues quickly\n- Strong communication and collaboration skills, with experience working in agile teams\n- Familiarity with DevOps practices and tools (e.g. Jenkins, GitLab) is a plus\n- BSc or MSc in Computer Science or related field; equivalent experience will be considered\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Python/Java/JS, APIs, Databases? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python/Java/JS. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing & Outreach - Utilize social media, online communities, and professional networks to identify top talent.  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Async Video Screening - Conduct initial video screening using platforms like HireVue or Luma to assess candidates' fit and skills.  \n   *Owner: HR Team (Recruiter)*\n3. Weeks 4-5: Skills Assessments & Coding Challenges - Engage with candidates through coding challenges on platforms like HackerRank or Codewars, followed by a brief discussion with the Team Lead.  \n   *Owner: Team Lead (Software Engineering)*\n4. Weeks 6-7: Interviews (On-site or Virtual) - Invite top performers for in-depth interviews with the Hiring Manager and other relevant team members. Discuss company culture, vision, and technical skills.  \n   *Owner: CEO/Founder (Final Interview)*\n5. Week 8: Reference Checks & Offer Extension - Conduct reference checks to validate candidates' past experiences and extend an offer to the selected candidate.  \n   *Owner: Hiring Manager*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Python/Java/JS, APIs, Databases? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python/Java/JS. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Python/Java/JS",
+          "APIs",
+          "Databases",
+          "Docker",
+          "CI/CD"
+        ],
+        "roles": [
+          "Software Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Software Engineer",
+          "summary": "Join our high-growth startup as a mid-level Software Engineer, where you'll play a key role in building scalable and efficient software solutions. As a growth-minded individual, you'll thrive in our fast-paced environment and have the opportunity to make a significant impact from day one.",
+          "responsibilities": [
+            "Design, develop, and deploy high-quality software applications using Python/Java/JS",
+            "Collaborate with cross-functional teams to identify and prioritize product features and technical requirements",
+            "Develop and maintain APIs, databases, and other backend systems to support our web application",
+            "Ensure seamless integration of new features with existing codebases through rigorous testing and debugging",
+            "Implement CI/CD pipelines using Docker and Kubernetes for automated deployment and monitoring",
+            "Contribute to the development of our tech stack by suggesting improvements and best practices",
+            "Participate in code reviews to maintain high standards of coding quality and security"
+          ],
+          "requirements": [
+            "5+ years of experience as a software engineer, with expertise in Python/Java/JS",
+            "Strong understanding of APIs, databases (e.g. MySQL, PostgreSQL), and cloud-based infrastructure",
+            "Experience with Docker, Kubernetes, and CI/CD pipelines is highly desirable",
+            "Excellent problem-solving skills, with the ability to debug complex issues quickly",
+            "Strong communication and collaboration skills, with experience working in agile teams",
+            "Familiarity with DevOps practices and tools (e.g. Jenkins, GitLab) is a plus",
+            "BSc or MSc in Computer Science or related field; equivalent experience will be considered"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing & Outreach - Utilize social media, online communities, and professional networks to identify top talent.",
+          "Weeks 2-3: Async Video Screening - Conduct initial video screening using platforms like HireVue or Luma to assess candidates' fit and skills.",
+          "Weeks 4-5: Skills Assessments & Coding Challenges - Engage with candidates through coding challenges on platforms like HackerRank or Codewars, followed by a brief discussion with the Team Lead.",
+          "Weeks 6-7: Interviews (On-site or Virtual) - Invite top performers for in-depth interviews with the Hiring Manager and other relevant team members. Discuss company culture, vision, and technical skills.",
+          "Week 8: Reference Checks & Offer Extension - Conduct reference checks to validate candidates' past experiences and extend an offer to the selected candidate."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Team (Recruiter)",
+          "Team Lead (Software Engineering)",
+          "CEO/Founder (Final Interview)",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Python/Java/JS, APIs, Databases? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Python/Java/JS. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Software Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T19:48:47.022923"
+}

@@ -1,0 +1,139 @@
+{
+  "session_id": "98f86de1",
+  "last_input": "help me hire data engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our high-growth startup as a junior Data Engineer, where you'll play a key role in building scalable data infrastructure and driving business growth through data-driven insights. As a member of our agile team, you'll have the opportunity to work on cutting-edge projects, collaborate with cross-functional teams, and contribute to our mission to [insert company mission].",
+        "responsibilities": [
+          "Design and implement efficient ETL pipelines using Airflow and Spark to extract insights from large datasets",
+          "Collaborate with data scientists and analysts to develop scalable data solutions that meet business needs",
+          "Develop and maintain reliable, high-performing data infrastructure on AWS using Docker and containerization",
+          "Ensure data quality and integrity by implementing robust data validation and monitoring processes",
+          "Contribute to the development of a unified data platform that integrates with various data sources and systems",
+          "Work closely with the engineering team to identify opportunities for process improvements and optimize data workflows",
+          "Participate in on-call rotations to ensure 24/7 data infrastructure uptime and troubleshoot issues as needed"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science, Data Engineering, or related field",
+          "2+ years of experience with Python programming language (including experience with libraries such as Pandas, NumPy, and scikit-learn)",
+          "Proficiency in SQL and ability to design efficient database schemas",
+          "Familiarity with ETL tools and data warehousing concepts",
+          "Experience with Airflow, Spark, or other workflow management systems",
+          "Strong understanding of cloud computing principles and experience with AWS services (e.g., S3, Redshift)",
+          "Knowledge of containerization using Docker and Kubernetes",
+          "Excellent problem-solving skills, attention to detail, and ability to work in a fast-paced environment"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Sourcing: Utilize social media, job boards, and professional networks to find potential candidates for Data Engineer role.",
+        "Async Video Screening: Conduct initial screening via asynchronous video interviews to assess soft skills and candidate enthusiasm.",
+        "Technical Skills Assessment: Use online platforms (e.g., HackerRank) to evaluate coding skills and experience with relevant technologies.",
+        "Phone or Video Interviews: Hold 30-minute calls with top candidates to delve into technical expertise, experience, and problem-solving abilities.",
+        "Reference Checks: Verify candidate references for accuracy and relevance to the role.",
+        "Offer Extension: Prepare and extend offer letter to successful candidate.",
+        "Onboarding: Coordinate onboarding process, including setting up tools, access, and meeting with team members."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative",
+        "Team Lead (Data Engineering)",
+        "CEO/Founder",
+        "Hiring Manager",
+        "HR Representative",
+        "Onboarding Coordinator"
+      ],
+      "timeline_weeks": 3
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nThis hiring plan outlines the process to recruit a junior Data Engineer to join our high-growth startup. The goal is to fill this critical role within 3 weeks, ensuring we have the necessary talent to drive business growth through data-driven insights.\n\n## Job Descriptions\n\n### Data Engineer\n**Summary:** Join our high-growth startup as a junior Data Engineer, where you'll play a key role in building scalable data infrastructure and driving business growth through data-driven insights.\n\n**Key Responsibilities:**\n\n* Building scalable data infrastructure\n* Driving business growth through data-driven insights\n* Collaborating with cross-functional teams\n\n**Requirements:**\n\n* Relevant experience with data engineering tools and technologies\n* Strong coding skills (e.g., Python, SQL)\n* Excellent problem-solving abilities\n* Ability to work in an agile team environment\n\n**Compensation:** Competitive salary and benefits package.\n\n## Hiring Process Plan\n\n**Timeline:** 3 weeks\n\n**Process Steps:**\n\n1. **Sourcing**: Utilize social media, job boards, and professional networks to find potential candidates for Data Engineer role.\n\t* Owner: Hiring Manager\n2. **Async Video Screening**: Conduct initial screening via asynchronous video interviews to assess soft skills and candidate enthusiasm.\n\t* Owner: HR Representative\n3. **Technical Skills Assessment**: Use online platforms (e.g., HackerRank) to evaluate coding skills and experience with relevant technologies.\n\t* Owner: Team Lead (Data Engineering)\n4. **Phone or Video Interviews**: Hold 30-minute calls with top candidates to delve into technical expertise, experience, and problem-solving abilities.\n\t* Owner: Hiring Manager\n5. **Reference Checks**: Verify candidate references for accuracy and relevance to the role.\n\t* Owner: HR Representative\n6. **Offer Extension**: Prepare and extend offer letter to successful candidate.\n\t* Owner: Hiring Manager\n7. **Onboarding**: Coordinate onboarding process, including setting up tools, access, and meeting with team members.\n\t* Owner: Onboarding Coordinator\n\n## Next Steps\nTo execute this hiring plan effectively:\n\n1. **Hiring Manager**:\n\t* Source potential candidates for the Data Engineer role using social media, job boards, and professional networks.\n\t* Conduct async video screenings to assess candidate enthusiasm and soft skills.\n2. **HR Representative**:\n\t* Coordinate reference checks for top candidates.\n\t* Prepare offer extension documentation.\n3. **Team Lead (Data Engineering)**:\n\t* Evaluate candidate coding skills and experience with relevant technologies using online platforms.\n\nBy following this hiring plan, we will be able to fill the junior Data Engineer role within 3 weeks, ensuring our team has the necessary talent to drive business growth through data-driven insights.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 3,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "intern",
+        "location": "remote",
+        "key_skills": [
+          "Python",
+          "SQL",
+          "ETL",
+          "Airflow",
+          "Spark",
+          "AWS",
+          "Docker"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our high-growth startup as a junior Data Engineer, where you'll play a key role in building scalable data infrastructure and driving business growth through data-driven insights. As a member of our agile team, you'll have the opportunity to work on cutting-edge projects, collaborate with cross-functional teams, and contribute to our mission to [insert company mission].",
+          "responsibilities": [
+            "Design and implement efficient ETL pipelines using Airflow and Spark to extract insights from large datasets",
+            "Collaborate with data scientists and analysts to develop scalable data solutions that meet business needs",
+            "Develop and maintain reliable, high-performing data infrastructure on AWS using Docker and containerization",
+            "Ensure data quality and integrity by implementing robust data validation and monitoring processes",
+            "Contribute to the development of a unified data platform that integrates with various data sources and systems",
+            "Work closely with the engineering team to identify opportunities for process improvements and optimize data workflows",
+            "Participate in on-call rotations to ensure 24/7 data infrastructure uptime and troubleshoot issues as needed"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science, Data Engineering, or related field",
+            "2+ years of experience with Python programming language (including experience with libraries such as Pandas, NumPy, and scikit-learn)",
+            "Proficiency in SQL and ability to design efficient database schemas",
+            "Familiarity with ETL tools and data warehousing concepts",
+            "Experience with Airflow, Spark, or other workflow management systems",
+            "Strong understanding of cloud computing principles and experience with AWS services (e.g., S3, Redshift)",
+            "Knowledge of containerization using Docker and Kubernetes",
+            "Excellent problem-solving skills, attention to detail, and ability to work in a fast-paced environment"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Sourcing: Utilize social media, job boards, and professional networks to find potential candidates for Data Engineer role.",
+          "Async Video Screening: Conduct initial screening via asynchronous video interviews to assess soft skills and candidate enthusiasm.",
+          "Technical Skills Assessment: Use online platforms (e.g., HackerRank) to evaluate coding skills and experience with relevant technologies.",
+          "Phone or Video Interviews: Hold 30-minute calls with top candidates to delve into technical expertise, experience, and problem-solving abilities.",
+          "Reference Checks: Verify candidate references for accuracy and relevance to the role.",
+          "Offer Extension: Prepare and extend offer letter to successful candidate.",
+          "Onboarding: Coordinate onboarding process, including setting up tools, access, and meeting with team members."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative",
+          "Team Lead (Data Engineering)",
+          "CEO/Founder",
+          "Hiring Manager",
+          "HR Representative",
+          "Onboarding Coordinator"
+        ],
+        "timeline_weeks": 3
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 3,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "intern",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T01:23:10.156283"
+}

@@ -1,0 +1,158 @@
+{
+  "session_id": "174cbb2b",
+  "last_input": "help me hire a software engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Software Engineer",
+        "summary": "Join our high-growth team as a mid-level Software Engineer, where you'll have the opportunity to drive technical innovation and impact at scale. Our engineers are passionate about building scalable systems that power our cutting-edge products. If you're looking for a fast-paced environment with opportunities for growth, we'd love to hear from you!",
+        "responsibilities": [
+          "Design and implement high-performance software components using C++, Python, and cloud-native technologies like AWS and Kubernetes",
+          "Collaborate with cross-functional teams to define technical requirements and drive project outcomes",
+          "Develop and maintain robust APIs, microservices, and data pipelines that meet the needs of our growing user base",
+          "Contribute to architecture discussions and provide technical guidance on system design and optimization",
+          "Mentor junior engineers and help shape the technical direction of our team",
+          "Stay up-to-date with emerging technologies and trends in software engineering, applying this knowledge to drive innovation within our organization",
+          "Work closely with QA engineers to identify and resolve technical issues",
+          "Develop and maintain high-quality documentation for internal stakeholders"
+        ],
+        "requirements": [
+          "5+ years of experience as a software engineer, with a focus on cloud-native technologies",
+          "Strong proficiency in C++, Python, AWS, and Kubernetes (certifications or extensive hands-on experience)",
+          "Excellent problem-solving skills, with the ability to break down complex technical issues into manageable parts",
+          "Experience with containerization (Docker), CI/CD pipelines, and agile development methodologies",
+          "Strong communication and collaboration skills, with the ability to work effectively in a distributed team environment",
+          "Familiarity with cloud-based monitoring tools (e.g., Datadog, Prometheus)",
+          "Experience with source control management (e.g., Git, SVN)",
+          "Bachelor's degree in Computer Science or related field"
+        ],
+        "compensation_note": "$104k-$156k with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize LinkedIn Recruiter, job boards, and social media to attract top talent.",
+        "Weeks 3-4: Screening - Implement async video screening using tools like HireVue or SparkHire to filter out non-qualified candidates.",
+        "Weeks 5-6: Skills Assessment - Develop a coding challenge using platforms like HackerRank or CodeWars to assess technical skills.",
+        "Weeks 7-8: Interviews - Conduct panel interviews with the team lead and hiring manager to gauge cultural fit, communication skills, and problem-solving abilities.",
+        "Weeks 9-10: Reference Checks - Verify candidate references through phone or video calls to ensure a smooth onboarding process.",
+        "Weeks 11-12: Offer and Onboarding - Extend offers to top candidates, negotiate terms, and plan for an efficient onboarding experience."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Generalist",
+        "Team Lead (Software Engineer)",
+        "CEO (Final Approval)",
+        "Hiring Manager",
+        "HR Generalist"
+      ],
+      "timeline_weeks": 12
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Software Engineer**. The target timeline is **12 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Software Engineer\n#### Summary\nJoin our high-growth team as a mid-level Software Engineer, where you'll have the opportunity to drive technical innovation and impact at scale. Our engineers are passionate about building scalable systems that power our cutting-edge products. If you're looking for a fast-paced environment with opportunities for growth, we'd love to hear from you!\n#### Key Responsibilities\n- Design and implement high-performance software components using C++, Python, and cloud-native technologies like AWS and Kubernetes\n- Collaborate with cross-functional teams to define technical requirements and drive project outcomes\n- Develop and maintain robust APIs, microservices, and data pipelines that meet the needs of our growing user base\n- Contribute to architecture discussions and provide technical guidance on system design and optimization\n- Mentor junior engineers and help shape the technical direction of our team\n- Stay up-to-date with emerging technologies and trends in software engineering, applying this knowledge to drive innovation within our organization\n- Work closely with QA engineers to identify and resolve technical issues\n- Develop and maintain high-quality documentation for internal stakeholders\n#### Requirements\n- 5+ years of experience as a software engineer, with a focus on cloud-native technologies\n- Strong proficiency in C++, Python, AWS, and Kubernetes (certifications or extensive hands-on experience)\n- Excellent problem-solving skills, with the ability to break down complex technical issues into manageable parts\n- Experience with containerization (Docker), CI/CD pipelines, and agile development methodologies\n- Strong communication and collaboration skills, with the ability to work effectively in a distributed team environment\n- Familiarity with cloud-based monitoring tools (e.g., Datadog, Prometheus)\n- Experience with source control management (e.g., Git, SVN)\n- Bachelor's degree in Computer Science or related field\n**Compensation:** $104k-$156k with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 12 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize LinkedIn Recruiter, job boards, and social media to attract top talent.  \n   *Owner: Hiring Manager*\n2. Weeks 3-4: Screening - Implement async video screening using tools like HireVue or SparkHire to filter out non-qualified candidates.  \n   *Owner: HR Generalist*\n3. Weeks 5-6: Skills Assessment - Develop a coding challenge using platforms like HackerRank or CodeWars to assess technical skills.  \n   *Owner: Team Lead (Software Engineer)*\n4. Weeks 7-8: Interviews - Conduct panel interviews with the team lead and hiring manager to gauge cultural fit, communication skills, and problem-solving abilities.  \n   *Owner: CEO (Final Approval)*\n5. Weeks 9-10: Reference Checks - Verify candidate references through phone or video calls to ensure a smooth onboarding process.  \n   *Owner: Hiring Manager*\n6. Weeks 11-12: Offer and Onboarding - Extend offers to top candidates, negotiate terms, and plan for an efficient onboarding experience.  \n   *Owner: HR Generalist*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied C++, Python, AWS, Kubernetes? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using C++, Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "scale-up",
+        "timeline_weeks": 12,
+        "budget_range": "$80k-$120k/year",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "Remote, with occasional in-office meetings in San Francisco",
+        "key_skills": [
+          "C++, Python",
+          "AWS",
+          "Kubernetes"
+        ],
+        "roles": [
+          "Software Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Software Engineer",
+          "summary": "Join our high-growth team as a mid-level Software Engineer, where you'll have the opportunity to drive technical innovation and impact at scale. Our engineers are passionate about building scalable systems that power our cutting-edge products. If you're looking for a fast-paced environment with opportunities for growth, we'd love to hear from you!",
+          "responsibilities": [
+            "Design and implement high-performance software components using C++, Python, and cloud-native technologies like AWS and Kubernetes",
+            "Collaborate with cross-functional teams to define technical requirements and drive project outcomes",
+            "Develop and maintain robust APIs, microservices, and data pipelines that meet the needs of our growing user base",
+            "Contribute to architecture discussions and provide technical guidance on system design and optimization",
+            "Mentor junior engineers and help shape the technical direction of our team",
+            "Stay up-to-date with emerging technologies and trends in software engineering, applying this knowledge to drive innovation within our organization",
+            "Work closely with QA engineers to identify and resolve technical issues",
+            "Develop and maintain high-quality documentation for internal stakeholders"
+          ],
+          "requirements": [
+            "5+ years of experience as a software engineer, with a focus on cloud-native technologies",
+            "Strong proficiency in C++, Python, AWS, and Kubernetes (certifications or extensive hands-on experience)",
+            "Excellent problem-solving skills, with the ability to break down complex technical issues into manageable parts",
+            "Experience with containerization (Docker), CI/CD pipelines, and agile development methodologies",
+            "Strong communication and collaboration skills, with the ability to work effectively in a distributed team environment",
+            "Familiarity with cloud-based monitoring tools (e.g., Datadog, Prometheus)",
+            "Experience with source control management (e.g., Git, SVN)",
+            "Bachelor's degree in Computer Science or related field"
+          ],
+          "compensation_note": "$104k-$156k with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize LinkedIn Recruiter, job boards, and social media to attract top talent.",
+          "Weeks 3-4: Screening - Implement async video screening using tools like HireVue or SparkHire to filter out non-qualified candidates.",
+          "Weeks 5-6: Skills Assessment - Develop a coding challenge using platforms like HackerRank or CodeWars to assess technical skills.",
+          "Weeks 7-8: Interviews - Conduct panel interviews with the team lead and hiring manager to gauge cultural fit, communication skills, and problem-solving abilities.",
+          "Weeks 9-10: Reference Checks - Verify candidate references through phone or video calls to ensure a smooth onboarding process.",
+          "Weeks 11-12: Offer and Onboarding - Extend offers to top candidates, negotiate terms, and plan for an efficient onboarding experience."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Generalist",
+          "Team Lead (Software Engineer)",
+          "CEO (Final Approval)",
+          "Hiring Manager",
+          "HR Generalist"
+        ],
+        "timeline_weeks": 12
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied C++, Python, AWS, Kubernetes? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using C++, Python. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T21:46:31.259455"
+}

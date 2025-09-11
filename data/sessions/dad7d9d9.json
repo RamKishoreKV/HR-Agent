@@ -1,0 +1,171 @@
+{
+  "session_id": "dad7d9d9",
+  "last_input": "hi i want to hire a data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Data Analyst, where you'll play a crucial role in driving business decisions with data-driven insights. You'll work closely with cross-functional teams to unlock new opportunities and fuel our explosive growth.",
+        "responsibilities": [
+          "Design and maintain robust dashboards to track key performance indicators (KPIs) and business metrics",
+          "Develop and execute A/B testing strategies to inform product development and optimize customer experiences",
+          "Collaborate with stakeholders to identify data-driven solutions to complex business problems",
+          "Develop and implement data visualizations using Python, SQL, and BI tools to communicate insights effectively",
+          "Analyze large datasets to identify trends, patterns, and correlations that drive business growth",
+          "Work closely with the product team to integrate data analysis into product development cycles",
+          "Conduct exploratory data analysis to inform hypothesis testing and experimentation",
+          "Develop and maintain relationships with key stakeholders to ensure data-driven decision making"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Analyst or equivalent role",
+          "Proven track record of driving business decisions with data insights",
+          "Strong SQL skills, including proficiency in writing complex queries and optimizing database performance",
+          "Proficiency in Python programming language, including experience with libraries such as Pandas and NumPy",
+          "Experience working with BI tools (e.g. Tableau, Power BI) to design and maintain dashboards",
+          "Familiarity with A/B testing methodologies and statistical analysis techniques",
+          "Strong communication skills, with ability to effectively present complex data insights to non-technical stakeholders",
+          "Bachelor's degree in Computer Science, Mathematics, Statistics or related field"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize social media, job boards, and professional networks to find top talent",
+        "Week 2-3: Screening - Use an async video screening tool to assess candidates' communication skills and fit",
+        "Week 4: Skills Assessment - Develop a data-focused challenge to evaluate technical abilities",
+        "Week 5: Interviews - Conduct 30-minute phone or video interviews with top performers from the previous steps",
+        "Week 6: Reference Checks - Verify candidate's work history and performance via brief calls",
+        "Week 7-8: Offer & Onboarding - Prepare and extend offer to selected candidate, plan for a seamless onboarding experience"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Team Lead (Data Team)",
+        "CEO/Founder (final interview)",
+        "Hiring Manager",
+        "HR Specialist"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n#### Summary\nJoin our high-growth startup as a Data Analyst, where you'll play a crucial role in driving business decisions with data-driven insights. You'll work closely with cross-functional teams to unlock new opportunities and fuel our explosive growth.\n#### Key Responsibilities\n- Design and maintain robust dashboards to track key performance indicators (KPIs) and business metrics\n- Develop and execute A/B testing strategies to inform product development and optimize customer experiences\n- Collaborate with stakeholders to identify data-driven solutions to complex business problems\n- Develop and implement data visualizations using Python, SQL, and BI tools to communicate insights effectively\n- Analyze large datasets to identify trends, patterns, and correlations that drive business growth\n- Work closely with the product team to integrate data analysis into product development cycles\n- Conduct exploratory data analysis to inform hypothesis testing and experimentation\n- Develop and maintain relationships with key stakeholders to ensure data-driven decision making\n#### Requirements\n- 3+ years of experience as a Data Analyst or equivalent role\n- Proven track record of driving business decisions with data insights\n- Strong SQL skills, including proficiency in writing complex queries and optimizing database performance\n- Proficiency in Python programming language, including experience with libraries such as Pandas and NumPy\n- Experience working with BI tools (e.g. Tableau, Power BI) to design and maintain dashboards\n- Familiarity with A/B testing methodologies and statistical analysis techniques\n- Strong communication skills, with ability to effectively present complex data insights to non-technical stakeholders\n- Bachelor's degree in Computer Science, Mathematics, Statistics or related field\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize social media, job boards, and professional networks to find top talent  \n   *Owner: Hiring Manager*\n2. Week 2-3: Screening - Use an async video screening tool to assess candidates' communication skills and fit  \n   *Owner: HR Specialist*\n3. Week 4: Skills Assessment - Develop a data-focused challenge to evaluate technical abilities  \n   *Owner: Team Lead (Data Team)*\n4. Week 5: Interviews - Conduct 30-minute phone or video interviews with top performers from the previous steps  \n   *Owner: CEO/Founder (final interview)*\n5. Week 6: Reference Checks - Verify candidate's work history and performance via brief calls  \n   *Owner: Hiring Manager*\n6. Week 7-8: Offer & Onboarding - Prepare and extend offer to selected candidate, plan for a seamless onboarding experience  \n   *Owner: HR Specialist*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied SQL, Python, Dashboards? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using SQL. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "SQL",
+          "Python",
+          "Dashboards",
+          "BI Tools",
+          "A/B Testing"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Data Analyst, where you'll play a crucial role in driving business decisions with data-driven insights. You'll work closely with cross-functional teams to unlock new opportunities and fuel our explosive growth.",
+          "responsibilities": [
+            "Design and maintain robust dashboards to track key performance indicators (KPIs) and business metrics",
+            "Develop and execute A/B testing strategies to inform product development and optimize customer experiences",
+            "Collaborate with stakeholders to identify data-driven solutions to complex business problems",
+            "Develop and implement data visualizations using Python, SQL, and BI tools to communicate insights effectively",
+            "Analyze large datasets to identify trends, patterns, and correlations that drive business growth",
+            "Work closely with the product team to integrate data analysis into product development cycles",
+            "Conduct exploratory data analysis to inform hypothesis testing and experimentation",
+            "Develop and maintain relationships with key stakeholders to ensure data-driven decision making"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Analyst or equivalent role",
+            "Proven track record of driving business decisions with data insights",
+            "Strong SQL skills, including proficiency in writing complex queries and optimizing database performance",
+            "Proficiency in Python programming language, including experience with libraries such as Pandas and NumPy",
+            "Experience working with BI tools (e.g. Tableau, Power BI) to design and maintain dashboards",
+            "Familiarity with A/B testing methodologies and statistical analysis techniques",
+            "Strong communication skills, with ability to effectively present complex data insights to non-technical stakeholders",
+            "Bachelor's degree in Computer Science, Mathematics, Statistics or related field"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize social media, job boards, and professional networks to find top talent",
+          "Week 2-3: Screening - Use an async video screening tool to assess candidates' communication skills and fit",
+          "Week 4: Skills Assessment - Develop a data-focused challenge to evaluate technical abilities",
+          "Week 5: Interviews - Conduct 30-minute phone or video interviews with top performers from the previous steps",
+          "Week 6: Reference Checks - Verify candidate's work history and performance via brief calls",
+          "Week 7-8: Offer & Onboarding - Prepare and extend offer to selected candidate, plan for a seamless onboarding experience"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Team Lead (Data Team)",
+          "CEO/Founder (final interview)",
+          "Hiring Manager",
+          "HR Specialist"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied SQL, Python, Dashboards? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using SQL. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Analyst"
+    ]
+  },
+  "timestamp": "2025-09-11T14:54:42.455801"
+}

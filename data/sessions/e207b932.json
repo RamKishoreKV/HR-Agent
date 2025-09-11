@@ -1,0 +1,16 @@
+{
+  "session_id": "e207b932",
+  "last_input": "what else u can do",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "I'm so glad you asked! I can assist with everything from job postings to interview scheduling, as well as provide guidance on creating effective job descriptions and managing candidate pipelines - just let me know how I can help! Would you like to get started on hiring for a specific role? You can say \"help hire [role]\" and we'll walk through the hiring process together.",
+    "raw_json": {
+      "message": "I'm so glad you asked! I can assist with everything from job postings to interview scheduling, as well as provide guidance on creating effective job descriptions and managing candidate pipelines - just let me know how I can help! Would you like to get started on hiring for a specific role? You can say \"help hire [role]\" and we'll walk through the hiring process together.",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T01:38:35.284634"
+}

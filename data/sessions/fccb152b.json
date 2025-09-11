@@ -1,0 +1,131 @@
+{
+  "session_id": "fccb152b",
+  "last_input": "help me hire data analysyt",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our fast-paced startup as a mid-level Data Analyst, where you'll drive business growth through data-driven insights and contribute to shaping our company's future. You'll work closely with cross-functional teams to unlock new opportunities and tell the story of our impact.",
+        "responsibilities": [
+          "Develop and maintain advanced analytics models to inform key business decisions",
+          "Design and execute A/B tests to measure the effectiveness of marketing campaigns and product features",
+          "Analyze customer behavior and preferences to identify trends and areas for improvement",
+          "Collaborate with stakeholders to develop data visualizations and dashboards that drive action",
+          "Stay up-to-date on industry trends and emerging technologies, applying new techniques to our business",
+          "Communicate complex data insights to both technical and non-technical audiences",
+          "Identify opportunities to increase data-driven decision-making across the organization"
+        ],
+        "requirements": [
+          "3+ years of experience in data analysis or a related field",
+          "Proven track record of using data to drive business growth and improvement",
+          "Advanced proficiency in Excel, SQL, and data visualization tools (e.g. Tableau)",
+          "Familiarity with statistical modeling techniques (e.g. regression, clustering) and machine learning algorithms",
+          "Experience working with large datasets and developing data pipelines",
+          "Strong communication and presentation skills, with ability to distill complex ideas into actionable insights",
+          "Ability to work in a fast-paced environment and prioritize multiple projects simultaneously"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Define Requirements & Create Job Description",
+        "Week 2: Sourcing - Utilize Social Media, Employee Referrals, and Online Platforms",
+        "Week 3: Screening - Initial Application Review & Async Video Screening",
+        "Week 4: Interviews - Technical & Culture Fit Assessments (In-Person or Remote)",
+        "Week 5: Reference Checks - Verifying Professional Qualifications",
+        "Week 6: Offer Extension - Salary Negotiation & Contract Preparation",
+        "Week 7-8: Onboarding - Welcome Package, Tech Setup, and Team Introduction"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Hiring Manager",
+        "Team Lead/Department Head",
+        "CEO/Hiring Committee",
+        "HR Specialist",
+        "Onboarding Coordinator"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nOur hiring initiative aims to bring on a mid-level Data Analyst who will drive business growth through data-driven insights and contribute to shaping our company's future. This role is crucial in unlocking new opportunities and telling the story of our impact.\n\n## Job Descriptions\n\n### **Data Analyst**\n\n**Summary:** Join our fast-paced startup as a mid-level Data Analyst, where you'll drive business growth through data-driven insights and contribute to shaping our company's future.\n\n**Key Responsibilities:**\n- Drive business growth through data-driven insights\n- Contribute to shaping the company's future\n- Work closely with cross-functional teams to unlock new opportunities\n\n**Requirements:**\n- 3+ years of experience in data analysis\n- Proven track record of driving business growth through data insights\n- Strong analytical and problem-solving skills\n- Excellent communication and collaboration skills\n\n**Compensation:** Competitive salary range $90,000 - $110,000 per year, depending on experience.\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n1. **Week 1: Define Requirements & Create Job Description** - *Owner: Hiring Manager*\n\t* Define the role's key responsibilities and requirements\n\t* Create a compelling job description to attract top talent\n2. **Week 2: Sourcing - Utilize Social Media, Employee Referrals, and Online Platforms** - *Owner: HR Specialist*\n\t* Leverage social media platforms (e.g., LinkedIn) to reach potential candidates\n\t* Utilize employee referrals and online job boards to expand the reach\n3. **Week 3: Screening - Initial Application Review & Async Video Screening** - *Owner: Hiring Manager*\n\t* Conduct initial application review to filter out unqualified candidates\n\t* Schedule async video screenings for shortlisted candidates\n4. **Week 4: Interviews - Technical & Culture Fit Assessments (In-Person or Remote)** - *Owner: Team Lead/Department Head*\n\t* Conduct in-person or remote interviews with top candidates\n\t* Assess technical skills and culture fit\n5. **Week 5: Reference Checks - Verifying Professional Qualifications** - *Owner: CEO/Hiring Committee*\n\t* Verify professional qualifications and work history of selected candidates\n\t* Conduct reference checks to ensure a good cultural fit\n6. **Week 6: Offer Extension - Salary Negotiation & Contract Preparation** - *Owner: HR Specialist*\n\t* Extend offers to top candidates, including salary negotiation and contract preparation\n7. **Week 7-8: Onboarding - Welcome Package, Tech Setup, and Team Introduction** - *Owner: Onboarding Coordinator*\n\t* Prepare a comprehensive onboarding package for new hires\n\t* Set up necessary technology and tools for the role\n\n## Next Steps\n\n* Review and refine the job description to ensure it accurately reflects the role's responsibilities and requirements.\n* Utilize employee referrals, social media, and online platforms to source top talent.\n* Schedule async video screenings and conduct technical and culture fit assessments for shortlisted candidates.\n\nNote: This report provides a comprehensive outline of the hiring process plan. Please review and refine as necessary to ensure a smooth and efficient hiring process.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "data analysis"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our fast-paced startup as a mid-level Data Analyst, where you'll drive business growth through data-driven insights and contribute to shaping our company's future. You'll work closely with cross-functional teams to unlock new opportunities and tell the story of our impact.",
+          "responsibilities": [
+            "Develop and maintain advanced analytics models to inform key business decisions",
+            "Design and execute A/B tests to measure the effectiveness of marketing campaigns and product features",
+            "Analyze customer behavior and preferences to identify trends and areas for improvement",
+            "Collaborate with stakeholders to develop data visualizations and dashboards that drive action",
+            "Stay up-to-date on industry trends and emerging technologies, applying new techniques to our business",
+            "Communicate complex data insights to both technical and non-technical audiences",
+            "Identify opportunities to increase data-driven decision-making across the organization"
+          ],
+          "requirements": [
+            "3+ years of experience in data analysis or a related field",
+            "Proven track record of using data to drive business growth and improvement",
+            "Advanced proficiency in Excel, SQL, and data visualization tools (e.g. Tableau)",
+            "Familiarity with statistical modeling techniques (e.g. regression, clustering) and machine learning algorithms",
+            "Experience working with large datasets and developing data pipelines",
+            "Strong communication and presentation skills, with ability to distill complex ideas into actionable insights",
+            "Ability to work in a fast-paced environment and prioritize multiple projects simultaneously"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Define Requirements & Create Job Description",
+          "Week 2: Sourcing - Utilize Social Media, Employee Referrals, and Online Platforms",
+          "Week 3: Screening - Initial Application Review & Async Video Screening",
+          "Week 4: Interviews - Technical & Culture Fit Assessments (In-Person or Remote)",
+          "Week 5: Reference Checks - Verifying Professional Qualifications",
+          "Week 6: Offer Extension - Salary Negotiation & Contract Preparation",
+          "Week 7-8: Onboarding - Welcome Package, Tech Setup, and Team Introduction"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Hiring Manager",
+          "Team Lead/Department Head",
+          "CEO/Hiring Committee",
+          "HR Specialist",
+          "Onboarding Coordinator"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Analyst"
+    ]
+  },
+  "timestamp": "2025-09-09T23:30:06.033456"
+}

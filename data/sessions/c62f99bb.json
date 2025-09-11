@@ -1,0 +1,217 @@
+{
+  "session_id": "c62f99bb",
+  "last_input": "help me hire a founding engineer and gen ai intenr",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Founding Engineer",
+        "summary": "Join our high-growth startup and be part of shaping our technical foundation from the ground up. As a Founding Engineer, you'll drive innovation, solve complex problems, and build scalable solutions that make a real impact.",
+        "responsibilities": [
+          "Own the design, development, and deployment of core infrastructure and systems",
+          "Collaborate with cross-functional teams to drive product roadmap and technical strategy",
+          "Develop and maintain high-quality, performant codebases that meet our scalability requirements",
+          "Mentor junior engineers and foster a culture of knowledge-sharing and growth",
+          "Stay up-to-date with industry trends and emerging technologies, applying them to our products and services",
+          "Participate in architecture review and ensure technical debt is managed proactively",
+          "Develop and maintain technical documentation and contribute to our community-driven engineering blog"
+        ],
+        "requirements": [
+          "5+ years of software development experience, with a strong background in systems engineering or related field",
+          "Proficiency in multiple programming languages (e.g. Python, Go, Rust) and willingness to learn new ones",
+          "Experience with cloud infrastructure (AWS, GCP, Azure) and containerization (Docker, Kubernetes)",
+          "Strong understanding of computer networks, protocols, and system security principles",
+          "Familiarity with agile development methodologies (e.g. Scrum, Kanban) and experience with version control systems (e.g. Git)",
+          "Excellent problem-solving skills, ability to prioritize tasks effectively, and strong communication skills",
+          "Bachelor's degree in Computer Science or related field; advanced degrees a plus"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      },
+      {
+        "title": "AI Engineer",
+        "summary": "Join our innovative team as a Generative AI Engineer and help us revolutionize the way we approach AI development. You'll work closely with our founders to design and build cutting-edge AI models that drive business growth. If you're passionate about AI, love solving complex problems, and thrive in fast-paced environments, this is your dream role.",
+        "responsibilities": [
+          "Develop and deploy scalable generative AI models that solve real-world problems",
+          "Collaborate with cross-functional teams to integrate AI into our product roadmap",
+          "Design and implement experiments to measure model performance and drive improvement",
+          "Stay up-to-date on the latest advancements in deep learning and apply them to our projects",
+          "Work closely with our data team to ensure high-quality, labeled datasets for model training",
+          "Develop and maintain documentation to facilitate knowledge-sharing across teams",
+          "Contribute to the development of our AI strategy and roadmap",
+          "Identify opportunities to apply AI to new areas within the company"
+        ],
+        "requirements": [
+          "5+ years of experience in deep learning, with a strong focus on generative models",
+          "Strong background in programming languages such as Python, TensorFlow, or PyTorch",
+          "Experience with cloud-based platforms (AWS, GCP, Azure) and containerization (Docker)",
+          "Familiarity with data storage solutions (e.g. S3, BigQuery)",
+          "Excellent problem-solving skills, with the ability to break down complex problems into manageable parts",
+          "Strong communication and collaboration skills, with experience working across teams and disciplines",
+          "Experience with agile development methodologies and version control systems (Git)",
+          "Bachelor's degree in Computer Science or related field"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize LinkedIn, Twitter, and industry-specific platforms to find top talent for Founding Engineer and Generative AI Engineer roles.",
+        "Week 2: Screening - Conduct asynchronous video screenings using a platform like Luma or SparkHire to evaluate candidate fit and technical skills.",
+        "Weeks 3-4: Interviews - Schedule in-person interviews with shortlisted candidates, focusing on behavioral questions and technical assessments for the Founding Engineer role.",
+        "Weeks 3-4: Skills Assessments - For the Generative AI Engineer role, conduct a hands-on coding challenge using platforms like HackerRank or CodeWars to evaluate their skills.",
+        "Week 5: Reference Checks - Verify candidate references through phone or video calls with previous managers or colleagues.",
+        "Weeks 6-7: Offer and Negotiation - Finalize job offers and negotiate compensation packages, considering market rates and company budget constraints.",
+        "Week 8: Onboarding - Plan a comprehensive onboarding process for the new hires, including team introductions, technical setup, and goal setting."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Team Lead (Founding Engineer)",
+        "Team Lead (Generative AI Engineer)",
+        "CEO/CTO",
+        "Hiring Manager/HR Specialist",
+        "Onboarding Coordinator"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Founding Engineer, AI Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Founding Engineer\n**Summary**: Join our high-growth startup and be part of shaping our technical foundation from the ground up. As a Founding Engineer, you'll drive innovation, solve complex problems, and build scalable solutions that make a real impact.\n**Key Responsibilities:**\n- Own the design, development, and deployment of core infrastructure and systems\n- Collaborate with cross-functional teams to drive product roadmap and technical strategy\n- Develop and maintain high-quality, performant codebases that meet our scalability requirements\n- Mentor junior engineers and foster a culture of knowledge-sharing and growth\n- Stay up-to-date with industry trends and emerging technologies, applying them to our products and services\n- Participate in architecture review and ensure technical debt is managed proactively\n- Develop and maintain technical documentation and contribute to our community-driven engineering blog\n**Requirements:**\n- 5+ years of software development experience, with a strong background in systems engineering or related field\n- Proficiency in multiple programming languages (e.g. Python, Go, Rust) and willingness to learn new ones\n- Experience with cloud infrastructure (AWS, GCP, Azure) and containerization (Docker, Kubernetes)\n- Strong understanding of computer networks, protocols, and system security principles\n- Familiarity with agile development methodologies (e.g. Scrum, Kanban) and experience with version control systems (e.g. Git)\n- Excellent problem-solving skills, ability to prioritize tasks effectively, and strong communication skills\n- Bachelor's degree in Computer Science or related field; advanced degrees a plus\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n### AI Engineer\n**Summary**: Join our innovative team as a Generative AI Engineer and help us revolutionize the way we approach AI development. You'll work closely with our founders to design and build cutting-edge AI models that drive business growth. If you're passionate about AI, love solving complex problems, and thrive in fast-paced environments, this is your dream role.\n**Key Responsibilities:**\n- Develop and deploy scalable generative AI models that solve real-world problems\n- Collaborate with cross-functional teams to integrate AI into our product roadmap\n- Design and implement experiments to measure model performance and drive improvement\n- Stay up-to-date on the latest advancements in deep learning and apply them to our projects\n- Work closely with our data team to ensure high-quality, labeled datasets for model training\n- Develop and maintain documentation to facilitate knowledge-sharing across teams\n- Contribute to the development of our AI strategy and roadmap\n- Identify opportunities to apply AI to new areas within the company\n**Requirements:**\n- 5+ years of experience in deep learning, with a strong focus on generative models\n- Strong background in programming languages such as Python, TensorFlow, or PyTorch\n- Experience with cloud-based platforms (AWS, GCP, Azure) and containerization (Docker)\n- Familiarity with data storage solutions (e.g. S3, BigQuery)\n- Excellent problem-solving skills, with the ability to break down complex problems into manageable parts\n- Strong communication and collaboration skills, with experience working across teams and disciplines\n- Experience with agile development methodologies and version control systems (Git)\n- Bachelor's degree in Computer Science or related field\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize LinkedIn, Twitter, and industry-specific platforms to find top talent for Founding Engineer and Generative AI Engineer roles.  \n   *Owner: Hiring Manager*\n2. Week 2: Screening - Conduct asynchronous video screenings using a platform like Luma or SparkHire to evaluate candidate fit and technical skills.  \n   *Owner: HR Specialist*\n3. Weeks 3-4: Interviews - Schedule in-person interviews with shortlisted candidates, focusing on behavioral questions and technical assessments for the Founding Engineer role.  \n   *Owner: Team Lead (Founding Engineer)*\n4. Weeks 3-4: Skills Assessments - For the Generative AI Engineer role, conduct a hands-on coding challenge using platforms like HackerRank or CodeWars to evaluate their skills.  \n   *Owner: Team Lead (Generative AI Engineer)*\n5. Week 5: Reference Checks - Verify candidate references through phone or video calls with previous managers or colleagues.  \n   *Owner: CEO/CTO*\n6. Weeks 6-7: Offer and Negotiation - Finalize job offers and negotiate compensation packages, considering market rates and company budget constraints.  \n   *Owner: Hiring Manager/HR Specialist*\n7. Week 8: Onboarding - Plan a comprehensive onboarding process for the new hires, including team introductions, technical setup, and goal setting.  \n   *Owner: Onboarding Coordinator*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Founding Engineer",
+          "Generative AI Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Founding Engineer",
+          "summary": "Join our high-growth startup and be part of shaping our technical foundation from the ground up. As a Founding Engineer, you'll drive innovation, solve complex problems, and build scalable solutions that make a real impact.",
+          "responsibilities": [
+            "Own the design, development, and deployment of core infrastructure and systems",
+            "Collaborate with cross-functional teams to drive product roadmap and technical strategy",
+            "Develop and maintain high-quality, performant codebases that meet our scalability requirements",
+            "Mentor junior engineers and foster a culture of knowledge-sharing and growth",
+            "Stay up-to-date with industry trends and emerging technologies, applying them to our products and services",
+            "Participate in architecture review and ensure technical debt is managed proactively",
+            "Develop and maintain technical documentation and contribute to our community-driven engineering blog"
+          ],
+          "requirements": [
+            "5+ years of software development experience, with a strong background in systems engineering or related field",
+            "Proficiency in multiple programming languages (e.g. Python, Go, Rust) and willingness to learn new ones",
+            "Experience with cloud infrastructure (AWS, GCP, Azure) and containerization (Docker, Kubernetes)",
+            "Strong understanding of computer networks, protocols, and system security principles",
+            "Familiarity with agile development methodologies (e.g. Scrum, Kanban) and experience with version control systems (e.g. Git)",
+            "Excellent problem-solving skills, ability to prioritize tasks effectively, and strong communication skills",
+            "Bachelor's degree in Computer Science or related field; advanced degrees a plus"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        },
+        {
+          "title": "AI Engineer",
+          "summary": "Join our innovative team as a Generative AI Engineer and help us revolutionize the way we approach AI development. You'll work closely with our founders to design and build cutting-edge AI models that drive business growth. If you're passionate about AI, love solving complex problems, and thrive in fast-paced environments, this is your dream role.",
+          "responsibilities": [
+            "Develop and deploy scalable generative AI models that solve real-world problems",
+            "Collaborate with cross-functional teams to integrate AI into our product roadmap",
+            "Design and implement experiments to measure model performance and drive improvement",
+            "Stay up-to-date on the latest advancements in deep learning and apply them to our projects",
+            "Work closely with our data team to ensure high-quality, labeled datasets for model training",
+            "Develop and maintain documentation to facilitate knowledge-sharing across teams",
+            "Contribute to the development of our AI strategy and roadmap",
+            "Identify opportunities to apply AI to new areas within the company"
+          ],
+          "requirements": [
+            "5+ years of experience in deep learning, with a strong focus on generative models",
+            "Strong background in programming languages such as Python, TensorFlow, or PyTorch",
+            "Experience with cloud-based platforms (AWS, GCP, Azure) and containerization (Docker)",
+            "Familiarity with data storage solutions (e.g. S3, BigQuery)",
+            "Excellent problem-solving skills, with the ability to break down complex problems into manageable parts",
+            "Strong communication and collaboration skills, with experience working across teams and disciplines",
+            "Experience with agile development methodologies and version control systems (Git)",
+            "Bachelor's degree in Computer Science or related field"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize LinkedIn, Twitter, and industry-specific platforms to find top talent for Founding Engineer and Generative AI Engineer roles.",
+          "Week 2: Screening - Conduct asynchronous video screenings using a platform like Luma or SparkHire to evaluate candidate fit and technical skills.",
+          "Weeks 3-4: Interviews - Schedule in-person interviews with shortlisted candidates, focusing on behavioral questions and technical assessments for the Founding Engineer role.",
+          "Weeks 3-4: Skills Assessments - For the Generative AI Engineer role, conduct a hands-on coding challenge using platforms like HackerRank or CodeWars to evaluate their skills.",
+          "Week 5: Reference Checks - Verify candidate references through phone or video calls with previous managers or colleagues.",
+          "Weeks 6-7: Offer and Negotiation - Finalize job offers and negotiate compensation packages, considering market rates and company budget constraints.",
+          "Week 8: Onboarding - Plan a comprehensive onboarding process for the new hires, including team introductions, technical setup, and goal setting."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Team Lead (Founding Engineer)",
+          "Team Lead (Generative AI Engineer)",
+          "CEO/CTO",
+          "Hiring Manager/HR Specialist",
+          "Onboarding Coordinator"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Founding Engineer",
+      "AI Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T20:53:47.130276"
+}

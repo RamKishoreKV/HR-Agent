@@ -1,0 +1,129 @@
+{
+  "session_id": "8ba71fa3",
+  "last_input": "help me hire ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "I Engineer",
+        "summary": "Join our innovative startup as an I Engineer, where you'll play a key role in shaping our cutting-edge software solutions and driving business growth. As a mid-level engineer, you'll have the autonomy to take ownership of complex projects and collaborate with cross-functional teams to deliver high-impact results.",
+        "responsibilities": [
+          "Design and implement scalable, efficient, and secure architecture for our cloud-based applications",
+          "Collaborate with product owners and designers to define requirements and specifications for new features",
+          "Develop and maintain high-quality code, following industry best practices and coding standards",
+          "Troubleshoot and resolve complex technical issues, minimizing downtime and ensuring seamless customer experiences",
+          "Contribute to the development of our technology roadmap, identifying opportunities for innovation and growth",
+          "Mentor junior engineers and provide guidance on software development methodologies and tools",
+          "Participate in code reviews and ensure adherence to coding standards and best practices",
+          "Stay up-to-date with emerging technologies and trends, applying new knowledge to drive business value"
+        ],
+        "requirements": [
+          "5+ years of experience as an I Engineer or similar role, with a proven track record of delivering high-quality software solutions",
+          "Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)",
+          "In-depth knowledge of cloud computing platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes)",
+          "Proficiency in programming languages such as Java, Python, C++, and Go (or other languages relevant to the role)",
+          "Experience with agile development methodologies and version control systems (Git, SVN)",
+          "Strong understanding of software design patterns, data structures, and algorithms",
+          "Excellent communication and collaboration skills, with ability to work effectively in a remote team environment",
+          "Self-motivated and proactive approach to problem-solving, with a focus on delivering high-quality results"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing and Initial Outreach (Utilize LinkedIn, Twitter, AngelList, and professional networks to source potential candidates)",
+        "Weeks 2-3: Screening and Async Video Interviews (Use platforms like Calendly or ScheduleOnce for video interviews, focusing on communication skills and company fit)",
+        "Week 4: Skills Assessment and Technical Evaluation (Develop a custom code challenge or use existing tools to assess technical capabilities)",
+        "Weeks 5-6: In-Person Interviews with Team Lead and Hiring Manager (Assess cultural fit and collaboration skills)",
+        "Week 7: Reference Checks (Verify candidate's previous work experience and performance)",
+        "Week 8: Offer Extension and Onboarding Preparation (Finalize offer details, prepare onboarding materials, and schedule an onboarding session)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative",
+        "Team Lead",
+        "Hiring Manager & Team Lead",
+        "CEO or Hiring Committee",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nThis hiring plan outlines the comprehensive process to hire a talented I Engineer to join our innovative startup's cutting-edge software solutions team. The successful candidate will play a key role in shaping our products and driving business growth.\n\n## Job Descriptions\n\n### I Engineer\n**Summary:** Join our dynamic team as an I Engineer, where you'll contribute to designing and developing high-impact software solutions that drive business growth.\n\n**Key Responsibilities:**\n- Design and develop cutting-edge software solutions that meet the company's needs.\n- Collaborate with cross-functional teams to deliver high-quality results.\n- Take ownership of complex projects from conception to delivery.\n\n**Requirements:**\n- 3+ years of experience in software engineering, preferably with a focus on AI or related technologies.\n- Strong understanding of software development principles and best practices.\n- Excellent problem-solving skills and ability to learn quickly.\n\n**Compensation:** Competitive salary and equity package offered based on experience and qualifications.\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n1. **Weeks 1-2: Sourcing and Initial Outreach**\n\t* Owner: Hiring Manager & HR Representative\n\t* Utilize LinkedIn, Twitter, AngelList, and professional networks to source potential candidates.\n2. **Weeks 2-3: Screening and Async Video Interviews**\n\t* Owner: Team Lead & Hiring Manager\n\t* Use platforms like Calendly or ScheduleOnce for video interviews, focusing on communication skills and company fit.\n3. **Week 4: Skills Assessment and Technical Evaluation**\n\t* Owner: Hiring Manager & Team Lead\n\t* Develop a custom code challenge or use existing tools to assess technical capabilities.\n4. **Weeks 5-6: In-Person Interviews with Team Lead and Hiring Manager**\n\t* Owner: CEO or Hiring Committee (in absence of hiring manager)\n\t* Assess cultural fit and collaboration skills.\n5. **Week 7: Reference Checks**\n\t* Owner: Hiring Manager\n\t* Verify candidate's previous work experience and performance.\n6. **Week 8: Offer Extension and Onboarding Preparation**\n\t* Owner: Hiring Manager & HR Representative\n\t* Finalize offer details, prepare onboarding materials, and schedule an onboarding session.\n\n## Next Steps\n\n* Review the hiring plan with all stakeholders to ensure everyone is aligned.\n* Begin sourcing potential candidates through professional networks and job boards.\n* Schedule async video interviews for selected candidates in weeks 2-3.\n* Prepare a custom code challenge or use existing tools for technical evaluation in week 4.\n\nThis comprehensive hiring plan will help our team find the best fit for the I Engineer role, ensuring we bring on top talent that drives business growth and innovation.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "I Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "I Engineer",
+          "summary": "Join our innovative startup as an I Engineer, where you'll play a key role in shaping our cutting-edge software solutions and driving business growth. As a mid-level engineer, you'll have the autonomy to take ownership of complex projects and collaborate with cross-functional teams to deliver high-impact results.",
+          "responsibilities": [
+            "Design and implement scalable, efficient, and secure architecture for our cloud-based applications",
+            "Collaborate with product owners and designers to define requirements and specifications for new features",
+            "Develop and maintain high-quality code, following industry best practices and coding standards",
+            "Troubleshoot and resolve complex technical issues, minimizing downtime and ensuring seamless customer experiences",
+            "Contribute to the development of our technology roadmap, identifying opportunities for innovation and growth",
+            "Mentor junior engineers and provide guidance on software development methodologies and tools",
+            "Participate in code reviews and ensure adherence to coding standards and best practices",
+            "Stay up-to-date with emerging technologies and trends, applying new knowledge to drive business value"
+          ],
+          "requirements": [
+            "5+ years of experience as an I Engineer or similar role, with a proven track record of delivering high-quality software solutions",
+            "Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)",
+            "In-depth knowledge of cloud computing platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes)",
+            "Proficiency in programming languages such as Java, Python, C++, and Go (or other languages relevant to the role)",
+            "Experience with agile development methodologies and version control systems (Git, SVN)",
+            "Strong understanding of software design patterns, data structures, and algorithms",
+            "Excellent communication and collaboration skills, with ability to work effectively in a remote team environment",
+            "Self-motivated and proactive approach to problem-solving, with a focus on delivering high-quality results"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing and Initial Outreach (Utilize LinkedIn, Twitter, AngelList, and professional networks to source potential candidates)",
+          "Weeks 2-3: Screening and Async Video Interviews (Use platforms like Calendly or ScheduleOnce for video interviews, focusing on communication skills and company fit)",
+          "Week 4: Skills Assessment and Technical Evaluation (Develop a custom code challenge or use existing tools to assess technical capabilities)",
+          "Weeks 5-6: In-Person Interviews with Team Lead and Hiring Manager (Assess cultural fit and collaboration skills)",
+          "Week 7: Reference Checks (Verify candidate's previous work experience and performance)",
+          "Week 8: Offer Extension and Onboarding Preparation (Finalize offer details, prepare onboarding materials, and schedule an onboarding session)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative",
+          "Team Lead",
+          "Hiring Manager & Team Lead",
+          "CEO or Hiring Committee",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "I Engineer"
+    ]
+  },
+  "timestamp": "2025-09-09T23:53:44.443375"
+}

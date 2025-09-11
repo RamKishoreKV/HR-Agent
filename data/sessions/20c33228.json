@@ -1,0 +1,141 @@
+{
+  "session_id": "20c33228",
+  "last_input": "yes helpme hire data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Senior Data Analyst, where you'll drive data-driven decision making and help us scale our business exponentially. As a key member of our analytics team, you'll have the opportunity to shape our data strategy, develop cutting-edge insights, and make a meaningful impact on our company's trajectory.",
+        "responsibilities": [
+          "Develop and maintain robust data models, ensuring accurate and efficient data analysis",
+          "Design and implement data visualizations using Tableau, driving business outcomes through storytelling and insights",
+          "Collaborate with cross-functional teams to inform product development, marketing strategies, and operational improvements",
+          "Analyze complex datasets, identifying trends, patterns, and correlations that drive business growth",
+          "Develop and maintain advanced SAS programs for data manipulation, reporting, and analysis",
+          "Stay up-to-date on industry trends, methodologies, and best practices, applying them to our analytics ecosystem",
+          "Communicate technical findings and insights to non-technical stakeholders, ensuring data-driven decision making across the organization"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "2+ years of relevant experience",
+          "Minimum 3+ years of experience as a Senior Data Analyst in a fast-paced startup or equivalent environment",
+          "Mastery of SAS programming language, with hands-on experience developing and maintaining complex datasets",
+          "Advanced knowledge of Tableau for data visualization, including dashboards, reports, and ad-hoc analysis",
+          "Proficiency in SQL for data manipulation, querying, and analysis",
+          "Experience working with cloud-based data platforms (e.g., AWS, Google Cloud) a plus",
+          "Strong analytical and problem-solving skills, with ability to distill complex insights into actionable recommendations",
+          "Excellent communication and stakeholder management skills, with ability to convey technical concepts to non-technical audiences"
+        ],
+        "compensation_note": "50k–70k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Sourcing: Utilize social media, job boards, and employee referrals to find top Data Analyst candidates",
+        "Async Video Screening: Conduct initial screening of applicants via pre-recorded videos (max 30 minutes) to assess communication skills and fit",
+        "Skills Assessment: Develop a short online assessment (1-2 hours) to evaluate technical skills and problem-solving abilities",
+        "Phone or Zoom Interviews: Schedule in-depth interviews with top candidates to delve into their experience, qualifications, and company culture fit",
+        "Reference Checks: Conduct thorough reference checks with previous employers or clients to verify candidate's work history and performance",
+        "Offer Extension: Extend an offer to the selected candidate, including salary, benefits, and onboarding details",
+        "Onboarding: Plan a comprehensive onboarding process for the new hire, including paperwork, training, and integration into the team"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative",
+        "Team Lead (Data Analyst)",
+        "CEO/Founder",
+        "Hiring Manager",
+        "CEO/Founder",
+        "HR Representative"
+      ],
+      "timeline_weeks": 1
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nThis comprehensive hiring plan outlines the process to recruit a Senior Data Analyst for our high-growth startup. The selected candidate will drive data-driven decision making and contribute significantly to scaling our business.\n\n## Job Descriptions\n\n### Data Analyst\n\n**Summary:** Join our team as a Senior Data Analyst, where you'll have the opportunity to shape our data strategy, develop cutting-edge insights, and make a meaningful impact on our company's trajectory.\n\n**Key Responsibilities:**\n\n* Drive data-driven decision making across the organization\n* Develop and maintain data pipelines, dashboards, and reports\n* Collaborate with cross-functional teams to inform business strategies\n\n**Requirements:**\n\n* 3+ years of experience in data analysis or related field\n* Proven track record of delivering high-impact insights and recommendations\n* Strong understanding of statistical concepts and data modeling techniques\n\n**Compensation:** Salary range $80,000 - $110,000 per year, depending on experience.\n\n## Hiring Process Plan\n\n**Timeline:** 1 week\n\n**Process Steps:**\n\n1. **Sourcing**: Utilize social media, job boards, and employee referrals to find top Data Analyst candidates - *Owner: Hiring Manager*\n2. **Async Video Screening**: Conduct initial screening of applicants via pre-recorded videos (max 30 minutes) to assess communication skills and fit - *Owner: HR Representative*\n3. **Skills Assessment**: Develop a short online assessment (1-2 hours) to evaluate technical skills and problem-solving abilities - *Owner: Team Lead (Data Analyst)*\n4. **Phone or Zoom Interviews**: Schedule in-depth interviews with top candidates to delve into their experience, qualifications, and company culture fit - *Owner: CEO/Founder*\n5. **Reference Checks**: Conduct thorough reference checks with previous employers or clients to verify candidate's work history and performance - *Owner: HR Representative*\n6. **Offer Extension**: Extend an offer to the selected candidate, including salary, benefits, and onboarding details - *Owner: Hiring Manager*\n7. **Onboarding**: Plan a comprehensive onboarding process for the new hire, including paperwork, training, and integration into the team - *Owner: HR Representative*\n\n## Next Steps\n\n* Share this hiring plan with all stakeholders to ensure alignment\n* Begin sourcing candidates via social media, job boards, and employee referrals\n* Develop the online skills assessment and schedule Async Video Screenings for top applicants",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 1,
+        "budget_range": "competitive",
+        "seniority": "senior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "sas",
+          "tableau",
+          "sql"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Senior Data Analyst, where you'll drive data-driven decision making and help us scale our business exponentially. As a key member of our analytics team, you'll have the opportunity to shape our data strategy, develop cutting-edge insights, and make a meaningful impact on our company's trajectory.",
+          "responsibilities": [
+            "Develop and maintain robust data models, ensuring accurate and efficient data analysis",
+            "Design and implement data visualizations using Tableau, driving business outcomes through storytelling and insights",
+            "Collaborate with cross-functional teams to inform product development, marketing strategies, and operational improvements",
+            "Analyze complex datasets, identifying trends, patterns, and correlations that drive business growth",
+            "Develop and maintain advanced SAS programs for data manipulation, reporting, and analysis",
+            "Stay up-to-date on industry trends, methodologies, and best practices, applying them to our analytics ecosystem",
+            "Communicate technical findings and insights to non-technical stakeholders, ensuring data-driven decision making across the organization"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "2+ years of relevant experience",
+            "Minimum 3+ years of experience as a Senior Data Analyst in a fast-paced startup or equivalent environment",
+            "Mastery of SAS programming language, with hands-on experience developing and maintaining complex datasets",
+            "Advanced knowledge of Tableau for data visualization, including dashboards, reports, and ad-hoc analysis",
+            "Proficiency in SQL for data manipulation, querying, and analysis",
+            "Experience working with cloud-based data platforms (e.g., AWS, Google Cloud) a plus",
+            "Strong analytical and problem-solving skills, with ability to distill complex insights into actionable recommendations",
+            "Excellent communication and stakeholder management skills, with ability to convey technical concepts to non-technical audiences"
+          ],
+          "compensation_note": "50k–70k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Sourcing: Utilize social media, job boards, and employee referrals to find top Data Analyst candidates",
+          "Async Video Screening: Conduct initial screening of applicants via pre-recorded videos (max 30 minutes) to assess communication skills and fit",
+          "Skills Assessment: Develop a short online assessment (1-2 hours) to evaluate technical skills and problem-solving abilities",
+          "Phone or Zoom Interviews: Schedule in-depth interviews with top candidates to delve into their experience, qualifications, and company culture fit",
+          "Reference Checks: Conduct thorough reference checks with previous employers or clients to verify candidate's work history and performance",
+          "Offer Extension: Extend an offer to the selected candidate, including salary, benefits, and onboarding details",
+          "Onboarding: Plan a comprehensive onboarding process for the new hire, including paperwork, training, and integration into the team"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative",
+          "Team Lead (Data Analyst)",
+          "CEO/Founder",
+          "Hiring Manager",
+          "CEO/Founder",
+          "HR Representative"
+        ],
+        "timeline_weeks": 1
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 1,
+    "budget_range": "competitive",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "sas",
+      "tableau",
+      "sql"
+    ],
+    "roles": [
+      "Data Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T16:29:21.906673"
+}

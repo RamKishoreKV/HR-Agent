@@ -1,0 +1,263 @@
+{
+  "session_id": "b102bc8f",
+  "last_input": "generate a  data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our fast-paced startup as a mid-level Data Analyst and drive business decisions with data-driven insights! You'll be part of a growth-minded team that's passionate about using data to create impact. If you're excited about working remotely, collaborating with a dynamic group, and making a real difference, we want to hear from you!",
+        "responsibilities": [
+          "Deliver actionable insights that inform product development and business strategy",
+          "Develop and maintain complex SQL queries to extract meaningful data from large datasets",
+          "Create engaging visualizations using Tableau to communicate findings to stakeholders",
+          "Conduct statistical analysis to identify trends, patterns, and correlations",
+          "Collaborate with cross-functional teams to prioritize data requests and drive project timelines",
+          "Design and implement A/B testing experiments to measure the impact of business decisions",
+          "Stay up-to-date on industry trends and best practices in data analysis and visualization"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Analyst or related role",
+          "Strong foundation in statistical knowledge, including descriptive statistics and hypothesis testing",
+          "Proficiency in SQL query writing (T-SQL/PL SQL) and data visualization tools (Tableau)",
+          "Experience with Microsoft Office Suite, particularly Excel for data analysis and PowerPoint for presentations",
+          "Ability to communicate complex data insights to non-technical stakeholders",
+          "Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud) a plus",
+          "Strong problem-solving skills and attention to detail",
+          "Comfortable working in a fast-paced environment with multiple projects ongoing"
+        ],
+        "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      },
+      {
+        "title": "Business Intelligence Developer",
+        "summary": "Join our fast-paced startup team and drive business growth through data-driven insights! As a Business Intelligence Developer, you'll design and implement data visualizations that inform strategic decisions and propel our company forward. If you're passionate about data storytelling and have a knack for analysis, we want to hear from you!",
+        "responsibilities": [
+          "Develop and maintain comprehensive business intelligence solutions using Tableau, SQL, and Microsoft Office Suite",
+          "Create interactive dashboards and reports that provide actionable insights to stakeholders",
+          "Design and implement data visualization best practices to communicate complex information effectively",
+          "Collaborate with cross-functional teams to identify business needs and develop targeted analytics solutions",
+          "Develop and maintain data pipelines to ensure timely and accurate data delivery",
+          "Stay up-to-date on industry trends and emerging technologies, applying knowledge to drive innovation within the company"
+        ],
+        "requirements": [
+          "3+ years of experience in Business Intelligence development or a related field",
+          "Proven expertise in SQL query writing (T-SQL/PL SQL) and data analysis and interpretation",
+          "Advanced skills in Tableau and Microsoft Office Suite, with ability to learn new tools quickly",
+          "Strong statistical knowledge, including descriptive statistics and hypothesis testing",
+          "Excellent communication and collaboration skills, with experience working with stakeholders at all levels",
+          "Bachelor's degree in Computer Science, Statistics, or a related field"
+        ],
+        "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      },
+      {
+        "title": "Sql Analyst",
+        "summary": "Join our fast-paced startup as a SQL Analyst, where you'll play a key role in shaping our data-driven decision-making process. As an impact-driven team member, you'll have the autonomy to design and implement data analysis solutions that drive growth and innovation. If you're passionate about data and eager for a new challenge, we want to hear from you!",
+        "responsibilities": [
+          "Develop and maintain complex SQL queries to extract insights from our databases",
+          "Design and implement data visualizations using Tableau to communicate key findings to stakeholders",
+          "Collaborate with cross-functional teams to identify business needs and develop data-driven solutions",
+          "Analyze large datasets to identify trends, patterns, and areas for improvement",
+          "Create detailed reports and presentations using Microsoft Office Suite to share insights with leadership and stakeholders",
+          "Conduct statistical analysis to validate assumptions and inform business decisions",
+          "Develop and maintain a deep understanding of our database schema and data architecture",
+          "Stay up-to-date on industry trends and best practices in data analysis and visualization"
+        ],
+        "requirements": [
+          "3+ years of experience as a SQL Analyst or similar role",
+          "Advanced knowledge of SQL query writing (T-SQL/PL SQL) and data modeling",
+          "Proficiency in Microsoft Office Suite, particularly Excel",
+          "Experience with statistical software (e.g. R, Python) and/or programming languages (e.g. Python)",
+          "Strong analytical and problem-solving skills, with a focus on delivering high-quality insights",
+          "Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+          "Ability to work independently in a remote setting and prioritize tasks effectively",
+          "Experience with data visualization tools (e.g. Tableau) and presentation software (e.g. PowerPoint)",
+          "Strong understanding of statistical concepts (e.g. descriptive statistics, hypothesis testing)"
+        ],
+        "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Define job descriptions and requirements, create job postings (Hiring Manager & Team Lead)",
+        "Weeks 3-4: Sourcing via social media, employee referrals, and online platforms (HR & Marketing), Async video screening for initial assessment (Hiring Manager)",
+        "Weeks 5-6: Skills assessments (e.g., coding challenges) and follow-up async interviews with top candidates (Team Lead & Hiring Manager)",
+        "Weeks 7-8: In-person or remote final interviews, reference checks, and offer extension to selected candidate (CEO & HR)",
+        "Week 8: Onboarding process begins (HR)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR & Marketing",
+        "Team Lead & Hiring Manager",
+        "CEO & HR",
+        "HR"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst, Business Intelligence Developer, Sql Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n#### Summary\nJoin our fast-paced startup as a mid-level Data Analyst and drive business decisions with data-driven insights! You'll be part of a growth-minded team that's passionate about using data to create impact. If you're excited about working remotely, collaborating with a dynamic group, and making a real difference, we want to hear from you!\n#### Key Responsibilities\n- Deliver actionable insights that inform product development and business strategy\n- Develop and maintain complex SQL queries to extract meaningful data from large datasets\n- Create engaging visualizations using Tableau to communicate findings to stakeholders\n- Conduct statistical analysis to identify trends, patterns, and correlations\n- Collaborate with cross-functional teams to prioritize data requests and drive project timelines\n- Design and implement A/B testing experiments to measure the impact of business decisions\n- Stay up-to-date on industry trends and best practices in data analysis and visualization\n#### Requirements\n- 3+ years of experience as a Data Analyst or related role\n- Strong foundation in statistical knowledge, including descriptive statistics and hypothesis testing\n- Proficiency in SQL query writing (T-SQL/PL SQL) and data visualization tools (Tableau)\n- Experience with Microsoft Office Suite, particularly Excel for data analysis and PowerPoint for presentations\n- Ability to communicate complex data insights to non-technical stakeholders\n- Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud) a plus\n- Strong problem-solving skills and attention to detail\n- Comfortable working in a fast-paced environment with multiple projects ongoing\n**Compensation:** $120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n### Business Intelligence Developer\n#### Summary\nJoin our fast-paced startup team and drive business growth through data-driven insights! As a Business Intelligence Developer, you'll design and implement data visualizations that inform strategic decisions and propel our company forward. If you're passionate about data storytelling and have a knack for analysis, we want to hear from you!\n#### Key Responsibilities\n- Develop and maintain comprehensive business intelligence solutions using Tableau, SQL, and Microsoft Office Suite\n- Create interactive dashboards and reports that provide actionable insights to stakeholders\n- Design and implement data visualization best practices to communicate complex information effectively\n- Collaborate with cross-functional teams to identify business needs and develop targeted analytics solutions\n- Develop and maintain data pipelines to ensure timely and accurate data delivery\n- Stay up-to-date on industry trends and emerging technologies, applying knowledge to drive innovation within the company\n#### Requirements\n- 3+ years of experience in Business Intelligence development or a related field\n- Proven expertise in SQL query writing (T-SQL/PL SQL) and data analysis and interpretation\n- Advanced skills in Tableau and Microsoft Office Suite, with ability to learn new tools quickly\n- Strong statistical knowledge, including descriptive statistics and hypothesis testing\n- Excellent communication and collaboration skills, with experience working with stakeholders at all levels\n- Bachelor's degree in Computer Science, Statistics, or a related field\n**Compensation:** $120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n### Sql Analyst\n#### Summary\nJoin our fast-paced startup as a SQL Analyst, where you'll play a key role in shaping our data-driven decision-making process. As an impact-driven team member, you'll have the autonomy to design and implement data analysis solutions that drive growth and innovation. If you're passionate about data and eager for a new challenge, we want to hear from you!\n#### Key Responsibilities\n- Develop and maintain complex SQL queries to extract insights from our databases\n- Design and implement data visualizations using Tableau to communicate key findings to stakeholders\n- Collaborate with cross-functional teams to identify business needs and develop data-driven solutions\n- Analyze large datasets to identify trends, patterns, and areas for improvement\n- Create detailed reports and presentations using Microsoft Office Suite to share insights with leadership and stakeholders\n- Conduct statistical analysis to validate assumptions and inform business decisions\n- Develop and maintain a deep understanding of our database schema and data architecture\n- Stay up-to-date on industry trends and best practices in data analysis and visualization\n#### Requirements\n- 3+ years of experience as a SQL Analyst or similar role\n- Advanced knowledge of SQL query writing (T-SQL/PL SQL) and data modeling\n- Proficiency in Microsoft Office Suite, particularly Excel\n- Experience with statistical software (e.g. R, Python) and/or programming languages (e.g. Python)\n- Strong analytical and problem-solving skills, with a focus on delivering high-quality insights\n- Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams\n- Ability to work independently in a remote setting and prioritize tasks effectively\n- Experience with data visualization tools (e.g. Tableau) and presentation software (e.g. PowerPoint)\n- Strong understanding of statistical concepts (e.g. descriptive statistics, hypothesis testing)\n**Compensation:** $120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Define job descriptions and requirements, create job postings (Hiring Manager & Team Lead)  \n   *Owner: Hiring Manager*\n2. Weeks 3-4: Sourcing via social media, employee referrals, and online platforms (HR & Marketing), Async video screening for initial assessment (Hiring Manager)  \n   *Owner: HR & Marketing*\n3. Weeks 5-6: Skills assessments (e.g., coding challenges) and follow-up async interviews with top candidates (Team Lead & Hiring Manager)  \n   *Owner: Team Lead & Hiring Manager*\n4. Weeks 7-8: In-person or remote final interviews, reference checks, and offer extension to selected candidate (CEO & HR)  \n   *Owner: CEO & HR*\n5. Week 8: Onboarding process begins (HR)  \n   *Owner: HR*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Data Analysis and Interpretation, Data Visualization (Tableau/Presentation), SQL Query Writing (T-SQL/PL SQL)? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Data Analysis and Interpretation. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "$120k",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Data Analysis and Interpretation",
+          "Data Visualization (Tableau/Presentation)",
+          "SQL Query Writing (T-SQL/PL SQL)",
+          "Microsoft Office Suite (Excel, Word, PowerPoint)",
+          "Statistical Knowledge (Descriptive Statistics, Hypothesis Testing)"
+        ],
+        "roles": [
+          "Data Analyst",
+          "Business Intelligence Developer",
+          "Sql Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our fast-paced startup as a mid-level Data Analyst and drive business decisions with data-driven insights! You'll be part of a growth-minded team that's passionate about using data to create impact. If you're excited about working remotely, collaborating with a dynamic group, and making a real difference, we want to hear from you!",
+          "responsibilities": [
+            "Deliver actionable insights that inform product development and business strategy",
+            "Develop and maintain complex SQL queries to extract meaningful data from large datasets",
+            "Create engaging visualizations using Tableau to communicate findings to stakeholders",
+            "Conduct statistical analysis to identify trends, patterns, and correlations",
+            "Collaborate with cross-functional teams to prioritize data requests and drive project timelines",
+            "Design and implement A/B testing experiments to measure the impact of business decisions",
+            "Stay up-to-date on industry trends and best practices in data analysis and visualization"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Analyst or related role",
+            "Strong foundation in statistical knowledge, including descriptive statistics and hypothesis testing",
+            "Proficiency in SQL query writing (T-SQL/PL SQL) and data visualization tools (Tableau)",
+            "Experience with Microsoft Office Suite, particularly Excel for data analysis and PowerPoint for presentations",
+            "Ability to communicate complex data insights to non-technical stakeholders",
+            "Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud) a plus",
+            "Strong problem-solving skills and attention to detail",
+            "Comfortable working in a fast-paced environment with multiple projects ongoing"
+          ],
+          "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        },
+        {
+          "title": "Business Intelligence Developer",
+          "summary": "Join our fast-paced startup team and drive business growth through data-driven insights! As a Business Intelligence Developer, you'll design and implement data visualizations that inform strategic decisions and propel our company forward. If you're passionate about data storytelling and have a knack for analysis, we want to hear from you!",
+          "responsibilities": [
+            "Develop and maintain comprehensive business intelligence solutions using Tableau, SQL, and Microsoft Office Suite",
+            "Create interactive dashboards and reports that provide actionable insights to stakeholders",
+            "Design and implement data visualization best practices to communicate complex information effectively",
+            "Collaborate with cross-functional teams to identify business needs and develop targeted analytics solutions",
+            "Develop and maintain data pipelines to ensure timely and accurate data delivery",
+            "Stay up-to-date on industry trends and emerging technologies, applying knowledge to drive innovation within the company"
+          ],
+          "requirements": [
+            "3+ years of experience in Business Intelligence development or a related field",
+            "Proven expertise in SQL query writing (T-SQL/PL SQL) and data analysis and interpretation",
+            "Advanced skills in Tableau and Microsoft Office Suite, with ability to learn new tools quickly",
+            "Strong statistical knowledge, including descriptive statistics and hypothesis testing",
+            "Excellent communication and collaboration skills, with experience working with stakeholders at all levels",
+            "Bachelor's degree in Computer Science, Statistics, or a related field"
+          ],
+          "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        },
+        {
+          "title": "Sql Analyst",
+          "summary": "Join our fast-paced startup as a SQL Analyst, where you'll play a key role in shaping our data-driven decision-making process. As an impact-driven team member, you'll have the autonomy to design and implement data analysis solutions that drive growth and innovation. If you're passionate about data and eager for a new challenge, we want to hear from you!",
+          "responsibilities": [
+            "Develop and maintain complex SQL queries to extract insights from our databases",
+            "Design and implement data visualizations using Tableau to communicate key findings to stakeholders",
+            "Collaborate with cross-functional teams to identify business needs and develop data-driven solutions",
+            "Analyze large datasets to identify trends, patterns, and areas for improvement",
+            "Create detailed reports and presentations using Microsoft Office Suite to share insights with leadership and stakeholders",
+            "Conduct statistical analysis to validate assumptions and inform business decisions",
+            "Develop and maintain a deep understanding of our database schema and data architecture",
+            "Stay up-to-date on industry trends and best practices in data analysis and visualization"
+          ],
+          "requirements": [
+            "3+ years of experience as a SQL Analyst or similar role",
+            "Advanced knowledge of SQL query writing (T-SQL/PL SQL) and data modeling",
+            "Proficiency in Microsoft Office Suite, particularly Excel",
+            "Experience with statistical software (e.g. R, Python) and/or programming languages (e.g. Python)",
+            "Strong analytical and problem-solving skills, with a focus on delivering high-quality insights",
+            "Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+            "Ability to work independently in a remote setting and prioritize tasks effectively",
+            "Experience with data visualization tools (e.g. Tableau) and presentation software (e.g. PowerPoint)",
+            "Strong understanding of statistical concepts (e.g. descriptive statistics, hypothesis testing)"
+          ],
+          "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Define job descriptions and requirements, create job postings (Hiring Manager & Team Lead)",
+          "Weeks 3-4: Sourcing via social media, employee referrals, and online platforms (HR & Marketing), Async video screening for initial assessment (Hiring Manager)",
+          "Weeks 5-6: Skills assessments (e.g., coding challenges) and follow-up async interviews with top candidates (Team Lead & Hiring Manager)",
+          "Weeks 7-8: In-person or remote final interviews, reference checks, and offer extension to selected candidate (CEO & HR)",
+          "Week 8: Onboarding process begins (HR)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR & Marketing",
+          "Team Lead & Hiring Manager",
+          "CEO & HR",
+          "HR"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Data Analysis and Interpretation, Data Visualization (Tableau/Presentation), SQL Query Writing (T-SQL/PL SQL)? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Data Analysis and Interpretation. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "$120k",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Analyst",
+      "Business Intelligence Developer",
+      "Sql Analyst"
+    ]
+  },
+  "timestamp": "2025-09-11T17:45:09.251603"
+}

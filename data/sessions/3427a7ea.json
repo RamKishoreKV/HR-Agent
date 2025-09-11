@@ -1,0 +1,123 @@
+{
+  "session_id": "3427a7ea",
+  "last_input": "help me hire gen ai inten",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Gen Ai Engineer Inten",
+        "summary": "Join our cutting-edge AI team as we revolutionize the industry with innovative solutions! As a Gen Ai Engineer, you will play a pivotal role in developing and deploying AI models that drive business growth. If you're passionate about AI and want to be part of a fast-paced, impact-driven environment, let's connect!",
+        "responsibilities": [
+          "Design and develop high-performance AI/ML models using cutting-edge techniques and technologies",
+          "Collaborate with cross-functional teams to integrate AI solutions into our product roadmap",
+          "Develop and maintain large-scale data pipelines for efficient model training and deployment",
+          "Conduct experiments, analyze results, and communicate insights to inform AI strategy and decision-making",
+          "Stay up-to-date with the latest advancements in AI/ML research and apply knowledge to improve our models",
+          "Develop and implement robust testing and validation procedures for AI models",
+          "Work closely with product teams to understand business requirements and develop tailored AI solutions"
+        ],
+        "requirements": [
+          "3+ years of experience in AI engineering, with a focus on developing and deploying high-performance AI/ML models",
+          "Proven expertise in deep learning frameworks (TensorFlow, PyTorch) and large-scale data processing tools (Apache Spark)",
+          "Bachelor's or Master's degree in Computer Science, Engineering, or related field",
+          "Experience with containerization (Docker), orchestration (Kubernetes), and cloud platforms (AWS, GCP)",
+          "Strong understanding of software development principles, including agile methodologies and version control systems",
+          "Excellent communication and collaboration skills, with the ability to work effectively in a remote environment"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize LinkedIn, industry-specific platforms and employee referrals to find top Gen AI Engineer candidates",
+        "Week 1: Screening - Implement async video screening using a platform like HireVue to quickly assess candidate fit and experience",
+        "Week 2: Technical Skills Assessment - Develop a coding challenge or skills assessment using a tool like HackerRank to evaluate technical abilities",
+        "Week 2: Interviews - Conduct a series of in-person interviews with key team members, including the Team Lead and CEO",
+        "Week 2: Reference Checks - Verify candidate references through phone or video calls",
+        "Week 2: Offer Extension - Prepare and extend offer to selected candidate"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist",
+        "Team Lead",
+        "CEO",
+        "HR Specialist",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Gen Ai Engineer Inten**. The target timeline is **2 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Gen Ai Engineer Inten\n**Summary**: Join our cutting-edge AI team as we revolutionize the industry with innovative solutions! As a Gen Ai Engineer, you will play a pivotal role in developing and deploying AI models that drive business growth. If you're passionate about AI and want to be part of a fast-paced, impact-driven environment, let's connect!\n**Key Responsibilities:**\n- Design and develop high-performance AI/ML models using cutting-edge techniques and technologies\n- Collaborate with cross-functional teams to integrate AI solutions into our product roadmap\n- Develop and maintain large-scale data pipelines for efficient model training and deployment\n- Conduct experiments, analyze results, and communicate insights to inform AI strategy and decision-making\n- Stay up-to-date with the latest advancements in AI/ML research and apply knowledge to improve our models\n- Develop and implement robust testing and validation procedures for AI models\n- Work closely with product teams to understand business requirements and develop tailored AI solutions\n**Requirements:**\n- 3+ years of experience in AI engineering, with a focus on developing and deploying high-performance AI/ML models\n- Proven expertise in deep learning frameworks (TensorFlow, PyTorch) and large-scale data processing tools (Apache Spark)\n- Bachelor's or Master's degree in Computer Science, Engineering, or related field\n- Experience with containerization (Docker), orchestration (Kubernetes), and cloud platforms (AWS, GCP)\n- Strong understanding of software development principles, including agile methodologies and version control systems\n- Excellent communication and collaboration skills, with the ability to work effectively in a remote environment\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 2 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize LinkedIn, industry-specific platforms and employee referrals to find top Gen AI Engineer candidates  \n   *Owner: Hiring Manager*\n2. Week 1: Screening - Implement async video screening using a platform like HireVue to quickly assess candidate fit and experience  \n   *Owner: HR Specialist*\n3. Week 2: Technical Skills Assessment - Develop a coding challenge or skills assessment using a tool like HackerRank to evaluate technical abilities  \n   *Owner: Team Lead*\n4. Week 2: Interviews - Conduct a series of in-person interviews with key team members, including the Team Lead and CEO  \n   *Owner: CEO*\n5. Week 2: Reference Checks - Verify candidate references through phone or video calls  \n   *Owner: HR Specialist*\n6. Week 2: Offer Extension - Prepare and extend offer to selected candidate  \n   *Owner: Hiring Manager*\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "intern",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Gen Ai Engineer Inten"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Gen Ai Engineer Inten",
+          "summary": "Join our cutting-edge AI team as we revolutionize the industry with innovative solutions! As a Gen Ai Engineer, you will play a pivotal role in developing and deploying AI models that drive business growth. If you're passionate about AI and want to be part of a fast-paced, impact-driven environment, let's connect!",
+          "responsibilities": [
+            "Design and develop high-performance AI/ML models using cutting-edge techniques and technologies",
+            "Collaborate with cross-functional teams to integrate AI solutions into our product roadmap",
+            "Develop and maintain large-scale data pipelines for efficient model training and deployment",
+            "Conduct experiments, analyze results, and communicate insights to inform AI strategy and decision-making",
+            "Stay up-to-date with the latest advancements in AI/ML research and apply knowledge to improve our models",
+            "Develop and implement robust testing and validation procedures for AI models",
+            "Work closely with product teams to understand business requirements and develop tailored AI solutions"
+          ],
+          "requirements": [
+            "3+ years of experience in AI engineering, with a focus on developing and deploying high-performance AI/ML models",
+            "Proven expertise in deep learning frameworks (TensorFlow, PyTorch) and large-scale data processing tools (Apache Spark)",
+            "Bachelor's or Master's degree in Computer Science, Engineering, or related field",
+            "Experience with containerization (Docker), orchestration (Kubernetes), and cloud platforms (AWS, GCP)",
+            "Strong understanding of software development principles, including agile methodologies and version control systems",
+            "Excellent communication and collaboration skills, with the ability to work effectively in a remote environment"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize LinkedIn, industry-specific platforms and employee referrals to find top Gen AI Engineer candidates",
+          "Week 1: Screening - Implement async video screening using a platform like HireVue to quickly assess candidate fit and experience",
+          "Week 2: Technical Skills Assessment - Develop a coding challenge or skills assessment using a tool like HackerRank to evaluate technical abilities",
+          "Week 2: Interviews - Conduct a series of in-person interviews with key team members, including the Team Lead and CEO",
+          "Week 2: Reference Checks - Verify candidate references through phone or video calls",
+          "Week 2: Offer Extension - Prepare and extend offer to selected candidate"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist",
+          "Team Lead",
+          "CEO",
+          "HR Specialist",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 2
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "intern",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Gen Ai Engineer Inten"
+    ]
+  },
+  "timestamp": "2025-09-10T16:56:13.503764"
+}

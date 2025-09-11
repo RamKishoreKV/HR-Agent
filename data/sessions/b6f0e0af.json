@@ -1,0 +1,146 @@
+{
+  "session_id": "b6f0e0af",
+  "last_input": "help me hire data engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our high-growth startup as a Senior Data Engineer, where you'll play a critical role in unlocking business insights with cutting-edge data visualization and analytics tools. You'll be part of a talented team that's pushing the boundaries of innovation, driving impact, and shaping the future of our industry.",
+        "responsibilities": [
+          "Design and implement scalable, efficient data pipelines to feed our Tableau-powered dashboards, ensuring seamless data flow and real-time insights",
+          "Collaborate with cross-functional teams to develop and deploy data-driven solutions that drive business growth and inform strategic decisions",
+          "Develop and maintain complex SAS programs to process large datasets, leveraging your expertise in statistical analysis and modeling",
+          "Integrate spatial data from GIS sources to enhance our analytics capabilities and provide unparalleled location-based insights",
+          "Troubleshoot and resolve complex data-related issues, working closely with stakeholders to identify root causes and implement solutions",
+          "Stay up-to-date with industry trends and emerging technologies, applying your knowledge to drive innovation and improvement within the team",
+          "Contribute to the development of our data governance framework, ensuring data quality, security, and compliance",
+          "Mentor junior team members, sharing your expertise and experience to foster a culture of growth and knowledge-sharing"
+        ],
+        "requirements": [
+          "Bachelor's degree in Business analytics",
+          "1+ years of relevant experience",
+          "5+ years of experience in a senior Data Engineer role, with a proven track record of delivering high-impact projects",
+          "Expert-level proficiency in Tableau, SAS, and GIS (ArcGIS or equivalent)",
+          "Strong understanding of data modeling, statistical analysis, and machine learning principles",
+          "Experience with cloud-based platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes)",
+          "Excellent problem-solving skills, with the ability to break down complex problems into manageable components",
+          "Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+          "Ability to prioritize tasks, manage multiple projects simultaneously, and meet deadlines in a fast-paced environment"
+        ],
+        "compensation_note": "50k-70k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing and Initial Screening - Utilize social media, job boards, and professional networks to identify potential candidates. Conduct initial phone screenings to assess cultural fit and basic qualifications (Owner: HR)",
+        "Week 1: Skills Assessment and Async Video Screening - Send skills assessments to qualified candidates to evaluate technical abilities. Conduct async video screening for top performers to gauge communication skills (Owner: Hiring Manager)",
+        "Week 2: In-Person Interviews - Invite top candidates for in-person interviews at the office, led by the Team Lead. Focus on behavioral questions and team dynamics (Owner: Team Lead)",
+        "Week 2: Reference Checks - Conduct reference checks with previous employers or colleagues to verify candidate's work experience and skills (Owner: HR)",
+        "Week 3: Offer Extension and Negotiation - Prepare a competitive offer package, including salary, benefits, and equity. Allow time for negotiation and finalize the offer (Owner: CEO)",
+        "Week 3: Onboarding Preparation - Coordinate with the onboarding team to prepare necessary documents, equipment, and training materials for the new hire (Owner: HR)"
+      ],
+      "owners": [
+        "HR",
+        "Hiring Manager",
+        "Team Lead",
+        "HR",
+        "CEO",
+        "HR"
+      ],
+      "timeline_weeks": 3
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Engineer**. The target timeline is **3 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Engineer\n**Summary**: Join our high-growth startup as a Senior Data Engineer, where you'll play a critical role in unlocking business insights with cutting-edge data visualization and analytics tools. You'll be part of a talented team that's pushing the boundaries of innovation, driving impact, and shaping the future of our industry.\n**Key Responsibilities:**\n- Design and implement scalable, efficient data pipelines to feed our Tableau-powered dashboards, ensuring seamless data flow and real-time insights\n- Collaborate with cross-functional teams to develop and deploy data-driven solutions that drive business growth and inform strategic decisions\n- Develop and maintain complex SAS programs to process large datasets, leveraging your expertise in statistical analysis and modeling\n- Integrate spatial data from GIS sources to enhance our analytics capabilities and provide unparalleled location-based insights\n- Troubleshoot and resolve complex data-related issues, working closely with stakeholders to identify root causes and implement solutions\n- Stay up-to-date with industry trends and emerging technologies, applying your knowledge to drive innovation and improvement within the team\n- Contribute to the development of our data governance framework, ensuring data quality, security, and compliance\n- Mentor junior team members, sharing your expertise and experience to foster a culture of growth and knowledge-sharing\n**Requirements:**\n- Bachelor's degree in Business analytics\n- 1+ years of relevant experience\n- 5+ years of experience in a senior Data Engineer role, with a proven track record of delivering high-impact projects\n- Expert-level proficiency in Tableau, SAS, and GIS (ArcGIS or equivalent)\n- Strong understanding of data modeling, statistical analysis, and machine learning principles\n- Experience with cloud-based platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes)\n- Excellent problem-solving skills, with the ability to break down complex problems into manageable components\n- Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams\n- Ability to prioritize tasks, manage multiple projects simultaneously, and meet deadlines in a fast-paced environment\n**Compensation:** 50k-70k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 3 weeks\n**Process Steps:**\n1. Week 1: Sourcing and Initial Screening - Utilize social media, job boards, and professional networks to identify potential candidates. Conduct initial phone screenings to assess cultural fit and basic qualifications (Owner: HR)  \n   *Owner: HR*\n2. Week 1: Skills Assessment and Async Video Screening - Send skills assessments to qualified candidates to evaluate technical abilities. Conduct async video screening for top performers to gauge communication skills (Owner: Hiring Manager)  \n   *Owner: Hiring Manager*\n3. Week 2: In-Person Interviews - Invite top candidates for in-person interviews at the office, led by the Team Lead. Focus on behavioral questions and team dynamics (Owner: Team Lead)  \n   *Owner: Team Lead*\n4. Week 2: Reference Checks - Conduct reference checks with previous employers or colleagues to verify candidate's work experience and skills (Owner: HR)  \n   *Owner: HR*\n5. Week 3: Offer Extension and Negotiation - Prepare a competitive offer package, including salary, benefits, and equity. Allow time for negotiation and finalize the offer (Owner: CEO)  \n   *Owner: CEO*\n6. Week 3: Onboarding Preparation - Coordinate with the onboarding team to prepare necessary documents, equipment, and training materials for the new hire (Owner: HR)  \n   *Owner: HR*\n\n## Interview Kit\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 3,
+        "budget_range": "50k-70k",
+        "seniority": "senior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "tableau",
+          "sas",
+          "gis"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our high-growth startup as a Senior Data Engineer, where you'll play a critical role in unlocking business insights with cutting-edge data visualization and analytics tools. You'll be part of a talented team that's pushing the boundaries of innovation, driving impact, and shaping the future of our industry.",
+          "responsibilities": [
+            "Design and implement scalable, efficient data pipelines to feed our Tableau-powered dashboards, ensuring seamless data flow and real-time insights",
+            "Collaborate with cross-functional teams to develop and deploy data-driven solutions that drive business growth and inform strategic decisions",
+            "Develop and maintain complex SAS programs to process large datasets, leveraging your expertise in statistical analysis and modeling",
+            "Integrate spatial data from GIS sources to enhance our analytics capabilities and provide unparalleled location-based insights",
+            "Troubleshoot and resolve complex data-related issues, working closely with stakeholders to identify root causes and implement solutions",
+            "Stay up-to-date with industry trends and emerging technologies, applying your knowledge to drive innovation and improvement within the team",
+            "Contribute to the development of our data governance framework, ensuring data quality, security, and compliance",
+            "Mentor junior team members, sharing your expertise and experience to foster a culture of growth and knowledge-sharing"
+          ],
+          "requirements": [
+            "Bachelor's degree in Business analytics",
+            "1+ years of relevant experience",
+            "5+ years of experience in a senior Data Engineer role, with a proven track record of delivering high-impact projects",
+            "Expert-level proficiency in Tableau, SAS, and GIS (ArcGIS or equivalent)",
+            "Strong understanding of data modeling, statistical analysis, and machine learning principles",
+            "Experience with cloud-based platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes)",
+            "Excellent problem-solving skills, with the ability to break down complex problems into manageable components",
+            "Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+            "Ability to prioritize tasks, manage multiple projects simultaneously, and meet deadlines in a fast-paced environment"
+          ],
+          "compensation_note": "50k-70k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing and Initial Screening - Utilize social media, job boards, and professional networks to identify potential candidates. Conduct initial phone screenings to assess cultural fit and basic qualifications (Owner: HR)",
+          "Week 1: Skills Assessment and Async Video Screening - Send skills assessments to qualified candidates to evaluate technical abilities. Conduct async video screening for top performers to gauge communication skills (Owner: Hiring Manager)",
+          "Week 2: In-Person Interviews - Invite top candidates for in-person interviews at the office, led by the Team Lead. Focus on behavioral questions and team dynamics (Owner: Team Lead)",
+          "Week 2: Reference Checks - Conduct reference checks with previous employers or colleagues to verify candidate's work experience and skills (Owner: HR)",
+          "Week 3: Offer Extension and Negotiation - Prepare a competitive offer package, including salary, benefits, and equity. Allow time for negotiation and finalize the offer (Owner: CEO)",
+          "Week 3: Onboarding Preparation - Coordinate with the onboarding team to prepare necessary documents, equipment, and training materials for the new hire (Owner: HR)"
+        ],
+        "owners": [
+          "HR",
+          "Hiring Manager",
+          "Team Lead",
+          "HR",
+          "CEO",
+          "HR"
+        ],
+        "timeline_weeks": 3
+      },
+      "interview_kit": {
+        "screening_questions": [],
+        "evaluation_rubric": [],
+        "scorecard": [],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 3,
+    "budget_range": "50k-70k",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "tableau",
+      "sas",
+      "gis"
+    ],
+    "roles": [
+      "Data Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T17:14:49.632648"
+}

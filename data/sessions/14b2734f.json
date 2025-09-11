@@ -1,0 +1,163 @@
+{
+  "session_id": "14b2734f",
+  "last_input": "help me hire a data analyst and gen ai intern",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Generative Ai Intern",
+        "summary": "Join our cutting-edge startup and contribute to the development of groundbreaking generative AI models that will revolutionize industries. As a key member of our team, you'll drive innovation, solve complex problems, and push the boundaries of what's possible with AI. If you're passionate about machine learning, coding, and making a real impact, we want to hear from you!",
+        "responsibilities": [
+          "Design and develop innovative generative AI models that can learn from data and generate new content",
+          "Collaborate with our team of experts to integrate models into existing applications and infrastructure",
+          "Conduct thorough research on state-of-the-art techniques in deep learning, NLP, and computer vision",
+          "Develop and deploy high-performance AI models using Python, TensorFlow, and other cutting-edge tools",
+          "Work closely with the product team to understand customer needs and translate them into AI-powered solutions",
+          "Identify areas for improvement in existing models and propose new architectures or techniques to address these challenges",
+          "Contribute to the development of internal tools and infrastructure to streamline model deployment and integration",
+          "Stay up-to-date on the latest advancements in AI research and share your knowledge with the team"
+        ],
+        "requirements": [
+          "Master's degree in Computer Science, Electrical Engineering, or related field (or equivalent experience)",
+          "2+ years of experience with deep learning algorithms, NLP, and computer vision fundamentals",
+          "Proficiency in Python programming language and experience with TensorFlow",
+          "Strong understanding of model deployment and integration concepts",
+          "Familiarity with generative adversarial networks (GANs), autoregressive models, and transformers",
+          "Experience working with large datasets and implementing efficient algorithms for data processing",
+          "Excellent communication skills and ability to work collaboratively as part of a remote team",
+          "Passion for staying up-to-date on the latest advancements in AI research"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1-2: Sourcing & Job Description Refinement - Define job requirements, create a compelling job description and posting, and leverage social media, employee referrals, and online platforms to attract top candidates.",
+        "Week 2-3: Initial Screening & Async Video Interviews - Conduct initial screenings via phone or video calls to gauge interest and basic qualifications. Invite selected candidates for async video interviews using tools like Loom or Calendly.",
+        "Week 4: Skills Assessments & Case Studies - Send relevant case studies or coding challenges to assess skills and fit. This can be done through platforms like HackerRank, Codewars, or Google Forms.",
+        "Week 5-6: In-Person Interviews (if necessary) & Reference Checks - Schedule in-person interviews for top candidates (if feasible). Conduct reference checks with previous employers or mentors to validate claims.",
+        "Week 7: Offer Extension & Negotiation - Extend an offer to the selected candidate, including details on compensation, equity, and benefits. Be prepared for salary negotiations.",
+        "Week 8: Onboarding & Welcome Package - Finalize onboarding processes, create a welcome package with essential information, and schedule a meeting for the new team member's first day."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative (Recruiting Specialist)",
+        "Team Lead / Department Head",
+        "Hiring Manager & Team Lead",
+        "CEO or Designated HR Representative",
+        "Onboarding Coordinator"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Generative Ai Intern**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Generative Ai Intern\n#### Summary\nJoin our cutting-edge startup and contribute to the development of groundbreaking generative AI models that will revolutionize industries. As a key member of our team, you'll drive innovation, solve complex problems, and push the boundaries of what's possible with AI. If you're passionate about machine learning, coding, and making a real impact, we want to hear from you!\n#### Key Responsibilities\n- Design and develop innovative generative AI models that can learn from data and generate new content\n- Collaborate with our team of experts to integrate models into existing applications and infrastructure\n- Conduct thorough research on state-of-the-art techniques in deep learning, NLP, and computer vision\n- Develop and deploy high-performance AI models using Python, TensorFlow, and other cutting-edge tools\n- Work closely with the product team to understand customer needs and translate them into AI-powered solutions\n- Identify areas for improvement in existing models and propose new architectures or techniques to address these challenges\n- Contribute to the development of internal tools and infrastructure to streamline model deployment and integration\n- Stay up-to-date on the latest advancements in AI research and share your knowledge with the team\n#### Requirements\n- Master's degree in Computer Science, Electrical Engineering, or related field (or equivalent experience)\n- 2+ years of experience with deep learning algorithms, NLP, and computer vision fundamentals\n- Proficiency in Python programming language and experience with TensorFlow\n- Strong understanding of model deployment and integration concepts\n- Familiarity with generative adversarial networks (GANs), autoregressive models, and transformers\n- Experience working with large datasets and implementing efficient algorithms for data processing\n- Excellent communication skills and ability to work collaboratively as part of a remote team\n- Passion for staying up-to-date on the latest advancements in AI research\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1-2: Sourcing & Job Description Refinement - Define job requirements, create a compelling job description and posting, and leverage social media, employee referrals, and online platforms to attract top candidates.  \n   *Owner: Hiring Manager*\n2. Week 2-3: Initial Screening & Async Video Interviews - Conduct initial screenings via phone or video calls to gauge interest and basic qualifications. Invite selected candidates for async video interviews using tools like Loom or Calendly.  \n   *Owner: HR Representative (Recruiting Specialist)*\n3. Week 4: Skills Assessments & Case Studies - Send relevant case studies or coding challenges to assess skills and fit. This can be done through platforms like HackerRank, Codewars, or Google Forms.  \n   *Owner: Team Lead / Department Head*\n4. Week 5-6: In-Person Interviews (if necessary) & Reference Checks - Schedule in-person interviews for top candidates (if feasible). Conduct reference checks with previous employers or mentors to validate claims.  \n   *Owner: Hiring Manager & Team Lead*\n5. Week 7: Offer Extension & Negotiation - Extend an offer to the selected candidate, including details on compensation, equity, and benefits. Be prepared for salary negotiations.  \n   *Owner: CEO or Designated HR Representative*\n6. Week 8: Onboarding & Welcome Package - Finalize onboarding processes, create a welcome package with essential information, and schedule a meeting for the new team member's first day.  \n   *Owner: Onboarding Coordinator*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Deep learning algorithms, Natural language processing (NLP), Computer vision fundamentals? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Deep learning algorithms. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Deep learning algorithms",
+          "Natural language processing (NLP)",
+          "Computer vision fundamentals",
+          "Programming languages (Python, TensorFlow)",
+          "Model deployment and integration",
+          "Generative adversarial networks (GANs)",
+          "Autoregressive models",
+          "Transformers and attention mechanisms"
+        ],
+        "roles": [
+          "Generative Ai Intern"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Generative Ai Intern",
+          "summary": "Join our cutting-edge startup and contribute to the development of groundbreaking generative AI models that will revolutionize industries. As a key member of our team, you'll drive innovation, solve complex problems, and push the boundaries of what's possible with AI. If you're passionate about machine learning, coding, and making a real impact, we want to hear from you!",
+          "responsibilities": [
+            "Design and develop innovative generative AI models that can learn from data and generate new content",
+            "Collaborate with our team of experts to integrate models into existing applications and infrastructure",
+            "Conduct thorough research on state-of-the-art techniques in deep learning, NLP, and computer vision",
+            "Develop and deploy high-performance AI models using Python, TensorFlow, and other cutting-edge tools",
+            "Work closely with the product team to understand customer needs and translate them into AI-powered solutions",
+            "Identify areas for improvement in existing models and propose new architectures or techniques to address these challenges",
+            "Contribute to the development of internal tools and infrastructure to streamline model deployment and integration",
+            "Stay up-to-date on the latest advancements in AI research and share your knowledge with the team"
+          ],
+          "requirements": [
+            "Master's degree in Computer Science, Electrical Engineering, or related field (or equivalent experience)",
+            "2+ years of experience with deep learning algorithms, NLP, and computer vision fundamentals",
+            "Proficiency in Python programming language and experience with TensorFlow",
+            "Strong understanding of model deployment and integration concepts",
+            "Familiarity with generative adversarial networks (GANs), autoregressive models, and transformers",
+            "Experience working with large datasets and implementing efficient algorithms for data processing",
+            "Excellent communication skills and ability to work collaboratively as part of a remote team",
+            "Passion for staying up-to-date on the latest advancements in AI research"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1-2: Sourcing & Job Description Refinement - Define job requirements, create a compelling job description and posting, and leverage social media, employee referrals, and online platforms to attract top candidates.",
+          "Week 2-3: Initial Screening & Async Video Interviews - Conduct initial screenings via phone or video calls to gauge interest and basic qualifications. Invite selected candidates for async video interviews using tools like Loom or Calendly.",
+          "Week 4: Skills Assessments & Case Studies - Send relevant case studies or coding challenges to assess skills and fit. This can be done through platforms like HackerRank, Codewars, or Google Forms.",
+          "Week 5-6: In-Person Interviews (if necessary) & Reference Checks - Schedule in-person interviews for top candidates (if feasible). Conduct reference checks with previous employers or mentors to validate claims.",
+          "Week 7: Offer Extension & Negotiation - Extend an offer to the selected candidate, including details on compensation, equity, and benefits. Be prepared for salary negotiations.",
+          "Week 8: Onboarding & Welcome Package - Finalize onboarding processes, create a welcome package with essential information, and schedule a meeting for the new team member's first day."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative (Recruiting Specialist)",
+          "Team Lead / Department Head",
+          "Hiring Manager & Team Lead",
+          "CEO or Designated HR Representative",
+          "Onboarding Coordinator"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Deep learning algorithms, Natural language processing (NLP), Computer vision fundamentals? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Deep learning algorithms. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-11T16:14:03.239170"
+}

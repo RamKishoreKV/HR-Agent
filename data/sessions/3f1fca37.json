@@ -1,0 +1,16 @@
+{
+  "session_id": "3f1fca37",
+  "last_input": "give 50k salary",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "I'd be happy to assist you with finding a candidate that fits your needs! Can I help you get started by creating a job posting for a $50k salary role? If you're ready to begin, just say \"help hire [role]\" and we'll walk through the hiring process together.",
+    "raw_json": {
+      "message": "I'd be happy to assist you with finding a candidate that fits your needs! Can I help you get started by creating a job posting for a $50k salary role? If you're ready to begin, just say \"help hire [role]\" and we'll walk through the hiring process together.",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T20:26:22.201853"
+}

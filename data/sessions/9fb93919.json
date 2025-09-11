@@ -1,0 +1,176 @@
+{
+  "session_id": "9fb93919",
+  "last_input": "help me hire an ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "AI Engineer",
+        "summary": "Join our cutting-edge AI startup as an AI Engineer and contribute to building innovative machine learning models that drive real-world impact. As a key member of our team, you'll have the freedom to experiment, learn, and grow with us in a fast-paced environment.",
+        "responsibilities": [
+          "Design and develop scalable, efficient, and high-performance AI/ML models using Python, PyTorch, and TensorFlow",
+          "Collaborate with cross-functional teams to integrate ML Ops into our product pipeline and ensure seamless deployment",
+          "Develop and maintain Dockerized environments for model development and testing",
+          "Work closely with data scientists to develop and implement ML pipelines using Kubernetes",
+          "Contribute to the design and implementation of our cloud infrastructure, ensuring scalability and reliability",
+          "Troubleshoot complex issues and optimize system performance",
+          "Participate in code reviews and contribute to improving overall engineering practices",
+          "Stay up-to-date with industry trends and advancements in AI/ML and apply knowledge to drive innovation"
+        ],
+        "requirements": [
+          "4+ years of experience in AI/ML engineering, with a focus on deep learning and computer vision",
+          "In-depth knowledge of Python, PyTorch, TensorFlow, and ML Ops",
+          "Experience with containerization using Docker and orchestration using Kubernetes",
+          "Strong understanding of cloud infrastructure and scalability principles",
+          "Familiarity with continuous integration/continuous deployment (CI/CD) pipelines",
+          "Excellent problem-solving skills and ability to work independently",
+          "Effective communication and collaboration skills, with a passion for teamwork",
+          "BSc/MSc in Computer Science, AI, or related field"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing & Outreach - Utilize LinkedIn ads, company website, and professional networks to attract top AI talent.",
+        "Weeks 2-3: Initial Screening - Leverage asynchronous video screening tools (e.g., HireVue) for initial candidate evaluation.",
+        "Week 3: Skills Assessment - Conduct a technical skills assessment (e.g., coding challenge) to filter candidates.",
+        "Weeks 4-5: Phone Interviews - Schedule phone interviews with top candidates to assess cultural fit and experience.",
+        "Week 5: On-site Interview - Invite selected candidates for an on-site interview at our office, including a team lunch and project discussion.",
+        "Week 6: Reference Checks - Conduct thorough reference checks to verify candidate's previous work experience.",
+        "Weeks 7-8: Offer & Onboarding - Make job offer to selected candidate, negotiate salary, and begin onboarding process."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Team Lead",
+        "AI Team Lead",
+        "Hiring Manager",
+        "CEO",
+        "HR Team Lead",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **AI Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### AI Engineer\n**Summary**: Join our cutting-edge AI startup as an AI Engineer and contribute to building innovative machine learning models that drive real-world impact. As a key member of our team, you'll have the freedom to experiment, learn, and grow with us in a fast-paced environment.\n**Key Responsibilities:**\n- Design and develop scalable, efficient, and high-performance AI/ML models using Python, PyTorch, and TensorFlow\n- Collaborate with cross-functional teams to integrate ML Ops into our product pipeline and ensure seamless deployment\n- Develop and maintain Dockerized environments for model development and testing\n- Work closely with data scientists to develop and implement ML pipelines using Kubernetes\n- Contribute to the design and implementation of our cloud infrastructure, ensuring scalability and reliability\n- Troubleshoot complex issues and optimize system performance\n- Participate in code reviews and contribute to improving overall engineering practices\n- Stay up-to-date with industry trends and advancements in AI/ML and apply knowledge to drive innovation\n**Requirements:**\n- 4+ years of experience in AI/ML engineering, with a focus on deep learning and computer vision\n- In-depth knowledge of Python, PyTorch, TensorFlow, and ML Ops\n- Experience with containerization using Docker and orchestration using Kubernetes\n- Strong understanding of cloud infrastructure and scalability principles\n- Familiarity with continuous integration/continuous deployment (CI/CD) pipelines\n- Excellent problem-solving skills and ability to work independently\n- Effective communication and collaboration skills, with a passion for teamwork\n- BSc/MSc in Computer Science, AI, or related field\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing & Outreach - Utilize LinkedIn ads, company website, and professional networks to attract top AI talent.  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Initial Screening - Leverage asynchronous video screening tools (e.g., HireVue) for initial candidate evaluation.  \n   *Owner: HR Team Lead*\n3. Week 3: Skills Assessment - Conduct a technical skills assessment (e.g., coding challenge) to filter candidates.  \n   *Owner: AI Team Lead*\n4. Weeks 4-5: Phone Interviews - Schedule phone interviews with top candidates to assess cultural fit and experience.  \n   *Owner: Hiring Manager*\n5. Week 5: On-site Interview - Invite selected candidates for an on-site interview at our office, including a team lunch and project discussion.  \n   *Owner: CEO*\n6. Week 6: Reference Checks - Conduct thorough reference checks to verify candidate's previous work experience.  \n   *Owner: HR Team Lead*\n7. Weeks 7-8: Offer & Onboarding - Make job offer to selected candidate, negotiate salary, and begin onboarding process.  \n   *Owner: Hiring Manager*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "ML Ops",
+          "Docker",
+          "Kubernetes"
+        ],
+        "roles": [
+          "AI Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "AI Engineer",
+          "summary": "Join our cutting-edge AI startup as an AI Engineer and contribute to building innovative machine learning models that drive real-world impact. As a key member of our team, you'll have the freedom to experiment, learn, and grow with us in a fast-paced environment.",
+          "responsibilities": [
+            "Design and develop scalable, efficient, and high-performance AI/ML models using Python, PyTorch, and TensorFlow",
+            "Collaborate with cross-functional teams to integrate ML Ops into our product pipeline and ensure seamless deployment",
+            "Develop and maintain Dockerized environments for model development and testing",
+            "Work closely with data scientists to develop and implement ML pipelines using Kubernetes",
+            "Contribute to the design and implementation of our cloud infrastructure, ensuring scalability and reliability",
+            "Troubleshoot complex issues and optimize system performance",
+            "Participate in code reviews and contribute to improving overall engineering practices",
+            "Stay up-to-date with industry trends and advancements in AI/ML and apply knowledge to drive innovation"
+          ],
+          "requirements": [
+            "4+ years of experience in AI/ML engineering, with a focus on deep learning and computer vision",
+            "In-depth knowledge of Python, PyTorch, TensorFlow, and ML Ops",
+            "Experience with containerization using Docker and orchestration using Kubernetes",
+            "Strong understanding of cloud infrastructure and scalability principles",
+            "Familiarity with continuous integration/continuous deployment (CI/CD) pipelines",
+            "Excellent problem-solving skills and ability to work independently",
+            "Effective communication and collaboration skills, with a passion for teamwork",
+            "BSc/MSc in Computer Science, AI, or related field"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing & Outreach - Utilize LinkedIn ads, company website, and professional networks to attract top AI talent.",
+          "Weeks 2-3: Initial Screening - Leverage asynchronous video screening tools (e.g., HireVue) for initial candidate evaluation.",
+          "Week 3: Skills Assessment - Conduct a technical skills assessment (e.g., coding challenge) to filter candidates.",
+          "Weeks 4-5: Phone Interviews - Schedule phone interviews with top candidates to assess cultural fit and experience.",
+          "Week 5: On-site Interview - Invite selected candidates for an on-site interview at our office, including a team lunch and project discussion.",
+          "Week 6: Reference Checks - Conduct thorough reference checks to verify candidate's previous work experience.",
+          "Weeks 7-8: Offer & Onboarding - Make job offer to selected candidate, negotiate salary, and begin onboarding process."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Team Lead",
+          "AI Team Lead",
+          "Hiring Manager",
+          "CEO",
+          "HR Team Lead",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Python, PyTorch, TensorFlow? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Python. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "AI Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T19:26:33.878721"
+}

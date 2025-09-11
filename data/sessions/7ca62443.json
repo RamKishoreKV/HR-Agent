@@ -1,0 +1,152 @@
+{
+  "session_id": "7ca62443",
+  "last_input": "help me hire And Data Scientist",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "And Data Scientist",
+        "summary": "Join our high-growth startup as we revolutionize [industry/field] with data-driven insights! As an And Data Scientist, you'll play a critical role in shaping our product and driving business outcomes. If you're passionate about harnessing the power of data to make a real impact, let's talk!",
+        "responsibilities": [
+          "Design and develop advanced analytics models that drive business growth and customer engagement",
+          "Collaborate with cross-functional teams to integrate data insights into product development and strategy",
+          "Develop and maintain large-scale datasets, ensuring accuracy, quality, and scalability",
+          "Identify and prioritize high-impact data science projects that align with company goals",
+          "Communicate complex technical findings to non-technical stakeholders, influencing business decisions",
+          "Stay up-to-date with industry trends and emerging technologies, applying new knowledge to drive innovation",
+          "Develop and maintain a culture of experimentation and continuous learning within the team"
+        ],
+        "requirements": [
+          "Master's or Ph.D. in Computer Science, Statistics, Mathematics, or related field",
+          "3+ years of experience in data science, with a proven track record of delivering business impact",
+          "Strong foundation in machine learning, deep learning, and statistical modeling",
+          "Proficiency in programming languages such as Python, R, or SQL",
+          "Experience with cloud-based data platforms (e.g. AWS, GCP) and big data tools (e.g. Hadoop, Spark)",
+          "Ability to work in a fast-paced environment, prioritizing tasks and managing multiple projects simultaneously",
+          "Strong communication and collaboration skills, with experience working with cross-functional teams",
+          "Familiarity with Agile development methodologies and version control systems (e.g. Git)"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize LinkedIn, Twitter, and industry-specific platforms to post job ads and reach a targeted audience. Leverage employee referrals and company network.",
+        "Week 2-3: Screening & Async Video Interviews - Implement asynchronous video interviews (e.g., HireVue) for initial screenings, allowing candidates to showcase their skills and personality at their own pace.",
+        "Week 4: Skills Assessments & Technical Interviews - Design and administer skills assessments (e.g., coding challenges) to evaluate technical expertise. Conduct live, in-person or virtual technical interviews with top candidates.",
+        "Week 5-6: Reference Checks & Salary Negotiations - Conduct thorough reference checks for final candidates. Prepare salary negotiation scripts and ensure a fair compensation package is offered based on market research.",
+        "Week 7: Offer Extension & Contract Review - Present the offer to selected candidates, including details on equity, benefits, and expectations. Have them review and sign employment contracts.",
+        "Week 8: Onboarding Preparation & Welcome Package - Finalize onboarding materials, prepare a welcome package for new hires, and schedule an onboarding meeting with key team members."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead (Data Scientist role)",
+        "Hiring Manager",
+        "CEO",
+        "HR"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **And Data Scientist**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### And Data Scientist\n**Summary**: Join our high-growth startup as we revolutionize [industry/field] with data-driven insights! As an And Data Scientist, you'll play a critical role in shaping our product and driving business outcomes. If you're passionate about harnessing the power of data to make a real impact, let's talk!\n**Key Responsibilities:**\n- Design and develop advanced analytics models that drive business growth and customer engagement\n- Collaborate with cross-functional teams to integrate data insights into product development and strategy\n- Develop and maintain large-scale datasets, ensuring accuracy, quality, and scalability\n- Identify and prioritize high-impact data science projects that align with company goals\n- Communicate complex technical findings to non-technical stakeholders, influencing business decisions\n- Stay up-to-date with industry trends and emerging technologies, applying new knowledge to drive innovation\n- Develop and maintain a culture of experimentation and continuous learning within the team\n**Requirements:**\n- Master's or Ph.D. in Computer Science, Statistics, Mathematics, or related field\n- 3+ years of experience in data science, with a proven track record of delivering business impact\n- Strong foundation in machine learning, deep learning, and statistical modeling\n- Proficiency in programming languages such as Python, R, or SQL\n- Experience with cloud-based data platforms (e.g. AWS, GCP) and big data tools (e.g. Hadoop, Spark)\n- Ability to work in a fast-paced environment, prioritizing tasks and managing multiple projects simultaneously\n- Strong communication and collaboration skills, with experience working with cross-functional teams\n- Familiarity with Agile development methodologies and version control systems (e.g. Git)\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize LinkedIn, Twitter, and industry-specific platforms to post job ads and reach a targeted audience. Leverage employee referrals and company network.  \n   *Owner: Hiring Manager*\n2. Week 2-3: Screening & Async Video Interviews - Implement asynchronous video interviews (e.g., HireVue) for initial screenings, allowing candidates to showcase their skills and personality at their own pace.  \n   *Owner: HR*\n3. Week 4: Skills Assessments & Technical Interviews - Design and administer skills assessments (e.g., coding challenges) to evaluate technical expertise. Conduct live, in-person or virtual technical interviews with top candidates.  \n   *Owner: Team Lead (Data Scientist role)*\n4. Week 5-6: Reference Checks & Salary Negotiations - Conduct thorough reference checks for final candidates. Prepare salary negotiation scripts and ensure a fair compensation package is offered based on market research.  \n   *Owner: Hiring Manager*\n5. Week 7: Offer Extension & Contract Review - Present the offer to selected candidates, including details on equity, benefits, and expectations. Have them review and sign employment contracts.  \n   *Owner: CEO*\n6. Week 8: Onboarding Preparation & Welcome Package - Finalize onboarding materials, prepare a welcome package for new hires, and schedule an onboarding meeting with key team members.  \n   *Owner: HR*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "And Data Scientist"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "And Data Scientist",
+          "summary": "Join our high-growth startup as we revolutionize [industry/field] with data-driven insights! As an And Data Scientist, you'll play a critical role in shaping our product and driving business outcomes. If you're passionate about harnessing the power of data to make a real impact, let's talk!",
+          "responsibilities": [
+            "Design and develop advanced analytics models that drive business growth and customer engagement",
+            "Collaborate with cross-functional teams to integrate data insights into product development and strategy",
+            "Develop and maintain large-scale datasets, ensuring accuracy, quality, and scalability",
+            "Identify and prioritize high-impact data science projects that align with company goals",
+            "Communicate complex technical findings to non-technical stakeholders, influencing business decisions",
+            "Stay up-to-date with industry trends and emerging technologies, applying new knowledge to drive innovation",
+            "Develop and maintain a culture of experimentation and continuous learning within the team"
+          ],
+          "requirements": [
+            "Master's or Ph.D. in Computer Science, Statistics, Mathematics, or related field",
+            "3+ years of experience in data science, with a proven track record of delivering business impact",
+            "Strong foundation in machine learning, deep learning, and statistical modeling",
+            "Proficiency in programming languages such as Python, R, or SQL",
+            "Experience with cloud-based data platforms (e.g. AWS, GCP) and big data tools (e.g. Hadoop, Spark)",
+            "Ability to work in a fast-paced environment, prioritizing tasks and managing multiple projects simultaneously",
+            "Strong communication and collaboration skills, with experience working with cross-functional teams",
+            "Familiarity with Agile development methodologies and version control systems (e.g. Git)"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize LinkedIn, Twitter, and industry-specific platforms to post job ads and reach a targeted audience. Leverage employee referrals and company network.",
+          "Week 2-3: Screening & Async Video Interviews - Implement asynchronous video interviews (e.g., HireVue) for initial screenings, allowing candidates to showcase their skills and personality at their own pace.",
+          "Week 4: Skills Assessments & Technical Interviews - Design and administer skills assessments (e.g., coding challenges) to evaluate technical expertise. Conduct live, in-person or virtual technical interviews with top candidates.",
+          "Week 5-6: Reference Checks & Salary Negotiations - Conduct thorough reference checks for final candidates. Prepare salary negotiation scripts and ensure a fair compensation package is offered based on market research.",
+          "Week 7: Offer Extension & Contract Review - Present the offer to selected candidates, including details on equity, benefits, and expectations. Have them review and sign employment contracts.",
+          "Week 8: Onboarding Preparation & Welcome Package - Finalize onboarding materials, prepare a welcome package for new hires, and schedule an onboarding meeting with key team members."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead (Data Scientist role)",
+          "Hiring Manager",
+          "CEO",
+          "HR"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T21:08:30.063151"
+}

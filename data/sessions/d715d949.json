@@ -1,0 +1,167 @@
+{
+  "session_id": "d715d949",
+  "last_input": "help me hire Data Engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our high-growth team as a Data Engineer to help us build and scale our data infrastructure, enabling data-driven decision making across the organization. As a key member of our engineering team, you'll have the opportunity to work with cutting-edge technologies and make a significant impact on our business outcomes. If you're passionate about data, love solving complex problems, and thrive in a fast-paced environment, we want to hear from you!",
+        "responsibilities": [
+          "Design, develop, and maintain scalable and efficient data pipelines using ETL/ELT tools and Big Data Technologies (Hadoop, Spark)",
+          "Collaborate with cross-functional teams to define data requirements and ensure alignment with business objectives",
+          "Develop and implement data models and database designs to support data warehousing and analytics initiatives",
+          "Work closely with data scientists and analysts to provide data infrastructure and support for insights-driven decision making",
+          "Ensure high-quality data delivery through data validation, testing, and monitoring",
+          "Stay up-to-date with emerging trends and technologies in the field of data engineering and contribute to knowledge sharing within the team",
+          "Contribute to the development of our data architecture roadmap and strategic plans"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Engineer or related role, with a strong focus on hands-on technical work",
+          "Proficiency in SQL, Python, and experience with ETL/ELT tools (e.g., AWS Glue, Apache Beam)",
+          "Strong understanding of data modeling concepts, database management systems, and big data technologies (Hadoop, Spark)",
+          "Experience with cloud platforms (AWS, GCP, Azure) and familiarity with containerization tools (Docker)",
+          "Excellent problem-solving skills, with the ability to break down complex technical challenges into manageable parts",
+          "Strong communication and collaboration skills, with experience working in cross-functional teams",
+          "Ability to work independently and as part of a distributed team, with excellent time management and organization skills"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing (Social Media, Employee Referrals, Online Job Boards) - Focus on reaching top talent with relevant skills",
+        "Weeks 3-4: Async Video Screening & Skills Assessments - Evaluate technical abilities and cultural fit without wasting time on unqualified candidates",
+        "Weeks 5-6: In-person Interviews (Technical & Culture Fit) - Meet the team, discuss projects, and assess collaboration skills",
+        "Week 7: Reference Checks - Verify work history and performance",
+        "Week 8: Offer Extension & Onboarding Planning - Finalize offer details, plan onboarding process"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "Recruiter/HR Generalist",
+        "Team Lead (Data Engineering)",
+        "CEO/CFO (Final Approval)",
+        "Onboarding Specialist"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Engineer\n#### Summary\nJoin our high-growth team as a Data Engineer to help us build and scale our data infrastructure, enabling data-driven decision making across the organization. As a key member of our engineering team, you'll have the opportunity to work with cutting-edge technologies and make a significant impact on our business outcomes. If you're passionate about data, love solving complex problems, and thrive in a fast-paced environment, we want to hear from you!\n#### Key Responsibilities\n- Design, develop, and maintain scalable and efficient data pipelines using ETL/ELT tools and Big Data Technologies (Hadoop, Spark)\n- Collaborate with cross-functional teams to define data requirements and ensure alignment with business objectives\n- Develop and implement data models and database designs to support data warehousing and analytics initiatives\n- Work closely with data scientists and analysts to provide data infrastructure and support for insights-driven decision making\n- Ensure high-quality data delivery through data validation, testing, and monitoring\n- Stay up-to-date with emerging trends and technologies in the field of data engineering and contribute to knowledge sharing within the team\n- Contribute to the development of our data architecture roadmap and strategic plans\n#### Requirements\n- 3+ years of experience as a Data Engineer or related role, with a strong focus on hands-on technical work\n- Proficiency in SQL, Python, and experience with ETL/ELT tools (e.g., AWS Glue, Apache Beam)\n- Strong understanding of data modeling concepts, database management systems, and big data technologies (Hadoop, Spark)\n- Experience with cloud platforms (AWS, GCP, Azure) and familiarity with containerization tools (Docker)\n- Excellent problem-solving skills, with the ability to break down complex technical challenges into manageable parts\n- Strong communication and collaboration skills, with experience working in cross-functional teams\n- Ability to work independently and as part of a distributed team, with excellent time management and organization skills\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing (Social Media, Employee Referrals, Online Job Boards) - Focus on reaching top talent with relevant skills  \n   *Owner: Hiring Manager*\n2. Weeks 3-4: Async Video Screening & Skills Assessments - Evaluate technical abilities and cultural fit without wasting time on unqualified candidates  \n   *Owner: Recruiter/HR Generalist*\n3. Weeks 5-6: In-person Interviews (Technical & Culture Fit) - Meet the team, discuss projects, and assess collaboration skills  \n   *Owner: Team Lead (Data Engineering)*\n4. Week 7: Reference Checks - Verify work history and performance  \n   *Owner: CEO/CFO (Final Approval)*\n5. Week 8: Offer Extension & Onboarding Planning - Finalize offer details, plan onboarding process  \n   *Owner: Onboarding Specialist*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied SQL, Python, Data Modeling? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using SQL. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "SQL",
+          "Python",
+          "Data Modeling",
+          "Database Management",
+          "ETL/ELT",
+          "Big Data Technologies (Hadoop, Spark)",
+          "Cloud Platforms (AWS, GCP, Azure)",
+          "Data Warehousing",
+          "Data Visualization"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our high-growth team as a Data Engineer to help us build and scale our data infrastructure, enabling data-driven decision making across the organization. As a key member of our engineering team, you'll have the opportunity to work with cutting-edge technologies and make a significant impact on our business outcomes. If you're passionate about data, love solving complex problems, and thrive in a fast-paced environment, we want to hear from you!",
+          "responsibilities": [
+            "Design, develop, and maintain scalable and efficient data pipelines using ETL/ELT tools and Big Data Technologies (Hadoop, Spark)",
+            "Collaborate with cross-functional teams to define data requirements and ensure alignment with business objectives",
+            "Develop and implement data models and database designs to support data warehousing and analytics initiatives",
+            "Work closely with data scientists and analysts to provide data infrastructure and support for insights-driven decision making",
+            "Ensure high-quality data delivery through data validation, testing, and monitoring",
+            "Stay up-to-date with emerging trends and technologies in the field of data engineering and contribute to knowledge sharing within the team",
+            "Contribute to the development of our data architecture roadmap and strategic plans"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Engineer or related role, with a strong focus on hands-on technical work",
+            "Proficiency in SQL, Python, and experience with ETL/ELT tools (e.g., AWS Glue, Apache Beam)",
+            "Strong understanding of data modeling concepts, database management systems, and big data technologies (Hadoop, Spark)",
+            "Experience with cloud platforms (AWS, GCP, Azure) and familiarity with containerization tools (Docker)",
+            "Excellent problem-solving skills, with the ability to break down complex technical challenges into manageable parts",
+            "Strong communication and collaboration skills, with experience working in cross-functional teams",
+            "Ability to work independently and as part of a distributed team, with excellent time management and organization skills"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing (Social Media, Employee Referrals, Online Job Boards) - Focus on reaching top talent with relevant skills",
+          "Weeks 3-4: Async Video Screening & Skills Assessments - Evaluate technical abilities and cultural fit without wasting time on unqualified candidates",
+          "Weeks 5-6: In-person Interviews (Technical & Culture Fit) - Meet the team, discuss projects, and assess collaboration skills",
+          "Week 7: Reference Checks - Verify work history and performance",
+          "Week 8: Offer Extension & Onboarding Planning - Finalize offer details, plan onboarding process"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "Recruiter/HR Generalist",
+          "Team Lead (Data Engineering)",
+          "CEO/CFO (Final Approval)",
+          "Onboarding Specialist"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied SQL, Python, Data Modeling? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using SQL. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Engineer"
+    ]
+  },
+  "timestamp": "2025-09-11T15:41:58.378002"
+}

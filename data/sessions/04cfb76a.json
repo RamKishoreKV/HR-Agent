@@ -1,0 +1,141 @@
+{
+  "session_id": "04cfb76a",
+  "last_input": "help me hire llm engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Llm Engineer",
+        "summary": "Join our cutting-edge AI team as a Junior LLM Engineer! We're looking for a talented individual to help us develop and deploy innovative Large Language Models that drive business impact. If you're passionate about AI, eager to learn, and thrive in a fast-paced startup environment, this is the perfect opportunity.",
+        "responsibilities": [
+          "Collaborate with our cross-functional team to design, develop, and deploy state-of-the-art LLMs for various applications",
+          "Implement and fine-tune LLM architectures using PyTorch and contribute to the improvement of our existing models",
+          "Work closely with data scientists to integrate LLM outputs into our products and services",
+          "Contribute to the development of new features and functionality that leverage LLM capabilities",
+          "Develop and maintain high-quality, well-documented code that meets our rigorous standards",
+          "Stay up-to-date with the latest advancements in AI research and industry trends",
+          "Participate in code reviews and contribute to the improvement of our engineering processes",
+          "Help drive the development of our internal tools and infrastructure for LLM deployment"
+        ],
+        "requirements": [
+          "Bachelor's or Master's degree in Computer Science, related field, or equivalent experience",
+          "Strong foundation in deep learning and PyTorch (experience with RAG a plus)",
+          "Experience with large-scale model development and deployment",
+          "Proficiency in Python and familiarity with Git version control",
+          "Excellent problem-solving skills and ability to work independently",
+          "Strong communication and collaboration skills for effective teamwork",
+          "Passion for AI and willingness to continuously learn and grow",
+          "Familiarity with cloud-based services (AWS, Google Cloud, or Azure)"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1 Day 1: Sourcing - Utilize social media, job boards, and professional networks to find potential candidates (Hiring Manager)",
+        "Week 1 Day 3-5: Screening - Conduct asynchronous video screening using tools like HireVue or Breezy to filter out unqualified applicants (HR)",
+        "Week 1 Day 7: Skills Assessment - Utilize platforms like HackerRank or Codewars to assess candidates' programming skills and experience (Team Lead)",
+        "Week 2 Days 1-3: Interviews - Conduct video interviews with top candidates, focusing on cultural fit, problem-solving skills, and technical expertise (Hiring Manager & Team Lead)",
+        "Week 2 Day 4: Reference Checks - Verify candidate references to confirm their previous work experience and performance (HR)",
+        "Week 2 Day 5: Offer Extension - Present a job offer to the selected candidate and negotiate terms if necessary (CEO/Hiring Manager)",
+        "Week 2 Day 6-7: Onboarding Preparation - Prepare onboarding documents, set up equipment, and ensure a smooth transition for the new hire (HR & Team Lead)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead",
+        "Hiring Manager & Team Lead",
+        "HR",
+        "CEO/Hiring Manager",
+        "HR & Team Lead"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nThe goal of this hiring initiative is to recruit a talented Junior LLM Engineer to join our cutting-edge AI team. The successful candidate will help develop and deploy innovative Large Language Models that drive business impact.\n\n## Job Descriptions\n\n### Llm Engineer\n**Summary:** Join our cutting-edge AI team as a Junior LLM Engineer! We're looking for a talented individual to help us develop and deploy innovative Large Language Models that drive business impact. If you're passionate about AI, eager to learn, and thrive in a fast-paced startup environment, this is the perfect opportunity.\n\n**Key Responsibilities:**\n- Develop and deploy large language models\n- Collaborate with cross-functional teams to integrate models into our products\n- Stay up-to-date with industry developments and advancements\n\n**Requirements:**\n- Bachelor's degree in Computer Science or related field\n- Experience with large language model development and deployment\n- Strong programming skills (e.g., Python, PyTorch)\n- Excellent communication and collaboration skills\n\n**Compensation:** Competitive salary and equity package offered to the successful candidate.\n\n## Hiring Process Plan\n\n**Timeline:** 2 weeks\n\n**Process Steps:**\n1. **Week 1 Day 1: Sourcing** - *Owner: Hiring Manager* Utilize social media, job boards, and professional networks to find potential candidates.\n2. **Week 1 Day 3-5: Screening** - *Owner: HR* Conduct asynchronous video screening using tools like HireVue or Breezy to filter out unqualified applicants.\n3. **Week 1 Day 7: Skills Assessment** - *Owner: Team Lead* Utilize platforms like HackerRank or Codewars to assess candidates' programming skills and experience.\n4. **Week 2 Days 1-3: Interviews** - *Owner: Hiring Manager & Team Lead* Conduct video interviews with top candidates, focusing on cultural fit, problem-solving skills, and technical expertise.\n5. **Week 2 Day 4: Reference Checks** - *Owner: HR* Verify candidate references to confirm their previous work experience and performance.\n6. **Week 2 Day 5: Offer Extension** - *Owner: CEO/Hiring Manager* Present a job offer to the selected candidate and negotiate terms if necessary.\n7. **Week 2 Day 6-7: Onboarding Preparation** - *Owner: HR & Team Lead* Prepare onboarding documents, set up equipment, and ensure a smooth transition for the new hire.\n\n## Next Steps\n\nAs the HR professional leading this initiative, your next steps are:\n\n1. Share the job description with relevant channels (social media, job boards, professional networks) to start sourcing candidates.\n2. Coordinate with the Team Lead to schedule skills assessments for top candidates.\n3. Schedule video interviews with Hiring Manager and Team Lead participation.\n4. Conduct reference checks for the selected candidate.\n5. Prepare onboarding materials and equipment in advance of the new hire's arrival.\n\nThis hiring plan is designed to be flexible and adaptable to our startup environment. Stay agile, communicate regularly with team members, and prioritize candidate experience to ensure a successful recruitment process.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "rag",
+          "llm",
+          "pytorch"
+        ],
+        "roles": [
+          "Llm Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Llm Engineer",
+          "summary": "Join our cutting-edge AI team as a Junior LLM Engineer! We're looking for a talented individual to help us develop and deploy innovative Large Language Models that drive business impact. If you're passionate about AI, eager to learn, and thrive in a fast-paced startup environment, this is the perfect opportunity.",
+          "responsibilities": [
+            "Collaborate with our cross-functional team to design, develop, and deploy state-of-the-art LLMs for various applications",
+            "Implement and fine-tune LLM architectures using PyTorch and contribute to the improvement of our existing models",
+            "Work closely with data scientists to integrate LLM outputs into our products and services",
+            "Contribute to the development of new features and functionality that leverage LLM capabilities",
+            "Develop and maintain high-quality, well-documented code that meets our rigorous standards",
+            "Stay up-to-date with the latest advancements in AI research and industry trends",
+            "Participate in code reviews and contribute to the improvement of our engineering processes",
+            "Help drive the development of our internal tools and infrastructure for LLM deployment"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Computer Science, related field, or equivalent experience",
+            "Strong foundation in deep learning and PyTorch (experience with RAG a plus)",
+            "Experience with large-scale model development and deployment",
+            "Proficiency in Python and familiarity with Git version control",
+            "Excellent problem-solving skills and ability to work independently",
+            "Strong communication and collaboration skills for effective teamwork",
+            "Passion for AI and willingness to continuously learn and grow",
+            "Familiarity with cloud-based services (AWS, Google Cloud, or Azure)"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1 Day 1: Sourcing - Utilize social media, job boards, and professional networks to find potential candidates (Hiring Manager)",
+          "Week 1 Day 3-5: Screening - Conduct asynchronous video screening using tools like HireVue or Breezy to filter out unqualified applicants (HR)",
+          "Week 1 Day 7: Skills Assessment - Utilize platforms like HackerRank or Codewars to assess candidates' programming skills and experience (Team Lead)",
+          "Week 2 Days 1-3: Interviews - Conduct video interviews with top candidates, focusing on cultural fit, problem-solving skills, and technical expertise (Hiring Manager & Team Lead)",
+          "Week 2 Day 4: Reference Checks - Verify candidate references to confirm their previous work experience and performance (HR)",
+          "Week 2 Day 5: Offer Extension - Present a job offer to the selected candidate and negotiate terms if necessary (CEO/Hiring Manager)",
+          "Week 2 Day 6-7: Onboarding Preparation - Prepare onboarding documents, set up equipment, and ensure a smooth transition for the new hire (HR & Team Lead)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead",
+          "Hiring Manager & Team Lead",
+          "HR",
+          "CEO/Hiring Manager",
+          "HR & Team Lead"
+        ],
+        "timeline_weeks": 2
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "rag",
+      "llm",
+      "pytorch"
+    ],
+    "roles": [
+      "Llm Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T01:52:10.787191"
+}

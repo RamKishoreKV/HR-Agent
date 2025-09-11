@@ -1,0 +1,175 @@
+{
+  "session_id": "af0f10c3",
+  "last_input": "HELP ME HIRE A DATA ENGINEER",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our high-growth startup in Boston as a Junior Data Engineer and drive data-driven decision-making with your technical expertise. You'll be working on building scalable, efficient data systems that fuel our company's mission. If you're passionate about data engineering and excited to tackle new challenges, let's connect!",
+        "responsibilities": [
+          "Design and implement scalable data architectures using Oracle and NoSQL databases (e.g., MongoDB)",
+          "Collaborate with cross-functional teams to identify data requirements and develop data-driven solutions",
+          "Develop and maintain high-quality database schema models to support business growth",
+          "Ensure seamless integration of cloud-based technologies for data processing and storage",
+          "Troubleshoot and optimize data system performance, identifying areas for improvement",
+          "Contribute to the development of data pipelines and workflows using cloud-based tools (e.g., AWS Glue)",
+          "Stay up-to-date with industry trends and emerging technologies in data engineering"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field; Master's a plus",
+          "1-2 years of experience in data engineering, with a strong foundation in database management systems (DBMS)",
+          "Proficiency in schema modeling, Oracle, and NoSQL databases (e.g., MongoDB)",
+          "Cloud computing experience with AWS or Azure preferred",
+          "Strong analytical and problem-solving skills, with the ability to communicate complex technical ideas",
+          "Experience with data visualization tools (e.g., Tableau) a plus",
+          "Familiarity with containerization using Docker"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1 Day 1: Launch Job Posting & Sourcing (Hiring Manager)",
+        "Week 1 Day 3: Async Video Screening (HR)",
+        "Week 1 Day 5: Skills Assessment & Initial Review (Team Lead)",
+        "Week 1 Day 7: Phone or Video Interviews (CEO/Founder)",
+        "Week 2 Day 1: Final Interview & Reference Checks (Hiring Manager)",
+        "Week 2 Day 3: Offer Extension & Negotiation (HR)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead",
+        "CEO/Founder",
+        "Hiring Manager",
+        "HR"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Engineer**. The target timeline is **2 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Engineer\n**Summary**: Join our high-growth startup in Boston as a Junior Data Engineer and drive data-driven decision-making with your technical expertise. You'll be working on building scalable, efficient data systems that fuel our company's mission. If you're passionate about data engineering and excited to tackle new challenges, let's connect!\n**Key Responsibilities:**\n- Design and implement scalable data architectures using Oracle and NoSQL databases (e.g., MongoDB)\n- Collaborate with cross-functional teams to identify data requirements and develop data-driven solutions\n- Develop and maintain high-quality database schema models to support business growth\n- Ensure seamless integration of cloud-based technologies for data processing and storage\n- Troubleshoot and optimize data system performance, identifying areas for improvement\n- Contribute to the development of data pipelines and workflows using cloud-based tools (e.g., AWS Glue)\n- Stay up-to-date with industry trends and emerging technologies in data engineering\n**Requirements:**\n- Bachelor's degree in Computer Science or related field; Master's a plus\n- 1-2 years of experience in data engineering, with a strong foundation in database management systems (DBMS)\n- Proficiency in schema modeling, Oracle, and NoSQL databases (e.g., MongoDB)\n- Cloud computing experience with AWS or Azure preferred\n- Strong analytical and problem-solving skills, with the ability to communicate complex technical ideas\n- Experience with data visualization tools (e.g., Tableau) a plus\n- Familiarity with containerization using Docker\n**Compensation:** $60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied schema modeling, dbms, cloud? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using schema modeling. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 2 weeks\n**Process Steps:**\n1. Week 1 Day 1: Launch Job Posting & Sourcing (Hiring Manager)  \n   *Owner: Hiring Manager*\n2. Week 1 Day 3: Async Video Screening (HR)  \n   *Owner: HR*\n3. Week 1 Day 5: Skills Assessment & Initial Review (Team Lead)  \n   *Owner: Team Lead*\n4. Week 1 Day 7: Phone or Video Interviews (CEO/Founder)  \n   *Owner: CEO/Founder*\n5. Week 2 Day 1: Final Interview & Reference Checks (Hiring Manager)  \n   *Owner: Hiring Manager*\n6. Week 2 Day 3: Offer Extension & Negotiation (HR)  \n   *Owner: HR*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied schema modeling, dbms, cloud? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using schema modeling. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "$60k-$85k",
+        "seniority": "junior",
+        "employment_type": "intern",
+        "location": "BOSTON",
+        "key_skills": [
+          "schema modeling",
+          "dbms",
+          "cloud",
+          "oracle",
+          "nosql",
+          "mongodb"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our high-growth startup in Boston as a Junior Data Engineer and drive data-driven decision-making with your technical expertise. You'll be working on building scalable, efficient data systems that fuel our company's mission. If you're passionate about data engineering and excited to tackle new challenges, let's connect!",
+          "responsibilities": [
+            "Design and implement scalable data architectures using Oracle and NoSQL databases (e.g., MongoDB)",
+            "Collaborate with cross-functional teams to identify data requirements and develop data-driven solutions",
+            "Develop and maintain high-quality database schema models to support business growth",
+            "Ensure seamless integration of cloud-based technologies for data processing and storage",
+            "Troubleshoot and optimize data system performance, identifying areas for improvement",
+            "Contribute to the development of data pipelines and workflows using cloud-based tools (e.g., AWS Glue)",
+            "Stay up-to-date with industry trends and emerging technologies in data engineering"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field; Master's a plus",
+            "1-2 years of experience in data engineering, with a strong foundation in database management systems (DBMS)",
+            "Proficiency in schema modeling, Oracle, and NoSQL databases (e.g., MongoDB)",
+            "Cloud computing experience with AWS or Azure preferred",
+            "Strong analytical and problem-solving skills, with the ability to communicate complex technical ideas",
+            "Experience with data visualization tools (e.g., Tableau) a plus",
+            "Familiarity with containerization using Docker"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1 Day 1: Launch Job Posting & Sourcing (Hiring Manager)",
+          "Week 1 Day 3: Async Video Screening (HR)",
+          "Week 1 Day 5: Skills Assessment & Initial Review (Team Lead)",
+          "Week 1 Day 7: Phone or Video Interviews (CEO/Founder)",
+          "Week 2 Day 1: Final Interview & Reference Checks (Hiring Manager)",
+          "Week 2 Day 3: Offer Extension & Negotiation (HR)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead",
+          "CEO/Founder",
+          "Hiring Manager",
+          "HR"
+        ],
+        "timeline_weeks": 2
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied schema modeling, dbms, cloud? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using schema modeling. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "$60k-$85k",
+    "seniority": "junior",
+    "employment_type": "intern",
+    "location": "BOSTON",
+    "key_skills": [
+      "schema modeling",
+      "dbms",
+      "cloud",
+      "oracle",
+      "nosql",
+      "mongodb"
+    ],
+    "roles": [
+      "Data Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T19:04:35.943214"
+}

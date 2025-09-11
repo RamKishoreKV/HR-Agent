@@ -1,0 +1,165 @@
+{
+  "session_id": "2fe118e1",
+  "last_input": "help me hire a data scientist",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data",
+        "summary": "Join our high-growth startup as a mid-level Data expert, where you'll drive data-driven decisions and help us scale our impact. As a key member of our team, you'll have the autonomy to design and implement data solutions that fuel our growth.",
+        "responsibilities": [
+          "Develop and maintain complex data pipelines and integrations to support business growth",
+          "Design and implement data visualizations and reports to inform strategic decisions",
+          "Collaborate with cross-functional teams to identify and prioritize data-driven initiatives",
+          "Ensure data quality, accuracy, and security through robust processes and tools",
+          "Identify opportunities for process improvements and automation",
+          "Stay up-to-date on industry trends and emerging technologies in data science",
+          "Communicate complex technical concepts to non-technical stakeholders",
+          "Develop and maintain data governance policies and procedures"
+        ],
+        "requirements": [
+          "3+ years of experience in a mid-level Data role, preferably in a startup environment",
+          "Proven track record of delivering high-impact data solutions that drive business growth",
+          "Strong understanding of data modeling, ETL processes, and data warehousing concepts",
+          "Proficiency in SQL, Python, and/or R programming languages",
+          "Experience with cloud-based data platforms (e.g. AWS, Google Cloud)",
+          "Familiarity with data visualization tools (e.g. Tableau, Power BI)",
+          "Certifications in data science or related fields (e.g. Certified Data Scientist)",
+          "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize social media, employee referrals, and relevant online platforms to identify top talent in the data space",
+        "Weeks 2-3: Async Video Screening - Conduct initial video interviews with top candidates to assess fit and culture alignment (15-minute recordings)",
+        "Week 4: Skills Assessment - Develop a customized coding challenge or skills test to evaluate technical abilities (1 hour, online)",
+        "Weeks 5-6: In-Person Interviews - Invite top performers for in-person interviews with the team lead and hiring manager (60-minute sessions)",
+        "Weeks 7: Reference Checks - Conduct thorough reference checks with previous employers or professional contacts",
+        "Week 8: Offer & Onboarding - Extend offer to chosen candidate, negotiate terms, and begin onboarding process"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Recruiter)",
+        "Team Lead (Department of focus)",
+        "CEO (Final approval)",
+        "Hiring Manager",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data\n**Summary**: Join our high-growth startup as a mid-level Data expert, where you'll drive data-driven decisions and help us scale our impact. As a key member of our team, you'll have the autonomy to design and implement data solutions that fuel our growth.\n**Key Responsibilities:**\n- Develop and maintain complex data pipelines and integrations to support business growth\n- Design and implement data visualizations and reports to inform strategic decisions\n- Collaborate with cross-functional teams to identify and prioritize data-driven initiatives\n- Ensure data quality, accuracy, and security through robust processes and tools\n- Identify opportunities for process improvements and automation\n- Stay up-to-date on industry trends and emerging technologies in data science\n- Communicate complex technical concepts to non-technical stakeholders\n- Develop and maintain data governance policies and procedures\n**Requirements:**\n- 3+ years of experience in a mid-level Data role, preferably in a startup environment\n- Proven track record of delivering high-impact data solutions that drive business growth\n- Strong understanding of data modeling, ETL processes, and data warehousing concepts\n- Proficiency in SQL, Python, and/or R programming languages\n- Experience with cloud-based data platforms (e.g. AWS, Google Cloud)\n- Familiarity with data visualization tools (e.g. Tableau, Power BI)\n- Certifications in data science or related fields (e.g. Certified Data Scientist)\n- Bachelor's degree in Computer Science, Mathematics, Statistics, or related field\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize social media, employee referrals, and relevant online platforms to identify top talent in the data space  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Async Video Screening - Conduct initial video interviews with top candidates to assess fit and culture alignment (15-minute recordings)  \n   *Owner: HR (Recruiter)*\n3. Week 4: Skills Assessment - Develop a customized coding challenge or skills test to evaluate technical abilities (1 hour, online)  \n   *Owner: Team Lead (Department of focus)*\n4. Weeks 5-6: In-Person Interviews - Invite top performers for in-person interviews with the team lead and hiring manager (60-minute sessions)  \n   *Owner: CEO (Final approval)*\n5. Weeks 7: Reference Checks - Conduct thorough reference checks with previous employers or professional contacts  \n   *Owner: Hiring Manager*\n6. Week 8: Offer & Onboarding - Extend offer to chosen candidate, negotiate terms, and begin onboarding process  \n   *Owner: Hiring Manager*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "Data"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data",
+          "summary": "Join our high-growth startup as a mid-level Data expert, where you'll drive data-driven decisions and help us scale our impact. As a key member of our team, you'll have the autonomy to design and implement data solutions that fuel our growth.",
+          "responsibilities": [
+            "Develop and maintain complex data pipelines and integrations to support business growth",
+            "Design and implement data visualizations and reports to inform strategic decisions",
+            "Collaborate with cross-functional teams to identify and prioritize data-driven initiatives",
+            "Ensure data quality, accuracy, and security through robust processes and tools",
+            "Identify opportunities for process improvements and automation",
+            "Stay up-to-date on industry trends and emerging technologies in data science",
+            "Communicate complex technical concepts to non-technical stakeholders",
+            "Develop and maintain data governance policies and procedures"
+          ],
+          "requirements": [
+            "3+ years of experience in a mid-level Data role, preferably in a startup environment",
+            "Proven track record of delivering high-impact data solutions that drive business growth",
+            "Strong understanding of data modeling, ETL processes, and data warehousing concepts",
+            "Proficiency in SQL, Python, and/or R programming languages",
+            "Experience with cloud-based data platforms (e.g. AWS, Google Cloud)",
+            "Familiarity with data visualization tools (e.g. Tableau, Power BI)",
+            "Certifications in data science or related fields (e.g. Certified Data Scientist)",
+            "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize social media, employee referrals, and relevant online platforms to identify top talent in the data space",
+          "Weeks 2-3: Async Video Screening - Conduct initial video interviews with top candidates to assess fit and culture alignment (15-minute recordings)",
+          "Week 4: Skills Assessment - Develop a customized coding challenge or skills test to evaluate technical abilities (1 hour, online)",
+          "Weeks 5-6: In-Person Interviews - Invite top performers for in-person interviews with the team lead and hiring manager (60-minute sessions)",
+          "Weeks 7: Reference Checks - Conduct thorough reference checks with previous employers or professional contacts",
+          "Week 8: Offer & Onboarding - Extend offer to chosen candidate, negotiate terms, and begin onboarding process"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Recruiter)",
+          "Team Lead (Department of focus)",
+          "CEO (Final approval)",
+          "Hiring Manager",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data"
+    ]
+  },
+  "timestamp": "2025-09-10T19:07:34.337616"
+}

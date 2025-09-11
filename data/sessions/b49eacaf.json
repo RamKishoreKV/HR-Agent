@@ -1,0 +1,143 @@
+{
+  "session_id": "b49eacaf",
+  "last_input": "help me hire a business analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Business Analyst",
+        "summary": "Join our high-growth startup as a Business Analyst to drive data-driven decision making and process improvements across the organization. As a key member of our team, you will work closely with stakeholders to gather requirements, analyze complex data sets, and develop actionable insights that fuel business growth.",
+        "responsibilities": [
+          "Develop and maintain comprehensive business requirements documents to inform product development and process enhancements",
+          "Design and implement effective dashboards to provide real-time visibility into key performance indicators",
+          "Collaborate with cross-functional teams to gather requirements and develop solutions that meet stakeholder needs",
+          "Analyze complex data sets using SQL to identify trends, opportunities, and areas for improvement",
+          "Develop process maps to optimize business workflows and reduce inefficiencies",
+          "Manage stakeholder expectations and communicate findings in a clear, concise manner",
+          "Identify and prioritize business opportunities through data analysis and market research",
+          "Stay up-to-date with industry trends and emerging technologies to inform business strategy"
+        ],
+        "requirements": [
+          "3+ years of experience in business analysis or a related field",
+          "Strong SQL skills and experience working with large datasets",
+          "Ability to communicate complex information to non-technical stakeholders",
+          "Experience with data visualization tools such as Tableau or Power BI",
+          "Proven ability to work effectively in a fast-paced, dynamic environment",
+          "Strong stakeholder management and relationship-building skills",
+          "BA/BS degree in Business Administration, Computer Science, or related field",
+          "Certifications in business analysis or project management a plus"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [],
+      "owners": [],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Business Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Business Analyst\n**Summary**: Join our high-growth startup as a Business Analyst to drive data-driven decision making and process improvements across the organization. As a key member of our team, you will work closely with stakeholders to gather requirements, analyze complex data sets, and develop actionable insights that fuel business growth.\n**Key Responsibilities:**\n- Develop and maintain comprehensive business requirements documents to inform product development and process enhancements\n- Design and implement effective dashboards to provide real-time visibility into key performance indicators\n- Collaborate with cross-functional teams to gather requirements and develop solutions that meet stakeholder needs\n- Analyze complex data sets using SQL to identify trends, opportunities, and areas for improvement\n- Develop process maps to optimize business workflows and reduce inefficiencies\n- Manage stakeholder expectations and communicate findings in a clear, concise manner\n- Identify and prioritize business opportunities through data analysis and market research\n- Stay up-to-date with industry trends and emerging technologies to inform business strategy\n**Requirements:**\n- 3+ years of experience in business analysis or a related field\n- Strong SQL skills and experience working with large datasets\n- Ability to communicate complex information to non-technical stakeholders\n- Experience with data visualization tools such as Tableau or Power BI\n- Proven ability to work effectively in a fast-paced, dynamic environment\n- Strong stakeholder management and relationship-building skills\n- BA/BS degree in Business Administration, Computer Science, or related field\n- Certifications in business analysis or project management a plus\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied Requirements Gathering, SQL, Dashboards? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Requirements Gathering. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Requirements Gathering, SQL, Dashboards? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Requirements Gathering. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Requirements Gathering",
+          "SQL",
+          "Dashboards",
+          "Stakeholder Management",
+          "Process Mapping"
+        ],
+        "roles": [
+          "Business Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Business Analyst",
+          "summary": "Join our high-growth startup as a Business Analyst to drive data-driven decision making and process improvements across the organization. As a key member of our team, you will work closely with stakeholders to gather requirements, analyze complex data sets, and develop actionable insights that fuel business growth.",
+          "responsibilities": [
+            "Develop and maintain comprehensive business requirements documents to inform product development and process enhancements",
+            "Design and implement effective dashboards to provide real-time visibility into key performance indicators",
+            "Collaborate with cross-functional teams to gather requirements and develop solutions that meet stakeholder needs",
+            "Analyze complex data sets using SQL to identify trends, opportunities, and areas for improvement",
+            "Develop process maps to optimize business workflows and reduce inefficiencies",
+            "Manage stakeholder expectations and communicate findings in a clear, concise manner",
+            "Identify and prioritize business opportunities through data analysis and market research",
+            "Stay up-to-date with industry trends and emerging technologies to inform business strategy"
+          ],
+          "requirements": [
+            "3+ years of experience in business analysis or a related field",
+            "Strong SQL skills and experience working with large datasets",
+            "Ability to communicate complex information to non-technical stakeholders",
+            "Experience with data visualization tools such as Tableau or Power BI",
+            "Proven ability to work effectively in a fast-paced, dynamic environment",
+            "Strong stakeholder management and relationship-building skills",
+            "BA/BS degree in Business Administration, Computer Science, or related field",
+            "Certifications in business analysis or project management a plus"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [],
+        "owners": [],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Requirements Gathering, SQL, Dashboards? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Requirements Gathering. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Business Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T19:28:55.261692"
+}

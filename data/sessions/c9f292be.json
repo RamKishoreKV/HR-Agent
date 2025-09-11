@@ -1,0 +1,131 @@
+{
+  "session_id": "c9f292be",
+  "last_input": "data engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Engineer",
+        "summary": "Join our high-growth startup as a mid-level Data Engineer, where you'll design and develop scalable data pipelines that drive business decisions. You'll work closely with cross-functional teams to build a data infrastructure that fuels our company's rapid expansion. If you're passionate about data engineering and excited about the opportunity to make a real impact, we want to hear from you!",
+        "responsibilities": [
+          "Design and develop scalable data pipelines using cloud-based technologies such as AWS or GCP",
+          "Collaborate with data scientists and analysts to build data products that inform business decisions",
+          "Develop and maintain high-performance databases using SQL and NoSQL technologies",
+          "Ensure data quality, accuracy, and security through robust testing and validation processes",
+          "Work closely with engineering teams to integrate data pipelines into our application stack",
+          "Contribute to the development of our company's data architecture and roadmap",
+          "Stay up-to-date with industry trends and emerging technologies in data engineering"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Engineer or similar role",
+          "Strong expertise in cloud computing (AWS, GCP, Azure) and big data technologies (Hadoop, Spark)",
+          "Proficiency in SQL and NoSQL databases (e.g. PostgreSQL, MongoDB)",
+          "Experience with data processing frameworks such as Apache Beam or Flink",
+          "Familiarity with containerization using Docker and orchestration using Kubernetes",
+          "Strong understanding of data security and compliance principles",
+          "BA/BS degree in Computer Science, Engineering, or related field"
+        ],
+        "compensation_note": "$60,000 - $80,000 per year plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Post job descriptions on key job boards",
+        "Source candidates through LinkedIn and referrals",
+        "Conduct initial phone screenings",
+        "Technical assessment and skills evaluation",
+        "Team interviews and culture fit assessment",
+        "Reference checks and background verification",
+        "Final interviews with leadership",
+        "Prepare and send offer letters",
+        "Onboarding and first week planning"
+      ],
+      "owners": [
+        "HR Team",
+        "Recruiting Team",
+        "HR Team",
+        "Hiring Manager",
+        "Team Lead",
+        "HR Team",
+        "CEO",
+        "HR Team",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nThis comprehensive hiring plan is designed to attract top talent as a Data Engineer for our high-growth startup. The plan outlines a structured approach to sourcing, evaluating, and hiring the best candidate within an 8-week timeline.\n\n## Job Descriptions\n\n### Data Engineer\n\n**Summary:** Join our high-growth startup as a mid-level Data Engineer, where you'll design and develop scalable data pipelines that drive business decisions.\n\n**Key Responsibilities:**\n\n* Design and develop scalable data pipelines\n* Work closely with cross-functional teams to build a data infrastructure\n* Drive business decisions through data insights\n\n**Requirements:**\n\n* 3+ years of experience in data engineering\n* Strong understanding of cloud-based technologies (e.g., AWS, GCP)\n* Experience with data warehousing and ETL processes\n* Excellent problem-solving and communication skills\n\n**Compensation:** Competitive salary and equity package.\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n\n1. **Post job descriptions on key job boards** - *Owner: HR Team*\n\t+ Identify top job boards for data engineering roles (e.g., Glassdoor, Indeed)\n\t+ Craft compelling job descriptions highlighting our company culture and benefits\n2. **Source candidates through LinkedIn and referrals** - *Owner: Recruiting Team*\n\t+ Leverage LinkedIn's job posting features to reach a wider audience\n\t+ Encourage employees and network contacts to refer qualified candidates\n3. **Conduct initial phone screenings** - *Owner: HR Team*\n\t+ Schedule phone calls with top candidates to assess their fit for the role\n\t+ Ask behavioral questions to gauge their problem-solving skills and experience\n4. **Technical assessment and skills evaluation** - *Owner: Hiring Manager*\n\t+ Develop a technical challenge or coding exercise to evaluate candidate's skills\n\t+ Review resumes and cover letters for relevant experience and education\n5. **Team interviews and culture fit assessment** - *Owner: Team Lead*\n\t+ Schedule in-person or video interviews with the team lead and other stakeholders\n\t+ Assess candidate's alignment with our company values and culture\n6. **Reference checks and background verification** - *Owner: HR Team*\n\t+ Conduct thorough reference checks to verify candidate's work experience and skills\n\t+ Run background checks to ensure compliance with company policies\n7. **Final interviews with leadership** - *Owner: CEO*\n\t+ Schedule final interview with the CEO or other senior leaders\n\t+ Discuss company vision, goals, and expectations in detail\n8. **Prepare and send offer letters** - *Owner: HR Team*\n\t+ Create customized offer letters outlining compensation, benefits, and equity package\n\t+ Send offers to selected candidates within 24 hours of final interview\n9. **Onboarding and first week planning** - *Owner: Hiring Manager*\n\t+ Develop a comprehensive onboarding plan for new hire's first week\n\t+ Schedule meetings with key stakeholders and team members\n\n## Next Steps\n\n* Post job descriptions on key job boards by end of Week 1.\n* Source candidates through LinkedIn and referrals, and conduct initial phone screenings by end of Week 2.\n* Complete technical assessment and skills evaluation by end of Week 3.\n* Conduct team interviews and culture fit assessments by end of Week 4.\n* Run reference checks and background verification by end of Week 5.\n* Finalize offer letters and send to selected candidates by end of Week 6.\n* Onboard new hire and complete first week planning by start of Week 8.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "$60,000 - $80,000 per year",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "Remote or NYC office",
+        "key_skills": [
+          "data engineering",
+          "cloud computing",
+          "big data",
+          "sql"
+        ],
+        "roles": [
+          "Data Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Engineer",
+          "summary": "Join our high-growth startup as a mid-level Data Engineer, where you'll design and develop scalable data pipelines that drive business decisions. You'll work closely with cross-functional teams to build a data infrastructure that fuels our company's rapid expansion. If you're passionate about data engineering and excited about the opportunity to make a real impact, we want to hear from you!",
+          "responsibilities": [
+            "Design and develop scalable data pipelines using cloud-based technologies such as AWS or GCP",
+            "Collaborate with data scientists and analysts to build data products that inform business decisions",
+            "Develop and maintain high-performance databases using SQL and NoSQL technologies",
+            "Ensure data quality, accuracy, and security through robust testing and validation processes",
+            "Work closely with engineering teams to integrate data pipelines into our application stack",
+            "Contribute to the development of our company's data architecture and roadmap",
+            "Stay up-to-date with industry trends and emerging technologies in data engineering"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Engineer or similar role",
+            "Strong expertise in cloud computing (AWS, GCP, Azure) and big data technologies (Hadoop, Spark)",
+            "Proficiency in SQL and NoSQL databases (e.g. PostgreSQL, MongoDB)",
+            "Experience with data processing frameworks such as Apache Beam or Flink",
+            "Familiarity with containerization using Docker and orchestration using Kubernetes",
+            "Strong understanding of data security and compliance principles",
+            "BA/BS degree in Computer Science, Engineering, or related field"
+          ],
+          "compensation_note": "$60,000 - $80,000 per year plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Post job descriptions on key job boards",
+          "Source candidates through LinkedIn and referrals",
+          "Conduct initial phone screenings",
+          "Technical assessment and skills evaluation",
+          "Team interviews and culture fit assessment",
+          "Reference checks and background verification",
+          "Final interviews with leadership",
+          "Prepare and send offer letters",
+          "Onboarding and first week planning"
+        ],
+        "owners": [
+          "HR Team",
+          "Recruiting Team",
+          "HR Team",
+          "Hiring Manager",
+          "Team Lead",
+          "HR Team",
+          "CEO",
+          "HR Team",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-09T22:54:37.864906"
+}

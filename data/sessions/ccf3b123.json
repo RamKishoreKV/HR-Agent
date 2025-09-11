@@ -1,0 +1,177 @@
+{
+  "session_id": "ccf3b123",
+  "last_input": "hire a financial analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Financial Analyst",
+        "summary": "Join our dynamic startup as a Financial Analyst, where you'll play a pivotal role in driving business growth and making data-driven decisions. As a key member of our finance team, you'll have the opportunity to develop your skills, take on new challenges, and contribute to our mission to revolutionize [industry/field].",
+        "responsibilities": [
+          "Develop and maintain financial models to inform business strategy and investment decisions",
+          "Analyze market trends and economic data using SAS and other tools to identify opportunities and risks",
+          "Collaborate with cross-functional teams to drive growth initiatives and optimize resource allocation",
+          "Design and implement dashboards to track key performance indicators (KPIs) and provide actionable insights",
+          "Conduct financial analysis and forecasting to support business planning and decision-making",
+          "Identify areas for cost savings and process improvements, implementing changes as needed",
+          "Develop and maintain relationships with external partners and vendors to optimize financial performance",
+          "Stay up-to-date on industry trends and emerging best practices in finance and analytics"
+        ],
+        "requirements": [
+          "Bachelor's degree in Economics, Finance, or related field (Master's preferred)",
+          "1-2 years of experience in a financial analysis role (startup or consulting background a plus)",
+          "Strong analytical skills with ability to collect, analyze, and interpret complex data",
+          "Proficiency in SAS programming language and other finance-related tools",
+          "Excellent communication and collaboration skills, with ability to work cross-functionally",
+          "Experience with financial modeling and forecasting techniques (e.g., Excel, Python)",
+          "Ability to think critically and strategically, identifying areas for growth and improvement",
+          "Familiarity with cloud-based software applications (e.g., Salesforce, Google Drive)"
+        ],
+        "compensation_note": "50k-70k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1 Day 1-2: Sourcing - Utilize LinkedIn, Glassdoor, and industry-specific platforms to post job ads and reach out to potential candidates",
+        "Week 1 Day 3-4: Screening - Use asynchronous video screening tool (e.g. HireVue) for initial interviews with 10-15 candidates",
+        "Week 1 Day 5: Skills Assessment - Send top 5 candidates a skills assessment (e.g. Excel challenges, data analysis tasks)",
+        "Week 2 Day 1: Interviews - Schedule in-person or video interviews with top 3 candidates, including CEO/Team Lead and Hiring Manager",
+        "Week 2 Day 2-3: Reference Checks - Conduct thorough reference checks for final candidate(s)",
+        "Week 2 Day 4: Offer Extension - Extend offer to successful candidate, including salary, benefits, and equity details",
+        "Week 2 Day 5: Onboarding Prep - Finalize onboarding process, including paperwork, equipment setup, and team introductions"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (recruitment specialist)",
+        "CEO/Team Lead",
+        "Hiring Manager",
+        "Hiring Manager & CEO/Team Lead",
+        "CEO/Founder",
+        "HR (onboarding specialist)"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Financial Analyst**. The target timeline is **2 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Financial Analyst\n**Summary**: Join our dynamic startup as a Financial Analyst, where you'll play a pivotal role in driving business growth and making data-driven decisions. As a key member of our finance team, you'll have the opportunity to develop your skills, take on new challenges, and contribute to our mission to revolutionize [industry/field].\n**Key Responsibilities:**\n- Develop and maintain financial models to inform business strategy and investment decisions\n- Analyze market trends and economic data using SAS and other tools to identify opportunities and risks\n- Collaborate with cross-functional teams to drive growth initiatives and optimize resource allocation\n- Design and implement dashboards to track key performance indicators (KPIs) and provide actionable insights\n- Conduct financial analysis and forecasting to support business planning and decision-making\n- Identify areas for cost savings and process improvements, implementing changes as needed\n- Develop and maintain relationships with external partners and vendors to optimize financial performance\n- Stay up-to-date on industry trends and emerging best practices in finance and analytics\n**Requirements:**\n- Bachelor's degree in Economics, Finance, or related field (Master's preferred)\n- 1-2 years of experience in a financial analysis role (startup or consulting background a plus)\n- Strong analytical skills with ability to collect, analyze, and interpret complex data\n- Proficiency in SAS programming language and other finance-related tools\n- Excellent communication and collaboration skills, with ability to work cross-functionally\n- Experience with financial modeling and forecasting techniques (e.g., Excel, Python)\n- Ability to think critically and strategically, identifying areas for growth and improvement\n- Familiarity with cloud-based software applications (e.g., Salesforce, Google Drive)\n**Compensation:** 50k-70k plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied analysis, sas, economics? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using analysis. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 2 weeks\n**Process Steps:**\n1. Week 1 Day 1-2: Sourcing - Utilize LinkedIn, Glassdoor, and industry-specific platforms to post job ads and reach out to potential candidates  \n   *Owner: Hiring Manager*\n2. Week 1 Day 3-4: Screening - Use asynchronous video screening tool (e.g. HireVue) for initial interviews with 10-15 candidates  \n   *Owner: HR (recruitment specialist)*\n3. Week 1 Day 5: Skills Assessment - Send top 5 candidates a skills assessment (e.g. Excel challenges, data analysis tasks)  \n   *Owner: CEO/Team Lead*\n4. Week 2 Day 1: Interviews - Schedule in-person or video interviews with top 3 candidates, including CEO/Team Lead and Hiring Manager  \n   *Owner: Hiring Manager*\n5. Week 2 Day 2-3: Reference Checks - Conduct thorough reference checks for final candidate(s)  \n   *Owner: Hiring Manager & CEO/Team Lead*\n6. Week 2 Day 4: Offer Extension - Extend offer to successful candidate, including salary, benefits, and equity details  \n   *Owner: CEO/Founder*\n7. Week 2 Day 5: Onboarding Prep - Finalize onboarding process, including paperwork, equipment setup, and team introductions  \n   *Owner: HR (onboarding specialist)*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied analysis, sas, economics? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using analysis. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "50k-70k",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "analysis",
+          "sas",
+          "economics"
+        ],
+        "roles": [
+          "Financial Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Financial Analyst",
+          "summary": "Join our dynamic startup as a Financial Analyst, where you'll play a pivotal role in driving business growth and making data-driven decisions. As a key member of our finance team, you'll have the opportunity to develop your skills, take on new challenges, and contribute to our mission to revolutionize [industry/field].",
+          "responsibilities": [
+            "Develop and maintain financial models to inform business strategy and investment decisions",
+            "Analyze market trends and economic data using SAS and other tools to identify opportunities and risks",
+            "Collaborate with cross-functional teams to drive growth initiatives and optimize resource allocation",
+            "Design and implement dashboards to track key performance indicators (KPIs) and provide actionable insights",
+            "Conduct financial analysis and forecasting to support business planning and decision-making",
+            "Identify areas for cost savings and process improvements, implementing changes as needed",
+            "Develop and maintain relationships with external partners and vendors to optimize financial performance",
+            "Stay up-to-date on industry trends and emerging best practices in finance and analytics"
+          ],
+          "requirements": [
+            "Bachelor's degree in Economics, Finance, or related field (Master's preferred)",
+            "1-2 years of experience in a financial analysis role (startup or consulting background a plus)",
+            "Strong analytical skills with ability to collect, analyze, and interpret complex data",
+            "Proficiency in SAS programming language and other finance-related tools",
+            "Excellent communication and collaboration skills, with ability to work cross-functionally",
+            "Experience with financial modeling and forecasting techniques (e.g., Excel, Python)",
+            "Ability to think critically and strategically, identifying areas for growth and improvement",
+            "Familiarity with cloud-based software applications (e.g., Salesforce, Google Drive)"
+          ],
+          "compensation_note": "50k-70k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1 Day 1-2: Sourcing - Utilize LinkedIn, Glassdoor, and industry-specific platforms to post job ads and reach out to potential candidates",
+          "Week 1 Day 3-4: Screening - Use asynchronous video screening tool (e.g. HireVue) for initial interviews with 10-15 candidates",
+          "Week 1 Day 5: Skills Assessment - Send top 5 candidates a skills assessment (e.g. Excel challenges, data analysis tasks)",
+          "Week 2 Day 1: Interviews - Schedule in-person or video interviews with top 3 candidates, including CEO/Team Lead and Hiring Manager",
+          "Week 2 Day 2-3: Reference Checks - Conduct thorough reference checks for final candidate(s)",
+          "Week 2 Day 4: Offer Extension - Extend offer to successful candidate, including salary, benefits, and equity details",
+          "Week 2 Day 5: Onboarding Prep - Finalize onboarding process, including paperwork, equipment setup, and team introductions"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (recruitment specialist)",
+          "CEO/Team Lead",
+          "Hiring Manager",
+          "Hiring Manager & CEO/Team Lead",
+          "CEO/Founder",
+          "HR (onboarding specialist)"
+        ],
+        "timeline_weeks": 2
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied analysis, sas, economics? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using analysis. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "50k-70k",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "analysis",
+      "sas",
+      "economics"
+    ],
+    "roles": [
+      "Financial Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T19:09:58.248809"
+}

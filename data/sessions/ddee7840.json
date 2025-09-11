@@ -1,0 +1,124 @@
+{
+  "session_id": "ddee7840",
+  "last_input": "quesitons for screening",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Data Analyst, where you'll play a crucial role in shaping our data-driven decision making and driving business growth. You'll work closely with cross-functional teams to uncover insights, optimize operations, and inform product development. If you're passionate about using data to tell stories and drive impact, we want to hear from you!",
+        "responsibilities": [
+          "Develop and maintain complex SQL queries to extract insights from large datasets",
+          "Design and implement dashboards and reports using BI tools to communicate findings to stakeholders",
+          "Collaborate with product teams to inform feature development and prioritize business-critical initiatives",
+          "Conduct A/B testing and analyze results to optimize user experience and conversion rates",
+          "Stay up-to-date on industry trends and emerging technologies, applying new techniques to improve data analysis and visualization",
+          "Communicate complex data insights effectively to non-technical stakeholders through clear storytelling and visualizations",
+          "Work closely with our engineering team to implement data-driven solutions and iterate on existing processes"
+        ],
+        "requirements": [
+          "3+ years of experience in a data analyst role, with expertise in SQL and Python",
+          "Strong understanding of statistical concepts and ability to apply them in real-world scenarios",
+          "Experience with BI tools (Tableau, Power BI, Looker) and ability to create interactive dashboards",
+          "A/B testing and experimentation knowledge, with a proven track record of driving meaningful results",
+          "Excellent communication and storytelling skills, with the ability to distill complex data insights into actionable recommendations",
+          "Strong problem-solving skills, with experience working in fast-paced environments and meeting tight deadlines",
+          "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize social media, job boards, and professional networks to attract top talent.",
+        "Weeks 3-4: Screening - Implement an asynchronous video screening process to pre-filter candidates based on skills and experience.",
+        "Weeks 5-6: Interviews - Conduct a combination of coding challenges and behavioral interviews with the team lead and hiring manager.",
+        "Week 7: Reference Checks - Verify candidate references through phone or video calls with their previous managers.",
+        "Week 8: Offer & Onboarding - Make a job offer to the selected candidate, finalize onboarding details, and plan for their first day."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Recruiting Specialist)",
+        "Team Lead (Data Analysis)",
+        "CEO (Final Approval)",
+        "HR (Onboarding & Compliance)"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n**Summary**: Join our high-growth startup as a Data Analyst, where you'll play a crucial role in shaping our data-driven decision making and driving business growth. You'll work closely with cross-functional teams to uncover insights, optimize operations, and inform product development. If you're passionate about using data to tell stories and drive impact, we want to hear from you!\n**Key Responsibilities:**\n- Develop and maintain complex SQL queries to extract insights from large datasets\n- Design and implement dashboards and reports using BI tools to communicate findings to stakeholders\n- Collaborate with product teams to inform feature development and prioritize business-critical initiatives\n- Conduct A/B testing and analyze results to optimize user experience and conversion rates\n- Stay up-to-date on industry trends and emerging technologies, applying new techniques to improve data analysis and visualization\n- Communicate complex data insights effectively to non-technical stakeholders through clear storytelling and visualizations\n- Work closely with our engineering team to implement data-driven solutions and iterate on existing processes\n**Requirements:**\n- 3+ years of experience in a data analyst role, with expertise in SQL and Python\n- Strong understanding of statistical concepts and ability to apply them in real-world scenarios\n- Experience with BI tools (Tableau, Power BI, Looker) and ability to create interactive dashboards\n- A/B testing and experimentation knowledge, with a proven track record of driving meaningful results\n- Excellent communication and storytelling skills, with the ability to distill complex data insights into actionable recommendations\n- Strong problem-solving skills, with experience working in fast-paced environments and meeting tight deadlines\n- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize social media, job boards, and professional networks to attract top talent.  \n   *Owner: Hiring Manager*\n2. Weeks 3-4: Screening - Implement an asynchronous video screening process to pre-filter candidates based on skills and experience.  \n   *Owner: HR (Recruiting Specialist)*\n3. Weeks 5-6: Interviews - Conduct a combination of coding challenges and behavioral interviews with the team lead and hiring manager.  \n   *Owner: Team Lead (Data Analysis)*\n4. Week 7: Reference Checks - Verify candidate references through phone or video calls with their previous managers.  \n   *Owner: CEO (Final Approval)*\n5. Week 8: Offer & Onboarding - Make a job offer to the selected candidate, finalize onboarding details, and plan for their first day.  \n   *Owner: HR (Onboarding & Compliance)*\n\n## Interview Kit\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "SQL",
+          "Python",
+          "Dashboards",
+          "BI Tools",
+          "A/B Testing"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Data Analyst, where you'll play a crucial role in shaping our data-driven decision making and driving business growth. You'll work closely with cross-functional teams to uncover insights, optimize operations, and inform product development. If you're passionate about using data to tell stories and drive impact, we want to hear from you!",
+          "responsibilities": [
+            "Develop and maintain complex SQL queries to extract insights from large datasets",
+            "Design and implement dashboards and reports using BI tools to communicate findings to stakeholders",
+            "Collaborate with product teams to inform feature development and prioritize business-critical initiatives",
+            "Conduct A/B testing and analyze results to optimize user experience and conversion rates",
+            "Stay up-to-date on industry trends and emerging technologies, applying new techniques to improve data analysis and visualization",
+            "Communicate complex data insights effectively to non-technical stakeholders through clear storytelling and visualizations",
+            "Work closely with our engineering team to implement data-driven solutions and iterate on existing processes"
+          ],
+          "requirements": [
+            "3+ years of experience in a data analyst role, with expertise in SQL and Python",
+            "Strong understanding of statistical concepts and ability to apply them in real-world scenarios",
+            "Experience with BI tools (Tableau, Power BI, Looker) and ability to create interactive dashboards",
+            "A/B testing and experimentation knowledge, with a proven track record of driving meaningful results",
+            "Excellent communication and storytelling skills, with the ability to distill complex data insights into actionable recommendations",
+            "Strong problem-solving skills, with experience working in fast-paced environments and meeting tight deadlines",
+            "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize social media, job boards, and professional networks to attract top talent.",
+          "Weeks 3-4: Screening - Implement an asynchronous video screening process to pre-filter candidates based on skills and experience.",
+          "Weeks 5-6: Interviews - Conduct a combination of coding challenges and behavioral interviews with the team lead and hiring manager.",
+          "Week 7: Reference Checks - Verify candidate references through phone or video calls with their previous managers.",
+          "Week 8: Offer & Onboarding - Make a job offer to the selected candidate, finalize onboarding details, and plan for their first day."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Recruiting Specialist)",
+          "Team Lead (Data Analysis)",
+          "CEO (Final Approval)",
+          "HR (Onboarding & Compliance)"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [],
+        "screening_guide": [],
+        "evaluation_rubric": [],
+        "scorecard": [],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T18:21:27.743486"
+}

@@ -1,0 +1,139 @@
+{
+  "session_id": "7abc40f5",
+  "last_input": "help me hire a  front end develo[per",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Front End Develo",
+        "summary": "Join our team of innovators as a Front End Developer, where you'll have the opportunity to shape the user experience for our cutting-edge products and services. You'll be part of a fast-paced environment that's all about impact-driven development and growth-minded solutions.",
+        "responsibilities": [
+          "Craft high-quality, responsive web applications using HTML, CSS, JS, and TypeScript",
+          "Collaborate with cross-functional teams to design and implement new features and products",
+          "Develop reusable code components and maintain a clean, modular codebase",
+          "Troubleshoot and resolve front-end issues quickly and efficiently",
+          "Stay up-to-date with the latest front-end technologies and frameworks",
+          "Contribute to the development of our tech stack and propose improvements",
+          "Work closely with designers to bring their visions to life",
+          "Participate in code reviews and provide feedback to improve team's coding standards"
+        ],
+        "requirements": [
+          "2+ years of experience in front-end development (JavaScript, HTML/CSS)",
+          "Strong understanding of TypeScript and its ecosystem",
+          "Experience with modern front-end frameworks (e.g. React, Angular)",
+          "Familiarity with state management libraries (e.g. Redux, MobX)",
+          "Knowledge of CSS preprocessors (e.g. Sass, Less)",
+          "Understanding of web performance optimization techniques",
+          "Excellent problem-solving skills and attention to detail",
+          "Experience with version control systems (Git)"
+        ],
+        "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Job Description and Sourcing - Create a clear job description, define required skills, and source potential candidates through social media, job boards, and referrals.",
+        "Week 1-2: Async Video Screening - Conduct an initial screening of candidates using async video screenings to assess their communication skills and fit for the role.",
+        "Week 2: Skills Assessments - Send relevant skills assessments to selected candidates to evaluate their technical abilities.",
+        "Week 3: In-Person Interviews - Invite top candidates for in-person interviews with key team members, including a technical interview.",
+        "Week 4: Reference Checks and Offer Extension - Perform reference checks on the final candidate(s) and extend an offer once all steps are complete.",
+        "Week 4: Onboarding Preparation - Prepare an onboarding plan for the new hire, including setting up equipment, scheduling training sessions, etc."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "Recruiter/HR",
+        "Team Lead/Technical Expert",
+        "CEO/Hiring Manager",
+        "Hiring Manager/REC",
+        "HR"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nWe're seeking a talented Front End Developer to join our team of innovators. This hiring initiative aims to attract top talent with strong technical skills and a passion for impact-driven development.\n\n## Job Descriptions\n\n### Front End Developer\n\n**Summary:** Join our team of innovators as a Front End Developer, where you'll have the opportunity to shape the user experience for our cutting-edge products and services.\n\n**Key Responsibilities:**\n- Design and develop visually appealing and user-friendly front-end interfaces\n- Collaborate with cross-functional teams to identify and prioritize product features\n- Stay up-to-date with industry trends and emerging technologies\n\n**Requirements:**\n- 2+ years of experience in front-end development (JavaScript, HTML/CSS)\n- Strong understanding of responsive design principles and mobile-first approach\n- Familiarity with modern front-end frameworks (React, Angular) a plus\n\n**Compensation:** Competitive salary and benefits package, including equity options.\n\n## Hiring Process Plan\n\n**Timeline:** 4 weeks\n\n**Process Steps:**\n1. **Week 1: Job Description and Sourcing** - Create a clear job description, define required skills, and source potential candidates through social media, job boards, and referrals.\n\t* Owner: Hiring Manager\n2. **Week 1-2: Async Video Screening** - Conduct an initial screening of candidates using async video screenings to assess their communication skills and fit for the role.\n\t* Owner: Recruiter/HR\n3. **Week 2: Skills Assessments** - Send relevant skills assessments to selected candidates to evaluate their technical abilities.\n\t* Owner: Team Lead/Technical Expert\n4. **Week 3: In-Person Interviews** - Invite top candidates for in-person interviews with key team members, including a technical interview.\n\t* Owner: CEO/Hiring Manager\n5. **Week 4: Reference Checks and Offer Extension** - Perform reference checks on the final candidate(s) and extend an offer once all steps are complete.\n\t* Owner: Hiring Manager/REC\n6. **Week 4: Onboarding Preparation** - Prepare an onboarding plan for the new hire, including setting up equipment, scheduling training sessions, etc.\n\t* Owner: HR\n\n## Next Steps\nAs the hiring manager, please:\n\n* Finalize the job description and post it on relevant job boards and social media channels by the end of Week 1.\n* Conduct async video screenings with selected candidates during Week 2.\n* Schedule in-person interviews for top candidates during Week 3.\n\nHR team, please:\n\n* Assist with sourcing potential candidates through referrals and job boards.\n* Coordinate reference checks for the final candidate(s) during Week 4.\n\nNote: This report serves as a comprehensive guide to the hiring process. Please refer to it regularly to stay updated on progress and next steps.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "html",
+          "css",
+          "js",
+          "typescript"
+        ],
+        "roles": [
+          "Front End Develo"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Front End Develo",
+          "summary": "Join our team of innovators as a Front End Developer, where you'll have the opportunity to shape the user experience for our cutting-edge products and services. You'll be part of a fast-paced environment that's all about impact-driven development and growth-minded solutions.",
+          "responsibilities": [
+            "Craft high-quality, responsive web applications using HTML, CSS, JS, and TypeScript",
+            "Collaborate with cross-functional teams to design and implement new features and products",
+            "Develop reusable code components and maintain a clean, modular codebase",
+            "Troubleshoot and resolve front-end issues quickly and efficiently",
+            "Stay up-to-date with the latest front-end technologies and frameworks",
+            "Contribute to the development of our tech stack and propose improvements",
+            "Work closely with designers to bring their visions to life",
+            "Participate in code reviews and provide feedback to improve team's coding standards"
+          ],
+          "requirements": [
+            "2+ years of experience in front-end development (JavaScript, HTML/CSS)",
+            "Strong understanding of TypeScript and its ecosystem",
+            "Experience with modern front-end frameworks (e.g. React, Angular)",
+            "Familiarity with state management libraries (e.g. Redux, MobX)",
+            "Knowledge of CSS preprocessors (e.g. Sass, Less)",
+            "Understanding of web performance optimization techniques",
+            "Excellent problem-solving skills and attention to detail",
+            "Experience with version control systems (Git)"
+          ],
+          "compensation_note": "$60k-$85k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Job Description and Sourcing - Create a clear job description, define required skills, and source potential candidates through social media, job boards, and referrals.",
+          "Week 1-2: Async Video Screening - Conduct an initial screening of candidates using async video screenings to assess their communication skills and fit for the role.",
+          "Week 2: Skills Assessments - Send relevant skills assessments to selected candidates to evaluate their technical abilities.",
+          "Week 3: In-Person Interviews - Invite top candidates for in-person interviews with key team members, including a technical interview.",
+          "Week 4: Reference Checks and Offer Extension - Perform reference checks on the final candidate(s) and extend an offer once all steps are complete.",
+          "Week 4: Onboarding Preparation - Prepare an onboarding plan for the new hire, including setting up equipment, scheduling training sessions, etc."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "Recruiter/HR",
+          "Team Lead/Technical Expert",
+          "CEO/Hiring Manager",
+          "Hiring Manager/REC",
+          "HR"
+        ],
+        "timeline_weeks": 4
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 4,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [
+      "html",
+      "css",
+      "js",
+      "typescript"
+    ],
+    "roles": [
+      "Front End Develo"
+    ]
+  },
+  "timestamp": "2025-09-10T01:31:07.831604"
+}

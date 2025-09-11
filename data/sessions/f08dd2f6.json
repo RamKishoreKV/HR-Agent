@@ -1,0 +1,157 @@
+{
+  "session_id": "f08dd2f6",
+  "last_input": "help me to hire ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "I Engineer",
+        "summary": "Join our fast-paced startup as an I Engineer and play a critical role in shaping the future of [industry/field]. You'll be part of a growth-minded team that's pushing the boundaries of innovation. As we scale, your impact will amplify - are you ready to take on new challenges and drive meaningful results?",
+        "responsibilities": [
+          "Design and implement high-performance software solutions that meet the needs of our customers",
+          "Collaborate with cross-functional teams to identify and prioritize features, ensuring alignment with business goals",
+          "Develop and maintain technical documentation, contributing to a culture of transparency and knowledge-sharing",
+          "Stay up-to-date with industry trends and emerging technologies, applying your expertise to drive innovation and improvement",
+          "Identify and mitigate technical risks, ensuring the reliability and scalability of our systems",
+          "Mentor junior engineers, fostering a culture of growth and development within the team",
+          "Contribute to the development of our engineering roadmap, aligning with company objectives and priorities"
+        ],
+        "requirements": [
+          "5+ years of experience in software development, with a strong background in [specific technology/field]",
+          "Proven track record of delivering high-quality solutions on time, with a focus on customer satisfaction",
+          "Excellent communication and collaboration skills, with the ability to work effectively across teams and departments",
+          "Strong problem-solving and analytical skills, with the ability to identify and mitigate technical risks",
+          "Experience with [specific tools/software], with a willingness to learn and adapt to new technologies",
+          "BSc/BA in Computer Science or related field (or equivalent experience)",
+          "Passion for innovation and a growth mindset, with a desire to continuously improve and grow"
+        ],
+        "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: **Sourcing & Outreach** - Utilize LinkedIn ads, job boards, and professional networks to attract top I Engineers. (Hiring Manager)",
+        "Week 3: **Async Video Screening** - Conduct brief video interviews with top candidates to assess communication skills and technical knowledge. (HR)",
+        "Weeks 4-5: **Skills Assessments & Coding Challenges** - Send relevant coding challenges to shortlisted candidates to evaluate their problem-solving abilities. (Team Lead)",
+        "Weeks 6-7: **In-Person Interviews & Panel Discussion** - Invite top performers for in-person interviews, including a panel discussion with the team and CEO. (CEO)",
+        "Week 8: **Reference Checks & Offer Extension** - Verify candidate references and extend an offer to the selected candidate. (Hiring Manager)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR",
+        "Team Lead",
+        "CEO",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **I Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### I Engineer\n**Summary**: Join our fast-paced startup as an I Engineer and play a critical role in shaping the future of [industry/field]. You'll be part of a growth-minded team that's pushing the boundaries of innovation. As we scale, your impact will amplify - are you ready to take on new challenges and drive meaningful results?\n**Key Responsibilities:**\n- Design and implement high-performance software solutions that meet the needs of our customers\n- Collaborate with cross-functional teams to identify and prioritize features, ensuring alignment with business goals\n- Develop and maintain technical documentation, contributing to a culture of transparency and knowledge-sharing\n- Stay up-to-date with industry trends and emerging technologies, applying your expertise to drive innovation and improvement\n- Identify and mitigate technical risks, ensuring the reliability and scalability of our systems\n- Mentor junior engineers, fostering a culture of growth and development within the team\n- Contribute to the development of our engineering roadmap, aligning with company objectives and priorities\n**Requirements:**\n- 5+ years of experience in software development, with a strong background in [specific technology/field]\n- Proven track record of delivering high-quality solutions on time, with a focus on customer satisfaction\n- Excellent communication and collaboration skills, with the ability to work effectively across teams and departments\n- Strong problem-solving and analytical skills, with the ability to identify and mitigate technical risks\n- Experience with [specific tools/software], with a willingness to learn and adapt to new technologies\n- BSc/BA in Computer Science or related field (or equivalent experience)\n- Passion for innovation and a growth mindset, with a desire to continuously improve and grow\n**Compensation:** Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)\n**Initial Screening (ask 3-5):**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: **Sourcing & Outreach** - Utilize LinkedIn ads, job boards, and professional networks to attract top I Engineers. (Hiring Manager)  \n   *Owner: Hiring Manager*\n2. Week 3: **Async Video Screening** - Conduct brief video interviews with top candidates to assess communication skills and technical knowledge. (HR)  \n   *Owner: HR*\n3. Weeks 4-5: **Skills Assessments & Coding Challenges** - Send relevant coding challenges to shortlisted candidates to evaluate their problem-solving abilities. (Team Lead)  \n   *Owner: Team Lead*\n4. Weeks 6-7: **In-Person Interviews & Panel Discussion** - Invite top performers for in-person interviews, including a panel discussion with the team and CEO. (CEO)  \n   *Owner: CEO*\n5. Week 8: **Reference Checks & Offer Extension** - Verify candidate references and extend an offer to the selected candidate. (Hiring Manager)  \n   *Owner: Hiring Manager*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "I Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "I Engineer",
+          "summary": "Join our fast-paced startup as an I Engineer and play a critical role in shaping the future of [industry/field]. You'll be part of a growth-minded team that's pushing the boundaries of innovation. As we scale, your impact will amplify - are you ready to take on new challenges and drive meaningful results?",
+          "responsibilities": [
+            "Design and implement high-performance software solutions that meet the needs of our customers",
+            "Collaborate with cross-functional teams to identify and prioritize features, ensuring alignment with business goals",
+            "Develop and maintain technical documentation, contributing to a culture of transparency and knowledge-sharing",
+            "Stay up-to-date with industry trends and emerging technologies, applying your expertise to drive innovation and improvement",
+            "Identify and mitigate technical risks, ensuring the reliability and scalability of our systems",
+            "Mentor junior engineers, fostering a culture of growth and development within the team",
+            "Contribute to the development of our engineering roadmap, aligning with company objectives and priorities"
+          ],
+          "requirements": [
+            "5+ years of experience in software development, with a strong background in [specific technology/field]",
+            "Proven track record of delivering high-quality solutions on time, with a focus on customer satisfaction",
+            "Excellent communication and collaboration skills, with the ability to work effectively across teams and departments",
+            "Strong problem-solving and analytical skills, with the ability to identify and mitigate technical risks",
+            "Experience with [specific tools/software], with a willingness to learn and adapt to new technologies",
+            "BSc/BA in Computer Science or related field (or equivalent experience)",
+            "Passion for innovation and a growth mindset, with a desire to continuously improve and grow"
+          ],
+          "compensation_note": "Competitive salary plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: **Sourcing & Outreach** - Utilize LinkedIn ads, job boards, and professional networks to attract top I Engineers. (Hiring Manager)",
+          "Week 3: **Async Video Screening** - Conduct brief video interviews with top candidates to assess communication skills and technical knowledge. (HR)",
+          "Weeks 4-5: **Skills Assessments & Coding Challenges** - Send relevant coding challenges to shortlisted candidates to evaluate their problem-solving abilities. (Team Lead)",
+          "Weeks 6-7: **In-Person Interviews & Panel Discussion** - Invite top performers for in-person interviews, including a panel discussion with the team and CEO. (CEO)",
+          "Week 8: **Reference Checks & Offer Extension** - Verify candidate references and extend an offer to the selected candidate. (Hiring Manager)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR",
+          "Team Lead",
+          "CEO",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied the core skills for this role? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using your primary skill. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "I Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T18:55:22.723564"
+}

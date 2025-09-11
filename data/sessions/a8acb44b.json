@@ -1,0 +1,133 @@
+{
+  "session_id": "a8acb44b",
+  "last_input": "help me hire a data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Data Analyst, where you'll play a critical role in driving business decisions with data-driven insights. You'll work closely with cross-functional teams to develop and maintain reports that drive growth, improve customer experiences, and inform strategic initiatives.",
+        "responsibilities": [
+          "Develop and maintain comprehensive dashboards using Tableau and Power BI to provide actionable insights for stakeholders",
+          "Collaborate with product and marketing teams to identify business opportunities and track key performance indicators (KPIs)",
+          "Analyze large datasets to identify trends, anomalies, and areas for process improvement",
+          "Design and implement data visualizations that communicate complex information clearly and effectively",
+          "Develop and maintain a data dictionary to ensure consistency across reports and dashboards",
+          "Provide ad-hoc analysis and support to stakeholders as needed",
+          "Stay up-to-date with industry trends and emerging tools and technologies, making recommendations for adoption when appropriate",
+          "Contribute to the development of our data infrastructure, including data modeling and ETL processes"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Bachelor's degree in Computer Science, Mathematics, Statistics or related field",
+          "1-2 years of experience as a Data Analyst or related role",
+          "Proficiency in Tableau and Power BI, with ability to learn new tools quickly",
+          "Strong analytical and problem-solving skills, with attention to detail and accuracy",
+          "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+          "Familiarity with SQL and data modeling concepts",
+          "Experience with cloud-based storage solutions (e.g. AWS S3)",
+          "Ability to work in a fast-paced environment and adapt to changing priorities"
+        ],
+        "compensation_note": "20k-30k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize social media, job boards, and professional networks to post the Data Analyst role.",
+        "Week 2: Screening - Conduct asynchronous video screenings using tools like Calendly or Zoom to evaluate candidates' communication skills and personality fit.",
+        "Week 3: Skills Assessments & Interviews - Invite top candidates for a skills assessment (e.g., data analysis exercise) followed by a synchronous video interview with the Hiring Manager and Team Lead.",
+        "Week 4: Reference Checks - Conduct reference checks with previous employers or mentors to verify candidates' past performance and work habits.",
+        "Week 5: Offer & Onboarding - Extend an offer to the selected candidate, finalize onboarding details, and ensure a smooth transition into the role."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Team Lead",
+        "Team Lead (Data Analyst)",
+        "CEO",
+        "Operations Manager"
+      ],
+      "timeline_weeks": 5
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst**. The target timeline is **5 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n**Summary**: Join our high-growth startup as a Data Analyst, where you'll play a critical role in driving business decisions with data-driven insights. You'll work closely with cross-functional teams to develop and maintain reports that drive growth, improve customer experiences, and inform strategic initiatives.\n**Key Responsibilities:**\n- Develop and maintain comprehensive dashboards using Tableau and Power BI to provide actionable insights for stakeholders\n- Collaborate with product and marketing teams to identify business opportunities and track key performance indicators (KPIs)\n- Analyze large datasets to identify trends, anomalies, and areas for process improvement\n- Design and implement data visualizations that communicate complex information clearly and effectively\n- Develop and maintain a data dictionary to ensure consistency across reports and dashboards\n- Provide ad-hoc analysis and support to stakeholders as needed\n- Stay up-to-date with industry trends and emerging tools and technologies, making recommendations for adoption when appropriate\n- Contribute to the development of our data infrastructure, including data modeling and ETL processes\n**Requirements:**\n- Bachelor's degree in Computer Science or related field\n- Bachelor's degree in Computer Science, Mathematics, Statistics or related field\n- 1-2 years of experience as a Data Analyst or related role\n- Proficiency in Tableau and Power BI, with ability to learn new tools quickly\n- Strong analytical and problem-solving skills, with attention to detail and accuracy\n- Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams\n- Familiarity with SQL and data modeling concepts\n- Experience with cloud-based storage solutions (e.g. AWS S3)\n- Ability to work in a fast-paced environment and adapt to changing priorities\n**Compensation:** 20k-30k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 5 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize social media, job boards, and professional networks to post the Data Analyst role.  \n   *Owner: Hiring Manager*\n2. Week 2: Screening - Conduct asynchronous video screenings using tools like Calendly or Zoom to evaluate candidates' communication skills and personality fit.  \n   *Owner: HR Team Lead*\n3. Week 3: Skills Assessments & Interviews - Invite top candidates for a skills assessment (e.g., data analysis exercise) followed by a synchronous video interview with the Hiring Manager and Team Lead.  \n   *Owner: Team Lead (Data Analyst)*\n4. Week 4: Reference Checks - Conduct reference checks with previous employers or mentors to verify candidates' past performance and work habits.  \n   *Owner: CEO*\n5. Week 5: Offer & Onboarding - Extend an offer to the selected candidate, finalize onboarding details, and ensure a smooth transition into the role.  \n   *Owner: Operations Manager*\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 5,
+        "budget_range": "competitive",
+        "seniority": "junior",
+        "employment_type": "intern",
+        "location": "remote",
+        "key_skills": [
+          "tableau",
+          "powerbi"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Data Analyst, where you'll play a critical role in driving business decisions with data-driven insights. You'll work closely with cross-functional teams to develop and maintain reports that drive growth, improve customer experiences, and inform strategic initiatives.",
+          "responsibilities": [
+            "Develop and maintain comprehensive dashboards using Tableau and Power BI to provide actionable insights for stakeholders",
+            "Collaborate with product and marketing teams to identify business opportunities and track key performance indicators (KPIs)",
+            "Analyze large datasets to identify trends, anomalies, and areas for process improvement",
+            "Design and implement data visualizations that communicate complex information clearly and effectively",
+            "Develop and maintain a data dictionary to ensure consistency across reports and dashboards",
+            "Provide ad-hoc analysis and support to stakeholders as needed",
+            "Stay up-to-date with industry trends and emerging tools and technologies, making recommendations for adoption when appropriate",
+            "Contribute to the development of our data infrastructure, including data modeling and ETL processes"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "Bachelor's degree in Computer Science, Mathematics, Statistics or related field",
+            "1-2 years of experience as a Data Analyst or related role",
+            "Proficiency in Tableau and Power BI, with ability to learn new tools quickly",
+            "Strong analytical and problem-solving skills, with attention to detail and accuracy",
+            "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+            "Familiarity with SQL and data modeling concepts",
+            "Experience with cloud-based storage solutions (e.g. AWS S3)",
+            "Ability to work in a fast-paced environment and adapt to changing priorities"
+          ],
+          "compensation_note": "20k-30k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize social media, job boards, and professional networks to post the Data Analyst role.",
+          "Week 2: Screening - Conduct asynchronous video screenings using tools like Calendly or Zoom to evaluate candidates' communication skills and personality fit.",
+          "Week 3: Skills Assessments & Interviews - Invite top candidates for a skills assessment (e.g., data analysis exercise) followed by a synchronous video interview with the Hiring Manager and Team Lead.",
+          "Week 4: Reference Checks - Conduct reference checks with previous employers or mentors to verify candidates' past performance and work habits.",
+          "Week 5: Offer & Onboarding - Extend an offer to the selected candidate, finalize onboarding details, and ensure a smooth transition into the role."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Team Lead",
+          "Team Lead (Data Analyst)",
+          "CEO",
+          "Operations Manager"
+        ],
+        "timeline_weeks": 5
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 5,
+    "budget_range": "competitive",
+    "seniority": "junior",
+    "employment_type": "intern",
+    "location": "remote",
+    "key_skills": [
+      "tableau",
+      "powerbi"
+    ],
+    "roles": [
+      "Data Analyst"
+    ]
+  },
+  "timestamp": "2025-09-10T16:36:37.995761"
+}

@@ -1,0 +1,72 @@
+{
+  "session_id": "f270dadd",
+  "last_input": "help me hire gen ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Job Description and Requirements Finalization",
+        "Week 2: Sourcing and Candidate Identification via Social Media, Employee Referrals, and Online Platforms",
+        "Week 3: Initial Screening via Async Video Screening (5-7 minutes) to Assess Basic Qualifications and Cultural Fit",
+        "Week 4: In-depth Skills Assessment for Shortlisted Candidates via Real-world Projects or Coding Challenges",
+        "Week 5: Interviews with Team Leads and Hiring Manager (30-60 minutes each)",
+        "Week 6: Reference Checks and Verification of Provided Information",
+        "Week 7: Negotiation of Offer Terms and Finalization of Job Offer",
+        "Week 8: Onboarding Process Initiated, Including Welcome Package, Laptop, Software, etc."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Recruiter)",
+        "Team Lead - Department Relevant to Role",
+        "CEO/Founder (for final interviews and offer decisions)",
+        "Hiring Manager",
+        "HR (Background Check Coordinator)",
+        "Hiring Manager/CEO/Founder",
+        "Onboarding Team"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nWe are seeking to hire a highly skilled General AI Engineer to join our team. This hiring initiative aims to attract top talent with expertise in developing and implementing cutting-edge AI solutions.\n\n## Job Descriptions\n\n### General AI Engineer\n\n**Summary:** We're looking for an experienced General AI Engineer who can design, develop, and deploy advanced AI models that drive business growth and innovation.\n\n**Key Responsibilities:**\n- Develop and implement AI/ML models using industry-standard frameworks (e.g., TensorFlow, PyTorch)\n- Collaborate with cross-functional teams to integrate AI solutions into existing products and services\n- Design and execute experiments to optimize model performance and accuracy\n\n**Requirements:**\n- 5+ years of experience in developing and deploying AI/ML models\n- Strong background in deep learning and neural networks\n- Proficiency in programming languages (e.g., Python, Java)\n- Experience with cloud-based platforms (e.g., AWS, Google Cloud)\n\n**Compensation:** Competitive salary range ($150k - $200k) + equity in the company\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n1. **Week 1: Job Description and Requirements Finalization** - *Owner: Hiring Manager*\n\t* Review and refine job description based on industry standards and company requirements\n2. **Week 2: Sourcing and Candidate Identification via Social Media, Employee Referrals, and Online Platforms** - *Owner: HR (Recruiter)*\n\t* Utilize social media, employee referrals, and online platforms to source top talent\n3. **Week 3: Initial Screening via Async Video Screening (5-7 minutes) to Assess Basic Qualifications and Cultural Fit** - *Owner: Hiring Manager*\n\t* Conduct initial screening using async video interviews to assess candidate qualifications and cultural fit\n4. **Week 4: In-depth Skills Assessment for Shortlisted Candidates via Real-world Projects or Coding Challenges** - *Owner: Team Lead - Department Relevant to Role*\n\t* Evaluate shortlisted candidates through real-world projects or coding challenges to assess technical skills\n5. **Week 5: Interviews with Team Leads and Hiring Manager (30-60 minutes each)** - *Owner: CEO/Founder (for final interviews and offer decisions), Hiring Manager, Team Lead - Department Relevant to Role*\n\t* Conduct in-depth interviews with shortlisted candidates to assess fit and culture alignment\n6. **Week 6: Reference Checks and Verification of Provided Information** - *Owner: HR (Background Check Coordinator)*\n\t* Verify provided information through reference checks and background screening\n7. **Week 7: Negotiation of Offer Terms and Finalization of Job Offer** - *Owner: Hiring Manager/CEO/Founder*\n\t* Negotiate offer terms and finalize job offer for selected candidate\n8. **Week 8: Onboarding Process Initiated, Including Welcome Package, Laptop, Software, etc.** - *Owner: Onboarding Team*\n\t* Ensure seamless onboarding process for new hire\n\n## Next Steps\n- Review and refine the hiring plan with the hiring team to ensure alignment with company goals and objectives.\n- Establish a clear communication plan to keep stakeholders informed throughout the hiring process.\n- Schedule regular check-ins with the hiring team to track progress, address concerns, and make necessary adjustments.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "",
+        "key_skills": [],
+        "roles": []
+      },
+      "job_descriptions": [],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Job Description and Requirements Finalization",
+          "Week 2: Sourcing and Candidate Identification via Social Media, Employee Referrals, and Online Platforms",
+          "Week 3: Initial Screening via Async Video Screening (5-7 minutes) to Assess Basic Qualifications and Cultural Fit",
+          "Week 4: In-depth Skills Assessment for Shortlisted Candidates via Real-world Projects or Coding Challenges",
+          "Week 5: Interviews with Team Leads and Hiring Manager (30-60 minutes each)",
+          "Week 6: Reference Checks and Verification of Provided Information",
+          "Week 7: Negotiation of Offer Terms and Finalization of Job Offer",
+          "Week 8: Onboarding Process Initiated, Including Welcome Package, Laptop, Software, etc."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Recruiter)",
+          "Team Lead - Department Relevant to Role",
+          "CEO/Founder (for final interviews and offer decisions)",
+          "Hiring Manager",
+          "HR (Background Check Coordinator)",
+          "Hiring Manager/CEO/Founder",
+          "Onboarding Team"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-09T22:52:50.173895"
+}

@@ -1,0 +1,156 @@
+{
+  "session_id": "451a01a9",
+  "last_input": "help me hire a software engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Software Engineer",
+        "summary": "Join our high-growth startup as a Software Engineer and play a crucial role in shaping our cutting-edge technology. You'll work on complex problems, collaborate with our talented team, and drive innovation from day one.",
+        "responsibilities": [
+          "Design, develop, and deploy scalable software solutions that meet the needs of our customers",
+          "Collaborate with cross-functional teams to define product requirements and architecture",
+          "Contribute to code reviews, ensuring high-quality, maintainable codebase",
+          "Develop and implement automated testing frameworks to ensure reliability and stability",
+          "Work closely with DevOps team to optimize deployment processes using Docker and CI/CD tools",
+          "Troubleshoot and resolve complex technical issues in a fast-paced environment",
+          "Stay up-to-date with industry trends, emerging technologies, and new best practices",
+          "Contribute to the development of our company's internal tools and platforms"
+        ],
+        "requirements": [
+          "3+ years of experience as a software engineer (mid-level) or equivalent experience in related field",
+          "Proficiency in at least one programming language: Python, Java, JavaScript",
+          "Strong understanding of APIs, databases, and data structures",
+          "Familiarity with containerization using Docker and CI/CD tools",
+          "Experience with Agile development methodologies and version control systems (e.g., Git)",
+          "Excellent problem-solving skills, attention to detail, and a passion for coding",
+          "Strong communication and collaboration skills, with ability to work in a distributed team",
+          "Self-motivated, proactive, and adaptable in a fast-paced startup environment"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1-2: Sourcing - Utilize social media, LinkedIn, and niche platforms to identify top candidates (Hiring Manager & Team Lead)",
+        "Week 3-4: Async Video Screening - Conduct 15-minute video calls with top applicants to gauge fit and technical skills (HR & Hiring Manager)",
+        "Week 5: Skills Assessment - Develop a coding challenge or assessment to evaluate technical abilities (Team Lead & Hiring Manager)",
+        "Week 6-7: Interviews - Conduct in-person or virtual interviews with top performers, focusing on cultural fit and collaboration skills (Hiring Manager, Team Lead, CEO)",
+        "Week 8: Offer & Onboarding - Finalize the offer, negotiate terms, and prepare for a smooth onboarding process (HR & Hiring Manager)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR & Hiring Manager",
+        "Team Lead & Hiring Manager",
+        "Hiring Manager, Team Lead, CEO",
+        "HR & Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Software Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Software Engineer\n#### Summary\nJoin our high-growth startup as a Software Engineer and play a crucial role in shaping our cutting-edge technology. You'll work on complex problems, collaborate with our talented team, and drive innovation from day one.\n#### Key Responsibilities\n- Design, develop, and deploy scalable software solutions that meet the needs of our customers\n- Collaborate with cross-functional teams to define product requirements and architecture\n- Contribute to code reviews, ensuring high-quality, maintainable codebase\n- Develop and implement automated testing frameworks to ensure reliability and stability\n- Work closely with DevOps team to optimize deployment processes using Docker and CI/CD tools\n- Troubleshoot and resolve complex technical issues in a fast-paced environment\n- Stay up-to-date with industry trends, emerging technologies, and new best practices\n- Contribute to the development of our company's internal tools and platforms\n#### Requirements\n- 3+ years of experience as a software engineer (mid-level) or equivalent experience in related field\n- Proficiency in at least one programming language: Python, Java, JavaScript\n- Strong understanding of APIs, databases, and data structures\n- Familiarity with containerization using Docker and CI/CD tools\n- Experience with Agile development methodologies and version control systems (e.g., Git)\n- Excellent problem-solving skills, attention to detail, and a passion for coding\n- Strong communication and collaboration skills, with ability to work in a distributed team\n- Self-motivated, proactive, and adaptable in a fast-paced startup environment\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1-2: Sourcing - Utilize social media, LinkedIn, and niche platforms to identify top candidates (Hiring Manager & Team Lead)  \n   *Owner: Hiring Manager*\n2. Week 3-4: Async Video Screening - Conduct 15-minute video calls with top applicants to gauge fit and technical skills (HR & Hiring Manager)  \n   *Owner: HR & Hiring Manager*\n3. Week 5: Skills Assessment - Develop a coding challenge or assessment to evaluate technical abilities (Team Lead & Hiring Manager)  \n   *Owner: Team Lead & Hiring Manager*\n4. Week 6-7: Interviews - Conduct in-person or virtual interviews with top performers, focusing on cultural fit and collaboration skills (Hiring Manager, Team Lead, CEO)  \n   *Owner: Hiring Manager, Team Lead, CEO*\n5. Week 8: Offer & Onboarding - Finalize the offer, negotiate terms, and prepare for a smooth onboarding process (HR & Hiring Manager)  \n   *Owner: HR & Hiring Manager*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Python/Java/JS, APIs, Databases? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python/Java/JS. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "junior|mid|senior|lead|principal",
+        "employment_type": "full-time|part-time|contract|intern",
+        "location": "remote",
+        "key_skills": [
+          "Python/Java/JS",
+          "APIs",
+          "Databases",
+          "Docker",
+          "CI/CD"
+        ],
+        "roles": [
+          "Software Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Software Engineer",
+          "summary": "Join our high-growth startup as a Software Engineer and play a crucial role in shaping our cutting-edge technology. You'll work on complex problems, collaborate with our talented team, and drive innovation from day one.",
+          "responsibilities": [
+            "Design, develop, and deploy scalable software solutions that meet the needs of our customers",
+            "Collaborate with cross-functional teams to define product requirements and architecture",
+            "Contribute to code reviews, ensuring high-quality, maintainable codebase",
+            "Develop and implement automated testing frameworks to ensure reliability and stability",
+            "Work closely with DevOps team to optimize deployment processes using Docker and CI/CD tools",
+            "Troubleshoot and resolve complex technical issues in a fast-paced environment",
+            "Stay up-to-date with industry trends, emerging technologies, and new best practices",
+            "Contribute to the development of our company's internal tools and platforms"
+          ],
+          "requirements": [
+            "3+ years of experience as a software engineer (mid-level) or equivalent experience in related field",
+            "Proficiency in at least one programming language: Python, Java, JavaScript",
+            "Strong understanding of APIs, databases, and data structures",
+            "Familiarity with containerization using Docker and CI/CD tools",
+            "Experience with Agile development methodologies and version control systems (e.g., Git)",
+            "Excellent problem-solving skills, attention to detail, and a passion for coding",
+            "Strong communication and collaboration skills, with ability to work in a distributed team",
+            "Self-motivated, proactive, and adaptable in a fast-paced startup environment"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1-2: Sourcing - Utilize social media, LinkedIn, and niche platforms to identify top candidates (Hiring Manager & Team Lead)",
+          "Week 3-4: Async Video Screening - Conduct 15-minute video calls with top applicants to gauge fit and technical skills (HR & Hiring Manager)",
+          "Week 5: Skills Assessment - Develop a coding challenge or assessment to evaluate technical abilities (Team Lead & Hiring Manager)",
+          "Week 6-7: Interviews - Conduct in-person or virtual interviews with top performers, focusing on cultural fit and collaboration skills (Hiring Manager, Team Lead, CEO)",
+          "Week 8: Offer & Onboarding - Finalize the offer, negotiate terms, and prepare for a smooth onboarding process (HR & Hiring Manager)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR & Hiring Manager",
+          "Team Lead & Hiring Manager",
+          "Hiring Manager, Team Lead, CEO",
+          "HR & Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Python/Java/JS, APIs, Databases? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Python/Java/JS. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-10T21:37:11.995972"
+}

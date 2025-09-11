@@ -1,0 +1,131 @@
+{
+  "session_id": "d99eae9c",
+  "last_input": "help me hire data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Data Analyst, where you'll drive business decisions with data-driven insights and help us scale to new heights! You'll work closely with our cross-functional teams to develop data strategies that fuel growth, improve customer experiences, and inform product development. If you're passionate about using data to tell stories and drive impact, we want to hear from you!",
+        "responsibilities": [
+          "Develop and maintain comprehensive dashboards and reports to inform business decisions and optimize operations",
+          "Design and execute A/B testing experiments to measure the effectiveness of new features and strategies",
+          "Collaborate with cross-functional teams to develop data-driven product roadmaps and feature prioritization",
+          "Analyze complex data sets using SQL, Python, and BI tools to identify trends, opportunities, and areas for improvement",
+          "Develop and maintain a data catalog to ensure consistency and accuracy across the organization",
+          "Communicate insights and recommendations to stakeholders through clear, actionable storytelling",
+          "Identify and implement process improvements to increase data quality, efficiency, and effectiveness"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Analyst or similar role in a fast-paced startup environment",
+          "Expertise in SQL, Python, and BI tools (e.g. Tableau, Power BI)",
+          "Proven track record of using data to drive business decisions and improve outcomes",
+          "Experience with A/B testing methodologies and experimentation design",
+          "Strong analytical skills, with ability to distill complex insights into actionable recommendations",
+          "Excellent communication and storytelling skills, with ability to present to both technical and non-technical audiences",
+          "Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud) a plus"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize LinkedIn, job boards, and referrals to fill a pipeline of 10+ candidates",
+        "Week 2-3: Screening - Implement async video screening using tools like Loom or Calendly for initial interviews with Hiring Manager and HR",
+        "Week 4-5: Interviews - Schedule in-person interviews at the office with a panel consisting of Team Lead, CEO, and other relevant team members",
+        "Week 6: Reference Checks - Conduct background checks and reference calls to verify candidate's previous work experience",
+        "Week 7: Offer - Prepare and send out employment offers to top candidates based on interview performance and reference checks",
+        "Week 8: Onboarding - Coordinate with new hire to set up essential tools, schedule training sessions, and introduce them to the team"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Assistant)",
+        "Team Lead",
+        "CEO",
+        "HR (Manager)",
+        "HR (Specialist)"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\n\nThe goal of this hiring plan is to attract a top-notch Data Analyst to support our high-growth startup's scaling efforts. With a comprehensive approach to sourcing, screening, interviewing, and onboarding, we aim to secure the best candidate within an 8-week timeline.\n\n## Job Descriptions\n\n### Data Analyst\n**Summary:** Join our high-growth startup as a Data Analyst, where you'll drive business decisions with data-driven insights and help us scale to new heights!\n\n**Key Responsibilities:**\n- Drive business decisions with data-driven insights\n- Develop data strategies that fuel growth, improve customer experiences, and inform product development\n- Work closely with cross-functional teams\n\n**Requirements:**\n- Passion for using data to tell stories and drive impact\n- Strong analytical skills and attention to detail\n- Excellent communication and collaboration skills\n\n**Compensation:** Competitive salary and benefits package.\n\n## Hiring Process Plan\n\n**Timeline:** 8 weeks\n\n**Process Steps:**\n\n1. **Week 1: Sourcing** - *Owner: Hiring Manager* Utilize LinkedIn, job boards, and referrals to fill a pipeline of 10+ candidates.\n2. **Week 2-3: Screening** - *Owner: HR (Assistant)* Implement async video screening using tools like Loom or Calendly for initial interviews with Hiring Manager and HR.\n3. **Week 4-5: Interviews** - *Owner: Team Lead, CEO* Schedule in-person interviews at the office with a panel consisting of Team Lead, CEO, and other relevant team members.\n4. **Week 6: Reference Checks** - *Owner: HR (Manager)* Conduct background checks and reference calls to verify candidate's previous work experience.\n5. **Week 7: Offer** - *Owner: HR (Specialist)* Prepare and send out employment offers to top candidates based on interview performance and reference checks.\n6. **Week 8: Onboarding** - *Owner: HR (Manager)* Coordinate with new hire to set up essential tools, schedule training sessions, and introduce them to the team.\n\n## Next Steps\n\n* Review and refine job descriptions to ensure accuracy and competitiveness.\n* Finalize sourcing strategies and kick off Week 1 activities.\n* Schedule regular check-ins with owners to track progress and address any challenges that arise.\n\nBy following this hiring plan, we aim to attract a talented Data Analyst who will make significant contributions to our team's success.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "SQL",
+          "Python",
+          "Dashboards",
+          "BI Tools",
+          "A/B Testing"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Data Analyst, where you'll drive business decisions with data-driven insights and help us scale to new heights! You'll work closely with our cross-functional teams to develop data strategies that fuel growth, improve customer experiences, and inform product development. If you're passionate about using data to tell stories and drive impact, we want to hear from you!",
+          "responsibilities": [
+            "Develop and maintain comprehensive dashboards and reports to inform business decisions and optimize operations",
+            "Design and execute A/B testing experiments to measure the effectiveness of new features and strategies",
+            "Collaborate with cross-functional teams to develop data-driven product roadmaps and feature prioritization",
+            "Analyze complex data sets using SQL, Python, and BI tools to identify trends, opportunities, and areas for improvement",
+            "Develop and maintain a data catalog to ensure consistency and accuracy across the organization",
+            "Communicate insights and recommendations to stakeholders through clear, actionable storytelling",
+            "Identify and implement process improvements to increase data quality, efficiency, and effectiveness"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Analyst or similar role in a fast-paced startup environment",
+            "Expertise in SQL, Python, and BI tools (e.g. Tableau, Power BI)",
+            "Proven track record of using data to drive business decisions and improve outcomes",
+            "Experience with A/B testing methodologies and experimentation design",
+            "Strong analytical skills, with ability to distill complex insights into actionable recommendations",
+            "Excellent communication and storytelling skills, with ability to present to both technical and non-technical audiences",
+            "Familiarity with cloud-based data platforms (e.g. AWS, Google Cloud) a plus"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize LinkedIn, job boards, and referrals to fill a pipeline of 10+ candidates",
+          "Week 2-3: Screening - Implement async video screening using tools like Loom or Calendly for initial interviews with Hiring Manager and HR",
+          "Week 4-5: Interviews - Schedule in-person interviews at the office with a panel consisting of Team Lead, CEO, and other relevant team members",
+          "Week 6: Reference Checks - Conduct background checks and reference calls to verify candidate's previous work experience",
+          "Week 7: Offer - Prepare and send out employment offers to top candidates based on interview performance and reference checks",
+          "Week 8: Onboarding - Coordinate with new hire to set up essential tools, schedule training sessions, and introduce them to the team"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Assistant)",
+          "Team Lead",
+          "CEO",
+          "HR (Manager)",
+          "HR (Specialist)"
+        ],
+        "timeline_weeks": 8
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Analyst"
+    ]
+  },
+  "timestamp": "2025-09-09T23:26:25.267197"
+}

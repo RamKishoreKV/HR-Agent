@@ -1,0 +1,16 @@
+{
+  "session_id": "52a43409",
+  "last_input": "genereate",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [],
+    "hiring_plan": null,
+    "raw_markdown": "Hello! I'd be happy to assist you with your hiring needs. To get started, could you let me know what role you're looking to fill? You can say something like \"help hire [role]\" and we'll walk through our hiring process together!",
+    "raw_json": {
+      "message": "Hello! I'd be happy to assist you with your hiring needs. To get started, could you let me know what role you're looking to fill? You can say something like \"help hire [role]\" and we'll walk through our hiring process together!",
+      "type": "small_talk"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-11T16:10:30.798542"
+}

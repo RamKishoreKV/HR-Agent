@@ -1,0 +1,133 @@
+{
+  "session_id": "e37c6e23",
+  "last_input": "help me hire an ai engineer",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "N Ai Engineer",
+        "summary": "Join our team of innovators as we revolutionize the industry with cutting-edge AI solutions! As a key member of our engineering squad, you'll drive growth and impact through your expertise in Natural Language Processing (NLP). If you're passionate about pushing boundaries and shaping the future, let's connect!",
+        "responsibilities": [
+          "Design and develop high-performance NLP models that meet or exceed business goals",
+          "Collaborate with cross-functional teams to integrate AI solutions into our products and services",
+          "Drive innovation through experimentation, testing, and iteration of new NLP techniques and tools",
+          "Develop and maintain efficient data pipelines to fuel model training and deployment",
+          "Contribute to the development of our AI research roadmap, identifying opportunities for growth and improvement",
+          "Build and mentor a high-performing team of engineers, fostering a culture of continuous learning and innovation",
+          "Stay up-to-date with industry trends and advancements in NLP, applying this knowledge to drive business value"
+        ],
+        "requirements": [
+          "5+ years of experience in AI engineering, with a strong focus on NLP",
+          "Proven track record of delivering high-impact AI solutions that drive business growth",
+          "Deep understanding of machine learning concepts and algorithms, including neural networks and deep learning",
+          "Experience with popular NLP libraries and frameworks (e.g. TensorFlow, PyTorch)",
+          "Strong programming skills in languages such as Python or Java",
+          "Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+          "Bachelor's degree in Computer Science, Engineering, or related field; advanced degrees a plus"
+        ],
+        "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1 Day 1: Post job ad on company website and social media channels, utilize LinkedIn Jobs and other job boards to reach a wider audience.",
+        "Week 1 Day 2-3: Sourcing - Utilize employee referrals, leverage professional networks (e.g., LinkedIn), and consider partnering with recruitment agencies specializing in AI talent.",
+        "Week 1 Day 4: Initial Screening - Conduct asynchronous video screening (e.g., via Zoom or Google Meet) to filter out unqualified candidates based on their response to a case study or coding challenge.",
+        "Week 1 Day 5-6: Interviews - Schedule synchronous interviews with the top candidates from the previous step, including a mix of technical and behavioral questions tailored to AI engineering roles.",
+        "Week 2 Day 1: Reference Checks - Conduct thorough reference checks via phone or video calls with the candidate's professional references.",
+        "Week 2 Day 2-3: Offer Extension and Negotiation - Prepare and extend an offer letter that includes competitive compensation, benefits, and equity details. Address any questions or concerns from the candidate during this period.",
+        "Week 2 Day 4: Onboarding Preparation - Finalize onboarding plans, including scheduling meetings with team leads, preparing necessary paperwork, and setting up office equipment (if applicable).",
+        "Week 2 Day 5: New Hire Onboarding - Welcome the new AI Engineer to the company, conduct a comprehensive onboarding session, and ensure they have all necessary tools and information for their role."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Representative (Sourcing)",
+        "Team Lead/Manager (Initial Screening)",
+        "Hiring Manager & Team Lead/Manager (Interviews)",
+        "HR Representative (Reference Checks)",
+        "CEO/CFO (Offer Extension and Negotiation)",
+        "HR Representative (Onboarding Preparation) & New Hire's Direct Supervisor",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 2
+    },
+    "raw_markdown": "# Hiring Plan Report\n\n## Executive Summary\nThe goal of this hiring initiative is to recruit a talented AI Engineer who will contribute to our company's mission of revolutionizing the industry with cutting-edge AI solutions.\n\n## Job Descriptions\n\n### N Ai Engineer\n\n**Summary:** Join our team of innovators as we push boundaries and shape the future! As a key member of our engineering squad, you'll drive growth and impact through your expertise in Natural Language Processing (NLP).\n\n**Key Responsibilities:**\n\n- Drive growth and impact through expertise in Natural Language Processing (NLP)\n- Collaborate with cross-functional teams to develop innovative AI solutions\n- Stay up-to-date with industry trends and advancements in AI research\n\n**Requirements:**\n\n- 3+ years of experience in AI engineering, preferably in NLP\n- Strong understanding of machine learning algorithms and deep learning techniques\n- Excellent problem-solving skills and attention to detail\n\n**Compensation:** Competitive salary, benefits, and equity package.\n\n## Hiring Process Plan\n\n**Timeline:** 2 weeks\n\n**Process Steps:**\n1. **Post job ad on company website and social media channels, utilize LinkedIn Jobs and other job boards to reach a wider audience** - *Owner: Hiring Manager*\n2. **Sourcing - Utilize employee referrals, leverage professional networks (e.g., LinkedIn), and consider partnering with recruitment agencies specializing in AI talent** - *Owner: HR Representative (Sourcing)*\n3. **Initial Screening - Conduct asynchronous video screening (e.g., via Zoom or Google Meet) to filter out unqualified candidates based on their response to a case study or coding challenge** - *Owner: Team Lead/Manager*\n4. **Interviews - Schedule synchronous interviews with the top candidates from the previous step, including a mix of technical and behavioral questions tailored to AI engineering roles** - *Owner: Hiring Manager & Team Lead/Manager*\n5. **Reference Checks - Conduct thorough reference checks via phone or video calls with the candidate's professional references** - *Owner: HR Representative (Reference Checks)*\n6. **Offer Extension and Negotiation - Prepare and extend an offer letter that includes competitive compensation, benefits, and equity details. Address any questions or concerns from the candidate during this period** - *Owner: CEO/CFO*\n7. **Onboarding Preparation - Finalize onboarding plans, including scheduling meetings with team leads, preparing necessary paperwork, and setting up office equipment (if applicable)** - *Owner: HR Representative (Onboarding Preparation) & New Hire's Direct Supervisor*\n8. **New Hire Onboarding - Welcome the new AI Engineer to the company, conduct a comprehensive onboarding session, and ensure they have all necessary tools and information for their role** - *Owner: Hiring Manager*\n\n## Next Steps\nActionable next steps:\n\n* Post job ad on company website and social media channels, LinkedIn Jobs, and other relevant job boards.\n* Activate employee referrals and leverage professional networks (e.g., LinkedIn) to reach a wider audience.\n* Prepare necessary paperwork, office equipment, and onboarding materials for the new hire.\n\nNote: This hiring plan is tailored to recruit an AI Engineer with expertise in NLP. Please adjust accordingly based on your company's specific needs and requirements.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 2,
+        "budget_range": "competitive",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [],
+        "roles": [
+          "N Ai Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "N Ai Engineer",
+          "summary": "Join our team of innovators as we revolutionize the industry with cutting-edge AI solutions! As a key member of our engineering squad, you'll drive growth and impact through your expertise in Natural Language Processing (NLP). If you're passionate about pushing boundaries and shaping the future, let's connect!",
+          "responsibilities": [
+            "Design and develop high-performance NLP models that meet or exceed business goals",
+            "Collaborate with cross-functional teams to integrate AI solutions into our products and services",
+            "Drive innovation through experimentation, testing, and iteration of new NLP techniques and tools",
+            "Develop and maintain efficient data pipelines to fuel model training and deployment",
+            "Contribute to the development of our AI research roadmap, identifying opportunities for growth and improvement",
+            "Build and mentor a high-performing team of engineers, fostering a culture of continuous learning and innovation",
+            "Stay up-to-date with industry trends and advancements in NLP, applying this knowledge to drive business value"
+          ],
+          "requirements": [
+            "5+ years of experience in AI engineering, with a strong focus on NLP",
+            "Proven track record of delivering high-impact AI solutions that drive business growth",
+            "Deep understanding of machine learning concepts and algorithms, including neural networks and deep learning",
+            "Experience with popular NLP libraries and frameworks (e.g. TensorFlow, PyTorch)",
+            "Strong programming skills in languages such as Python or Java",
+            "Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+            "Bachelor's degree in Computer Science, Engineering, or related field; advanced degrees a plus"
+          ],
+          "compensation_note": "$80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1 Day 1: Post job ad on company website and social media channels, utilize LinkedIn Jobs and other job boards to reach a wider audience.",
+          "Week 1 Day 2-3: Sourcing - Utilize employee referrals, leverage professional networks (e.g., LinkedIn), and consider partnering with recruitment agencies specializing in AI talent.",
+          "Week 1 Day 4: Initial Screening - Conduct asynchronous video screening (e.g., via Zoom or Google Meet) to filter out unqualified candidates based on their response to a case study or coding challenge.",
+          "Week 1 Day 5-6: Interviews - Schedule synchronous interviews with the top candidates from the previous step, including a mix of technical and behavioral questions tailored to AI engineering roles.",
+          "Week 2 Day 1: Reference Checks - Conduct thorough reference checks via phone or video calls with the candidate's professional references.",
+          "Week 2 Day 2-3: Offer Extension and Negotiation - Prepare and extend an offer letter that includes competitive compensation, benefits, and equity details. Address any questions or concerns from the candidate during this period.",
+          "Week 2 Day 4: Onboarding Preparation - Finalize onboarding plans, including scheduling meetings with team leads, preparing necessary paperwork, and setting up office equipment (if applicable).",
+          "Week 2 Day 5: New Hire Onboarding - Welcome the new AI Engineer to the company, conduct a comprehensive onboarding session, and ensure they have all necessary tools and information for their role."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Representative (Sourcing)",
+          "Team Lead/Manager (Initial Screening)",
+          "Hiring Manager & Team Lead/Manager (Interviews)",
+          "HR Representative (Reference Checks)",
+          "CEO/CFO (Offer Extension and Negotiation)",
+          "HR Representative (Onboarding Preparation) & New Hire's Direct Supervisor",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 2
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 2,
+    "budget_range": "competitive",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "N Ai Engineer"
+    ]
+  },
+  "timestamp": "2025-09-10T01:12:34.630859"
+}

@@ -1,0 +1,162 @@
+{
+  "session_id": "dd5bfcd9",
+  "last_input": "refinement",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our high-growth startup as a Data Analyst in Boston and drive business decisions with data-driven insights! You'll work closely with our cross-functional teams located in Boston to develop predictive models, optimize processes, and inform product development. If you're passionate about making an impact with data in the Boston area, we'd love to hear from you!",
+        "responsibilities": [
+          "Develop and maintain complex datasets to inform business decisions",
+          "Design and implement data visualizations to communicate insights to stakeholders",
+          "Collaborate with our engineering team located in Boston to build data pipelines and ETL processes",
+          "Work closely with our product teams to develop predictive models and A/B testing strategies",
+          "Identify areas of inefficiency and optimize processes using data analysis",
+          "Develop and maintain a deep understanding of our business operations and performance metrics",
+          "Communicate insights and recommendations to stakeholders through clear, concise reporting",
+          "Stay up-to-date with the latest industry trends and advancements in data science"
+        ],
+        "requirements": [
+          "3+ years of experience as a Data Analyst or similar role in Boston",
+          "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+          "Expertise in SQL, Python, and Excel (or equivalent skills)",
+          "Strong understanding of statistical concepts and data visualization principles",
+          "Experience with data visualization tools such as Tableau or Power BI",
+          "Ability to communicate complex technical concepts to non-technical stakeholders",
+          "Strong problem-solving skills and attention to detail",
+          "Familiarity with cloud-based data platforms (e.g. AWS, GCP)",
+          "Experience with version control systems (e.g. Git)"
+        ],
+        "compensation_note": "$60k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1-2: Sourcing - Utilize social media, job boards, and employee referrals to create a pipeline of 20+ qualified candidates.",
+        "Week 3: Initial Screening - Conduct async video screenings (10-15 minutes) using tools like Loom or Calendly to assess candidate fit and basic skills.",
+        "Week 4: Skills Assessments - Send pre-recorded coding challenges, data analysis tasks, or other relevant assessments to top candidates to evaluate technical abilities.",
+        "Week 5: Interviews - Conduct a mix of in-person (if possible) and async video interviews with the hiring manager, team lead, and/or CEO to gauge cultural fit and experience.",
+        "Week 6-7: Reference Checks - Verify candidate references through phone or video calls with previous managers or colleagues to confirm performance and work ethic.",
+        "Week 8: Offer & Onboarding - Extend a job offer to the top candidate, finalize paperwork, and plan for a smooth onboarding process."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR Specialist (Recruitment)",
+        "Team Lead/Department Head",
+        "CEO/CFO (Final Interview)",
+        "Hiring Manager/Team Lead",
+        "HR Generalist"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n#### Summary\nJoin our high-growth startup as a Data Analyst and drive business decisions with data-driven insights! You'll work closely with our cross-functional teams to develop predictive models, optimize processes, and inform product development. If you're passionate about making an impact with data, we'd love to hear from you!\n#### Key Responsibilities\n- Develop and maintain complex datasets to inform business decisions\n- Design and implement data visualizations to communicate insights to stakeholders\n- Collaborate with our engineering team to build data pipelines and ETL processes\n- Work closely with our product teams to develop predictive models and A/B testing strategies\n- Identify areas of inefficiency and optimize processes using data analysis\n- Develop and maintain a deep understanding of our business operations and performance metrics\n- Communicate insights and recommendations to stakeholders through clear, concise reporting\n- Stay up-to-date with the latest industry trends and advancements in data science\n#### Requirements\n- 2+ years of experience as a Data Analyst or similar role\n- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field\n- Expertise in SQL, Python, and Excel (or equivalent skills)\n- Strong understanding of statistical concepts and data visualization principles\n- Experience with data visualization tools such as Tableau or Power BI\n- Ability to communicate complex technical concepts to non-technical stakeholders\n- Strong problem-solving skills and attention to detail\n- Familiarity with cloud-based data platforms (e.g. AWS, GCP)\n- Experience with version control systems (e.g. Git)\n**Compensation:** $80k-$120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Week 1-2: Sourcing - Utilize social media, job boards, and employee referrals to create a pipeline of 20+ qualified candidates.  \n   *Owner: Hiring Manager*\n2. Week 3: Initial Screening - Conduct async video screenings (10-15 minutes) using tools like Loom or Calendly to assess candidate fit and basic skills.  \n   *Owner: HR Specialist (Recruitment)*\n3. Week 4: Skills Assessments - Send pre-recorded coding challenges, data analysis tasks, or other relevant assessments to top candidates to evaluate technical abilities.  \n   *Owner: Team Lead/Department Head*\n4. Week 5: Interviews - Conduct a mix of in-person (if possible) and async video interviews with the hiring manager, team lead, and/or CEO to gauge cultural fit and experience.  \n   *Owner: CEO/CFO (Final Interview)*\n5. Week 6-7: Reference Checks - Verify candidate references through phone or video calls with previous managers or colleagues to confirm performance and work ethic.  \n   *Owner: Hiring Manager/Team Lead*\n6. Week 8: Offer & Onboarding - Extend a job offer to the top candidate, finalize paperwork, and plan for a smooth onboarding process.  \n   *Owner: HR Generalist*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied data analysis, sql, python? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using data analysis. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "$80,000 - $100,000 per year",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "Remote",
+        "key_skills": [
+          "data analysis",
+          "sql",
+          "python",
+          "excel",
+          "data visualization"
+        ],
+        "roles": [
+          "Data Analyst"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our high-growth startup as a Data Analyst in Boston and drive business decisions with data-driven insights! You'll work closely with our cross-functional teams located in Boston to develop predictive models, optimize processes, and inform product development. If you're passionate about making an impact with data in the Boston area, we'd love to hear from you!",
+          "responsibilities": [
+            "Develop and maintain complex datasets to inform business decisions",
+            "Design and implement data visualizations to communicate insights to stakeholders",
+            "Collaborate with our engineering team located in Boston to build data pipelines and ETL processes",
+            "Work closely with our product teams to develop predictive models and A/B testing strategies",
+            "Identify areas of inefficiency and optimize processes using data analysis",
+            "Develop and maintain a deep understanding of our business operations and performance metrics",
+            "Communicate insights and recommendations to stakeholders through clear, concise reporting",
+            "Stay up-to-date with the latest industry trends and advancements in data science"
+          ],
+          "requirements": [
+            "3+ years of experience as a Data Analyst or similar role in Boston",
+            "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+            "Expertise in SQL, Python, and Excel (or equivalent skills)",
+            "Strong understanding of statistical concepts and data visualization principles",
+            "Experience with data visualization tools such as Tableau or Power BI",
+            "Ability to communicate complex technical concepts to non-technical stakeholders",
+            "Strong problem-solving skills and attention to detail",
+            "Familiarity with cloud-based data platforms (e.g. AWS, GCP)",
+            "Experience with version control systems (e.g. Git)"
+          ],
+          "compensation_note": "$60k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1-2: Sourcing - Utilize social media, job boards, and employee referrals to create a pipeline of 20+ qualified candidates.",
+          "Week 3: Initial Screening - Conduct async video screenings (10-15 minutes) using tools like Loom or Calendly to assess candidate fit and basic skills.",
+          "Week 4: Skills Assessments - Send pre-recorded coding challenges, data analysis tasks, or other relevant assessments to top candidates to evaluate technical abilities.",
+          "Week 5: Interviews - Conduct a mix of in-person (if possible) and async video interviews with the hiring manager, team lead, and/or CEO to gauge cultural fit and experience.",
+          "Week 6-7: Reference Checks - Verify candidate references through phone or video calls with previous managers or colleagues to confirm performance and work ethic.",
+          "Week 8: Offer & Onboarding - Extend a job offer to the top candidate, finalize paperwork, and plan for a smooth onboarding process."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR Specialist (Recruitment)",
+          "Team Lead/Department Head",
+          "CEO/CFO (Final Interview)",
+          "Hiring Manager/Team Lead",
+          "HR Generalist"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied data analysis, sql, python? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using data analysis. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": null,
+  "timestamp": "2025-09-11T16:20:18.273797"
+}

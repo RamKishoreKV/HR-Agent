@@ -1,0 +1,220 @@
+{
+  "session_id": "4ac36e34",
+  "last_input": "help me hire a data analyst",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "Data Analyst",
+        "summary": "Join our mission to revolutionize [industry/field] by leveraging data insights to drive growth and impact. As a junior Data Analyst, you'll play a critical role in shaping our data-driven decision-making process and contributing to the development of cutting-edge analytics tools.",
+        "responsibilities": [
+          "Design and implement data visualizations using Tableau or Power BI to communicate complex insights to stakeholders",
+          "Develop and maintain databases, ETL processes, and data pipelines to ensure seamless data flow and accuracy",
+          "Analyze large datasets to identify trends, patterns, and correlations that inform business decisions",
+          "Collaborate with cross-functional teams to develop data-driven solutions for marketing, sales, and product development",
+          "Implement machine learning models to improve predictive capabilities and automate decision-making processes",
+          "Stay up-to-date with industry developments and emerging technologies in data analysis and visualization",
+          "Identify areas of improvement within our existing analytics infrastructure and propose innovative solutions",
+          "Develop and maintain documentation for data sources, processes, and methodologies to ensure transparency and reproducibility"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field (or equivalent experience)",
+          "2+ years of experience in data analysis, SQL, Excel, and statistics",
+          "Proficiency in at least one programming language (Python, R, etc.) and familiarity with machine learning libraries",
+          "Experience with Tableau, Power BI, or other data visualization tools",
+          "Strong communication and collaboration skills to work effectively with cross-functional teams",
+          "Ability to learn quickly and adapt to new technologies and processes",
+          "Familiarity with big data platforms (Hadoop, Spark, etc.) and distributed computing environments",
+          "Certifications in data analysis, statistics, or machine learning (e.g., Google Data Analytics Certification)"
+        ],
+        "compensation_note": "$100k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      },
+      {
+        "title": "Business Intelligence Developer",
+        "summary": "Join our high-growth startup as a Business Intelligence Developer, where you'll play a key role in driving data-driven decisions and shaping our business strategy. You'll have the opportunity to work with cutting-edge tools and technologies, and contribute to our mission of revolutionizing [industry/field].",
+        "responsibilities": [
+          "Design and develop robust data visualizations and dashboards using Tableau and Power BI to inform business decisions and drive growth",
+          "Collaborate with cross-functional teams to identify business requirements and develop data-driven solutions",
+          "Develop and maintain complex SQL queries and database models to extract insights from large datasets",
+          "Apply statistical modeling and machine learning techniques to uncover hidden trends and patterns in data",
+          "Create interactive reports and dashboards using Excel, Tableau, and Power BI to facilitate stakeholder engagement and communication",
+          "Stay up-to-date with industry trends and emerging technologies, identifying opportunities for innovation and improvement",
+          "Develop and maintain a strong understanding of our business operations and goals, applying data analysis skills to drive strategic decisions"
+        ],
+        "requirements": [
+          "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+          "1-2 years of experience in Business Intelligence development, data analysis, or related field",
+          "Strong proficiency in SQL, Excel, and statistical software (e.g. R, Python)",
+          "Experience with Tableau, Power BI, or other data visualization tools",
+          "Basic understanding of machine learning concepts and algorithms",
+          "Ability to communicate complex technical information to non-technical stakeholders",
+          "Strong analytical and problem-solving skills, with attention to detail and ability to work in a fast-paced environment"
+        ],
+        "compensation_note": "$100k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Week 1: Sourcing - Utilize LinkedIn, job boards, and employee referrals to create a pipeline of potential candidates (Hiring Manager & HR)",
+        "Week 2-3: Async Video Screening & Skills Assessments - Use platforms like Calendly or Loom for initial screenings and skills assessments to narrow down the candidate pool (Team Lead)",
+        "Week 2-3: Interviews - Conduct in-person interviews with top candidates, focusing on company culture fit and technical expertise (Hiring Manager)",
+        "Week 4: Reference Checks & Offer Extension - Verify candidate references and extend an offer to the selected candidate (HR & CEO)",
+        "Week 4: Onboarding Preparation - Prepare for new hire's first day, including setting up equipment, access, and onboarding materials (Team Lead)"
+      ],
+      "owners": [
+        "Hiring Manager",
+        "Team Lead",
+        "Hiring Manager",
+        "HR & CEO",
+        "Team Lead"
+      ],
+      "timeline_weeks": 4
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **Data Analyst, Business Intelligence Developer**. The target timeline is **4 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### Data Analyst\n#### Summary\nJoin our mission to revolutionize [industry/field] by leveraging data insights to drive growth and impact. As a junior Data Analyst, you'll play a critical role in shaping our data-driven decision-making process and contributing to the development of cutting-edge analytics tools.\n#### Key Responsibilities\n- Design and implement data visualizations using Tableau or Power BI to communicate complex insights to stakeholders\n- Develop and maintain databases, ETL processes, and data pipelines to ensure seamless data flow and accuracy\n- Analyze large datasets to identify trends, patterns, and correlations that inform business decisions\n- Collaborate with cross-functional teams to develop data-driven solutions for marketing, sales, and product development\n- Implement machine learning models to improve predictive capabilities and automate decision-making processes\n- Stay up-to-date with industry developments and emerging technologies in data analysis and visualization\n- Identify areas of improvement within our existing analytics infrastructure and propose innovative solutions\n- Develop and maintain documentation for data sources, processes, and methodologies to ensure transparency and reproducibility\n#### Requirements\n- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field (or equivalent experience)\n- 2+ years of experience in data analysis, SQL, Excel, and statistics\n- Proficiency in at least one programming language (Python, R, etc.) and familiarity with machine learning libraries\n- Experience with Tableau, Power BI, or other data visualization tools\n- Strong communication and collaboration skills to work effectively with cross-functional teams\n- Ability to learn quickly and adapt to new technologies and processes\n- Familiarity with big data platforms (Hadoop, Spark, etc.) and distributed computing environments\n- Certifications in data analysis, statistics, or machine learning (e.g., Google Data Analytics Certification)\n**Compensation:** $100k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n### Business Intelligence Developer\n#### Summary\nJoin our high-growth startup as a Business Intelligence Developer, where you'll play a key role in driving data-driven decisions and shaping our business strategy. You'll have the opportunity to work with cutting-edge tools and technologies, and contribute to our mission of revolutionizing [industry/field].\n#### Key Responsibilities\n- Design and develop robust data visualizations and dashboards using Tableau and Power BI to inform business decisions and drive growth\n- Collaborate with cross-functional teams to identify business requirements and develop data-driven solutions\n- Develop and maintain complex SQL queries and database models to extract insights from large datasets\n- Apply statistical modeling and machine learning techniques to uncover hidden trends and patterns in data\n- Create interactive reports and dashboards using Excel, Tableau, and Power BI to facilitate stakeholder engagement and communication\n- Stay up-to-date with industry trends and emerging technologies, identifying opportunities for innovation and improvement\n- Develop and maintain a strong understanding of our business operations and goals, applying data analysis skills to drive strategic decisions\n#### Requirements\n- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field\n- 1-2 years of experience in Business Intelligence development, data analysis, or related field\n- Strong proficiency in SQL, Excel, and statistical software (e.g. R, Python)\n- Experience with Tableau, Power BI, or other data visualization tools\n- Basic understanding of machine learning concepts and algorithms\n- Ability to communicate complex technical information to non-technical stakeholders\n- Strong analytical and problem-solving skills, with attention to detail and ability to work in a fast-paced environment\n**Compensation:** $100k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 4 weeks\n**Process Steps:**\n1. Week 1: Sourcing - Utilize LinkedIn, job boards, and employee referrals to create a pipeline of potential candidates (Hiring Manager & HR)  \n   *Owner: Hiring Manager*\n2. Week 2-3: Async Video Screening & Skills Assessments - Use platforms like Calendly or Loom for initial screenings and skills assessments to narrow down the candidate pool (Team Lead)  \n   *Owner: Team Lead*\n3. Week 2-3: Interviews - Conduct in-person interviews with top candidates, focusing on company culture fit and technical expertise (Hiring Manager)  \n   *Owner: Hiring Manager*\n4. Week 4: Reference Checks & Offer Extension - Verify candidate references and extend an offer to the selected candidate (HR & CEO)  \n   *Owner: HR & CEO*\n5. Week 4: Onboarding Preparation - Prepare for new hire's first day, including setting up equipment, access, and onboarding materials (Team Lead)  \n   *Owner: Team Lead*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Data Analysis, SQL, Excel? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Data Analysis. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 4,
+        "budget_range": "$100k",
+        "seniority": "junior",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Data Analysis",
+          "SQL",
+          "Excel",
+          "Statistics",
+          "Machine Learning",
+          "Data Visualization",
+          "Tableau",
+          "Power BI",
+          "Data Mining",
+          "Big Data"
+        ],
+        "roles": [
+          "Data Analyst",
+          "Business Intelligence Developer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "Data Analyst",
+          "summary": "Join our mission to revolutionize [industry/field] by leveraging data insights to drive growth and impact. As a junior Data Analyst, you'll play a critical role in shaping our data-driven decision-making process and contributing to the development of cutting-edge analytics tools.",
+          "responsibilities": [
+            "Design and implement data visualizations using Tableau or Power BI to communicate complex insights to stakeholders",
+            "Develop and maintain databases, ETL processes, and data pipelines to ensure seamless data flow and accuracy",
+            "Analyze large datasets to identify trends, patterns, and correlations that inform business decisions",
+            "Collaborate with cross-functional teams to develop data-driven solutions for marketing, sales, and product development",
+            "Implement machine learning models to improve predictive capabilities and automate decision-making processes",
+            "Stay up-to-date with industry developments and emerging technologies in data analysis and visualization",
+            "Identify areas of improvement within our existing analytics infrastructure and propose innovative solutions",
+            "Develop and maintain documentation for data sources, processes, and methodologies to ensure transparency and reproducibility"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field (or equivalent experience)",
+            "2+ years of experience in data analysis, SQL, Excel, and statistics",
+            "Proficiency in at least one programming language (Python, R, etc.) and familiarity with machine learning libraries",
+            "Experience with Tableau, Power BI, or other data visualization tools",
+            "Strong communication and collaboration skills to work effectively with cross-functional teams",
+            "Ability to learn quickly and adapt to new technologies and processes",
+            "Familiarity with big data platforms (Hadoop, Spark, etc.) and distributed computing environments",
+            "Certifications in data analysis, statistics, or machine learning (e.g., Google Data Analytics Certification)"
+          ],
+          "compensation_note": "$100k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        },
+        {
+          "title": "Business Intelligence Developer",
+          "summary": "Join our high-growth startup as a Business Intelligence Developer, where you'll play a key role in driving data-driven decisions and shaping our business strategy. You'll have the opportunity to work with cutting-edge tools and technologies, and contribute to our mission of revolutionizing [industry/field].",
+          "responsibilities": [
+            "Design and develop robust data visualizations and dashboards using Tableau and Power BI to inform business decisions and drive growth",
+            "Collaborate with cross-functional teams to identify business requirements and develop data-driven solutions",
+            "Develop and maintain complex SQL queries and database models to extract insights from large datasets",
+            "Apply statistical modeling and machine learning techniques to uncover hidden trends and patterns in data",
+            "Create interactive reports and dashboards using Excel, Tableau, and Power BI to facilitate stakeholder engagement and communication",
+            "Stay up-to-date with industry trends and emerging technologies, identifying opportunities for innovation and improvement",
+            "Develop and maintain a strong understanding of our business operations and goals, applying data analysis skills to drive strategic decisions"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+            "1-2 years of experience in Business Intelligence development, data analysis, or related field",
+            "Strong proficiency in SQL, Excel, and statistical software (e.g. R, Python)",
+            "Experience with Tableau, Power BI, or other data visualization tools",
+            "Basic understanding of machine learning concepts and algorithms",
+            "Ability to communicate complex technical information to non-technical stakeholders",
+            "Strong analytical and problem-solving skills, with attention to detail and ability to work in a fast-paced environment"
+          ],
+          "compensation_note": "$100k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Week 1: Sourcing - Utilize LinkedIn, job boards, and employee referrals to create a pipeline of potential candidates (Hiring Manager & HR)",
+          "Week 2-3: Async Video Screening & Skills Assessments - Use platforms like Calendly or Loom for initial screenings and skills assessments to narrow down the candidate pool (Team Lead)",
+          "Week 2-3: Interviews - Conduct in-person interviews with top candidates, focusing on company culture fit and technical expertise (Hiring Manager)",
+          "Week 4: Reference Checks & Offer Extension - Verify candidate references and extend an offer to the selected candidate (HR & CEO)",
+          "Week 4: Onboarding Preparation - Prepare for new hire's first day, including setting up equipment, access, and onboarding materials (Team Lead)"
+        ],
+        "owners": [
+          "Hiring Manager",
+          "Team Lead",
+          "Hiring Manager",
+          "HR & CEO",
+          "Team Lead"
+        ],
+        "timeline_weeks": 4
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Data Analysis, SQL, Excel? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Data Analysis. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 4,
+    "budget_range": "$100k",
+    "seniority": "junior",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "Data Analyst",
+      "Business Intelligence Developer"
+    ]
+  },
+  "timestamp": "2025-09-11T16:41:20.964772"
+}

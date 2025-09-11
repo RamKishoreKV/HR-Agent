@@ -1,0 +1,170 @@
+{
+  "session_id": "3cf138f8",
+  "last_input": "help me hire a data analyst and gen ai intenr",
+  "last_output": {
+    "clarifications_asked": [],
+    "jd_drafts": [
+      {
+        "title": "AI Engineer",
+        "summary": "Join our mission to revolutionize AI development with cutting-edge tech and a team of innovators. As an AI Engineer at our startup, you'll play a key role in crafting AI solutions that drive real-world impact. If you're passionate about LLMs, Python, and pushing the boundaries of what's possible with AI, let's connect!",
+        "responsibilities": [
+          "Design, develop, and deploy AI models using cutting-edge libraries like LangChain, Transformers, and Vector Databases",
+          "Collaborate with our team to integrate AI into our product, driving user adoption and business growth",
+          "Stay up-to-date with the latest advancements in NLP and prompt engineering, applying this knowledge to improve our models and workflows",
+          "Develop and maintain high-performance, scalable architecture for model serving and inference",
+          "Contribute to the development of our internal tooling and infrastructure for AI research and development",
+          "Work closely with our data science team to integrate AI into our product roadmap and drive business outcomes",
+          "Identify areas for process improvement and contribute to the development of best practices for AI development at our startup"
+        ],
+        "requirements": [
+          "3+ years of experience in developing AI models using Python, LLMs, LangChain, Transformers, or similar technologies",
+          "Strong understanding of prompt engineering, embeddings, and model serving concepts",
+          "Experience with Vector Databases or similar technology for efficient data storage and retrieval",
+          "Solid programming skills in Python, including proficiency with libraries like NumPy, Pandas, and scikit-learn",
+          "Ability to work independently and collaboratively as part of a fast-paced, growth-minded team",
+          "Excellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders",
+          "Strong problem-solving skills, with the ability to identify and prioritize areas for improvement in our AI development processes"
+        ],
+        "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+      }
+    ],
+    "hiring_plan": {
+      "steps": [
+        "Weeks 1-2: Sourcing - Utilize social media, online communities, and job boards to reach a wide pool of potential candidates.",
+        "Weeks 2-3: Initial Screening (Async Video) - Use video screening tools to quickly assess candidate fit and move forward top contenders.",
+        "Week 3-4: Skills Assessments (AI-specific challenges) - Engage candidates in AI-focused coding exercises to gauge technical abilities.",
+        "Weeks 5-6: Technical Interviews (Pair Programming) - Conduct in-person or virtual interviews with the development team to evaluate collaboration and problem-solving skills.",
+        "Week 6-7: Reference Checks - Verify candidate claims through background checks and professional references.",
+        "Week 8: Offer and Onboarding - Present offer to selected candidate, and ensure a seamless transition into the role."
+      ],
+      "owners": [
+        "Hiring Manager",
+        "HR (Recruitment Team)",
+        "Team Lead (AI Engineer)",
+        "Hiring Manager & Team Lead (AI Engineer)",
+        "CEO/Founder",
+        "Hiring Manager"
+      ],
+      "timeline_weeks": 8
+    },
+    "raw_markdown": "# Hiring Plan Report\n## Executive Summary\nThis hiring plan outlines the process to recruit **AI Engineer**. The target timeline is **8 week(s)**. The plan includes sourcing, screening, assessment, interviews, and onboarding.\n\n## Job Descriptions\n### AI Engineer\n#### Summary\nJoin our mission to revolutionize AI development with cutting-edge tech and a team of innovators. As an AI Engineer at our startup, you'll play a key role in crafting AI solutions that drive real-world impact. If you're passionate about LLMs, Python, and pushing the boundaries of what's possible with AI, let's connect!\n#### Key Responsibilities\n- Design, develop, and deploy AI models using cutting-edge libraries like LangChain, Transformers, and Vector Databases\n- Collaborate with our team to integrate AI into our product, driving user adoption and business growth\n- Stay up-to-date with the latest advancements in NLP and prompt engineering, applying this knowledge to improve our models and workflows\n- Develop and maintain high-performance, scalable architecture for model serving and inference\n- Contribute to the development of our internal tooling and infrastructure for AI research and development\n- Work closely with our data science team to integrate AI into our product roadmap and drive business outcomes\n- Identify areas for process improvement and contribute to the development of best practices for AI development at our startup\n#### Requirements\n- 3+ years of experience in developing AI models using Python, LLMs, LangChain, Transformers, or similar technologies\n- Strong understanding of prompt engineering, embeddings, and model serving concepts\n- Experience with Vector Databases or similar technology for efficient data storage and retrieval\n- Solid programming skills in Python, including proficiency with libraries like NumPy, Pandas, and scikit-learn\n- Ability to work independently and collaboratively as part of a fast-paced, growth-minded team\n- Excellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders\n- Strong problem-solving skills, with the ability to identify and prioritize areas for improvement in our AI development processes\n**Compensation:** $120k plus equity package with startup benefits (health, dental, unlimited PTO)\n\n\n## Hiring Process Plan\n**Timeline:** 8 weeks\n**Process Steps:**\n1. Weeks 1-2: Sourcing - Utilize social media, online communities, and job boards to reach a wide pool of potential candidates.  \n   *Owner: Hiring Manager*\n2. Weeks 2-3: Initial Screening (Async Video) - Use video screening tools to quickly assess candidate fit and move forward top contenders.  \n   *Owner: HR (Recruitment Team)*\n3. Week 3-4: Skills Assessments (AI-specific challenges) - Engage candidates in AI-focused coding exercises to gauge technical abilities.  \n   *Owner: Team Lead (AI Engineer)*\n4. Weeks 5-6: Technical Interviews (Pair Programming) - Conduct in-person or virtual interviews with the development team to evaluate collaboration and problem-solving skills.  \n   *Owner: Hiring Manager & Team Lead (AI Engineer)*\n5. Week 6-7: Reference Checks - Verify candidate claims through background checks and professional references.  \n   *Owner: CEO/Founder*\n6. Week 8: Offer and Onboarding - Present offer to selected candidate, and ensure a seamless transition into the role.  \n   *Owner: Hiring Manager*\n\n## Interview Kit\n**Screening Questions:**\n- Can you walk me through a recent project where you applied Python, LLMs, LangChain? What was your specific impact?\n- How do you measure success in this role, and what metrics did you move recently?\n- Describe a challenging problem you solved using Python. What trade-offs did you consider?\n- What does good code/analysis quality look like to you, and how do you ensure it under deadlines?\n- Tell me about a time you collaborated cross-functionally. How did you handle misalignment?\n**Evaluation Rubric:**\n- Technical depth\n- Problem solving\n- Communication\n- Ownership & initiative\n- Collaboration & culture add\n**Scorecard Fields:**\n- Technical Depth (1-5)\n- Problem Solving (1-5)\n- Communication (1-5)\n- Culture Add (1-5)\n- Overall Recommendation\n- Notes\n\n## Next Steps\n- Share this plan with stakeholders for alignment.\n- Start sourcing and schedule initial screens.\n- Prepare assessments and interview materials.",
+    "raw_json": {
+      "extraction": {
+        "company_stage": "startup",
+        "timeline_weeks": 8,
+        "budget_range": "$120k",
+        "seniority": "mid",
+        "employment_type": "full-time",
+        "location": "remote",
+        "key_skills": [
+          "Python",
+          "LLMs",
+          "LangChain",
+          "Transformers",
+          "Vector Databases",
+          "Prompt Engineering",
+          "Embeddings",
+          "Model Serving"
+        ],
+        "roles": [
+          "AI Engineer"
+        ]
+      },
+      "job_descriptions": [
+        {
+          "title": "AI Engineer",
+          "summary": "Join our mission to revolutionize AI development with cutting-edge tech and a team of innovators. As an AI Engineer at our startup, you'll play a key role in crafting AI solutions that drive real-world impact. If you're passionate about LLMs, Python, and pushing the boundaries of what's possible with AI, let's connect!",
+          "responsibilities": [
+            "Design, develop, and deploy AI models using cutting-edge libraries like LangChain, Transformers, and Vector Databases",
+            "Collaborate with our team to integrate AI into our product, driving user adoption and business growth",
+            "Stay up-to-date with the latest advancements in NLP and prompt engineering, applying this knowledge to improve our models and workflows",
+            "Develop and maintain high-performance, scalable architecture for model serving and inference",
+            "Contribute to the development of our internal tooling and infrastructure for AI research and development",
+            "Work closely with our data science team to integrate AI into our product roadmap and drive business outcomes",
+            "Identify areas for process improvement and contribute to the development of best practices for AI development at our startup"
+          ],
+          "requirements": [
+            "3+ years of experience in developing AI models using Python, LLMs, LangChain, Transformers, or similar technologies",
+            "Strong understanding of prompt engineering, embeddings, and model serving concepts",
+            "Experience with Vector Databases or similar technology for efficient data storage and retrieval",
+            "Solid programming skills in Python, including proficiency with libraries like NumPy, Pandas, and scikit-learn",
+            "Ability to work independently and collaboratively as part of a fast-paced, growth-minded team",
+            "Excellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders",
+            "Strong problem-solving skills, with the ability to identify and prioritize areas for improvement in our AI development processes"
+          ],
+          "compensation_note": "$120k plus equity package with startup benefits (health, dental, unlimited PTO)"
+        }
+      ],
+      "hiring_plan": {
+        "steps": [
+          "Weeks 1-2: Sourcing - Utilize social media, online communities, and job boards to reach a wide pool of potential candidates.",
+          "Weeks 2-3: Initial Screening (Async Video) - Use video screening tools to quickly assess candidate fit and move forward top contenders.",
+          "Week 3-4: Skills Assessments (AI-specific challenges) - Engage candidates in AI-focused coding exercises to gauge technical abilities.",
+          "Weeks 5-6: Technical Interviews (Pair Programming) - Conduct in-person or virtual interviews with the development team to evaluate collaboration and problem-solving skills.",
+          "Week 6-7: Reference Checks - Verify candidate claims through background checks and professional references.",
+          "Week 8: Offer and Onboarding - Present offer to selected candidate, and ensure a seamless transition into the role."
+        ],
+        "owners": [
+          "Hiring Manager",
+          "HR (Recruitment Team)",
+          "Team Lead (AI Engineer)",
+          "Hiring Manager & Team Lead (AI Engineer)",
+          "CEO/Founder",
+          "Hiring Manager"
+        ],
+        "timeline_weeks": 8
+      },
+      "interview_kit": {
+        "screening_questions": [
+          "Can you walk me through a recent project where you applied Python, LLMs, LangChain? What was your specific impact?",
+          "How do you measure success in this role, and what metrics did you move recently?",
+          "Describe a challenging problem you solved using Python. What trade-offs did you consider?",
+          "What does good code/analysis quality look like to you, and how do you ensure it under deadlines?",
+          "Tell me about a time you collaborated cross-functionally. How did you handle misalignment?"
+        ],
+        "screening_guide": [
+          {
+            "question": "Describe a recent project and your specific impact.",
+            "what_to_evaluate": "Clarity, ownership, measurable outcomes"
+          },
+          {
+            "question": "Walk me through a tough technical decision.",
+            "what_to_evaluate": "Trade-offs, reasoning, stakeholder alignment"
+          }
+        ],
+        "evaluation_rubric": [
+          "Technical depth",
+          "Problem solving",
+          "Communication",
+          "Ownership & initiative",
+          "Collaboration & culture add"
+        ],
+        "scorecard": [
+          "Technical Depth (1-5)",
+          "Problem Solving (1-5)",
+          "Communication (1-5)",
+          "Culture Add (1-5)",
+          "Overall Recommendation",
+          "Notes"
+        ],
+        "outreach_subject": "",
+        "outreach_body": ""
+      },
+      "clarifications_asked": [],
+      "timestamp": "generated"
+    }
+  },
+  "extraction": {
+    "company_stage": "startup",
+    "timeline_weeks": 8,
+    "budget_range": "$120k",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "location": "remote",
+    "key_skills": [],
+    "roles": [
+      "AI Engineer"
+    ]
+  },
+  "timestamp": "2025-09-11T16:37:56.893236"
+}
