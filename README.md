@@ -73,15 +73,6 @@ OLLAMA_MODEL=llama3.1:8b
 # OpenAI (cloud)
 OPENAI_API_KEY=sk-...
 OPENAI_MODEL=gpt-4o-mini
-
-# Optional: Google Custom Search (for simulate_search)
-GOOGLE_API_KEY=...
-GOOGLE_CSE_ID=...
-# or GOOGLE_SEARCH_CX=...
-
-# Optional: UI defaults for Email drafts
-COMPANY_NAME=Your Company
-RECRUITER_NAME=Your Name
 ```
 ## ⚙️ Notes on LLM Providers
 
