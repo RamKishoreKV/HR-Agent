@@ -1,3 +1,5 @@
+
+
 # HR Hiring Copilot
 
 An AI-first hiring assistant that turns a short request like “hire a founding engineer and a GenAI intern” into:
@@ -7,6 +9,9 @@ An AI-first hiring assistant that turns a short request like “hire a founding 
 - Useful tools (search, email drafts, LinkedIn boolean query, job board shortcuts)
 
 Built with LangGraph and Streamlit. Runs on OpenAI or local Ollama.
+
+[![Watch the Demo](docs/demo.png)](https://drive.google.com/file/d/1SuRrD0AJhNF_aBqM14lQZuACt7Lc_yon/view?usp=sharing)
+
 
 ## 🚀 Features
 
