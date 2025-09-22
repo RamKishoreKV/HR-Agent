@@ -1,6 +1,6 @@
 
 
-# HR Hiring Copilot [![Demo Video](https://img.shields.io/badge/Demo-Video-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SuRrD0AJhNF_aBqM14lQZuACt7Lc_yon/view?usp=sharing)
+# HR Hiring Copilot 
 
 An AI-first hiring assistant that turns a short request like “hire a founding engineer and a GenAI intern” into:
 - LinkedIn-style job descriptions
@@ -9,6 +9,11 @@ An AI-first hiring assistant that turns a short request like “hire a founding 
 - Useful tools (search, email drafts, LinkedIn boolean query, job board shortcuts)
 
 Built with LangGraph and Streamlit. Runs on OpenAI or local Ollama.
+
+## 🎥 Demo
+[![Demo Video](https://img.shields.io/badge/Watch-Demo-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SuRrD0AJhNF_aBqM14lQZuACt7Lc_yon/view?usp=sharing)
+
+*(Click the badge above to watch the demo video on Google Drive)*
 
 ## 🚀 Features
 
