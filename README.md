@@ -10,7 +10,7 @@ An AI-first hiring assistant that turns a short request like “hire a founding 
 
 Built with LangGraph and Streamlit. Runs on OpenAI or local Ollama.
 
-[![Watch the Demo](docs/demo.png)](https://drive.google.com/file/d/1SuRrD0AJhNF_aBqM14lQZuACt7Lc_yon/view?usp=sharing)
+[![Demo Video](https://img.shields.io/badge/Demo-Video-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SuRrD0AJhNF_aBqM14lQZuACt7Lc_yon/view?usp=sharing)
 
 
 ## 🚀 Features
